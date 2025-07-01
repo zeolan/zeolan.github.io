@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Прикметники: частина 3"
+date: 2025-07-01 18:30:00 +0300
+---
+
+{% include adjective_3.html %}
