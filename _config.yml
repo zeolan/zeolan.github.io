@@ -23,10 +23,6 @@ author: Alex Z
 email: zealan74@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Вивчай румунську легко та з задоволенням!
-  Цей сайт створений для тих, хто хоче опанувати румунську мову — 
-  від перших слів до впевненого спілкування.
-  Інтерактивні уроки, практичні вправи, корисні поради та жива мова — 
-  усе, щоб ти заговорив румунською впевнено й із задоволенням.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
