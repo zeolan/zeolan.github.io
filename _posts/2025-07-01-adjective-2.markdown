@@ -2,6 +2,7 @@
 layout: post
 title: "Прикметники: частина 2"
 date: 2025-07-01 12:30:00 +0300
+category: adjective
 img: "https://screens.cdn.wordwall.net/200/6be83ece6363410fb2c36f3a55435051_0"
 ---
 
