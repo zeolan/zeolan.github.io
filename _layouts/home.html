@@ -14,9 +14,20 @@ layout: default
       -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
+        {%- if post.img -%}
+        <a href="{{ post.url | relative_url }}"
+          ><img
+            src="{{ post.img }}"
+            width="200"
+            height="150"
+            style="border: 1px solid grey; display: block"
+          /><span>{{ post.title | escape }}</span></a
+        >
+        {%- else -%}
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
+        {%- endif -%}
       </h3>
       {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
     </li>
