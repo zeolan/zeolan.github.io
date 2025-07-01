@@ -1,6 +1,7 @@
 ---
 title: "Прикметники_1"
 date: 2025-07-01 12:45:00 +0300
+category: jekyll update
 ---
 
 {% include adjective_1.html %}
