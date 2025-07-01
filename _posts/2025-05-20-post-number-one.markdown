@@ -1,6 +1,6 @@
 ---
-title: "Прикметники"
-date: 2025-05-20 21:17:21 +0300
+title: "Прикметники_2"
+date: 2025-07-01 12:30:00 +0300
 ---
 
-{% include wordwall_1.html %}
+{% include adjective_2.html %}
