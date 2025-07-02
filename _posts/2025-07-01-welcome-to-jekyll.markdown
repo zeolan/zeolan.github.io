@@ -2,7 +2,7 @@
 layout: post
 title: "Bine ați venit!"
 date: 2025-07-01 12:00:00 +0300
-categories: jekyll update
+category: update
 ---
 
 Вивчай румунську легко та з задоволенням!

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Кольори: частина 1"
+date: 2025-07-02 14:45:00 +0300
+category: adjective
+img: "https://screens.cdn.wordwall.net/200/35dfc711e3b44c32b19389dd5f3dc013_0"
+---
+
+{% include culori_1.html %}
