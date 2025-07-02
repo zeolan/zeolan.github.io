@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Прислівники: 10 прислівників на А"
+date: 2025-07-02 22:00:00 +0300
+category: adverbe
+img: "https://screens.cdn.wordwall.net/200/84dd8f09e93246a6bbb85644da432765_0"
+---
+
+{% include adverbe_1.html %}

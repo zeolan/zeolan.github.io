@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Прикметники: частина 4"
+date: 2025-07-02 21:30:00 +0300
+category: adjective
+img: "https://screens.cdn.wordwall.net/200/7f3ab67d3ca34e94ae2254b18fc7e295_0"
+---
+
+{% include adjective_4.html %}
