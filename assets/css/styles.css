@@ -1,6 +1,9 @@
+body {
+  font-family: monospace, Courier, "Courier New";
+}
 .wrapper .site-title {
   font-weight: bolder;
-  font-size: 1.3em;
+  font-size: 4vh;
 }
 
 @media screen and (min-width: 200px) {
