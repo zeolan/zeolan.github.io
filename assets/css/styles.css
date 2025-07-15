@@ -21,9 +21,14 @@
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
-
+ul.post-list {
+  gap: 10px;
+}
 ul.post-list li {
   display: flex;
-  gap: 10px;
   justify-content: center;
+  text-align: center;
+  /* border-width: 1px;
+  border-style: solid;
+  border-color: rgb(80, 70, 70); */
 }
