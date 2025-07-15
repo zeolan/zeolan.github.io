@@ -13,13 +13,13 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
       -%}
       <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
-      <h3>
+      <div>
         {%- if post.img -%}
         <a href="{{ post.url | relative_url }}"
           ><img
             src="{{ post.img }}"
-            width="200"
-            height="150"
+            width="90%"
+            height="90%"
             style="border: 1px solid grey; display: block"
           /><span>{{ post.title | escape }}</span></a
         >
@@ -28,7 +28,7 @@ layout: default
           {{ post.title | escape }}
         </a>
         {%- endif -%}
-      </h3>
+      </div>
       {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
     </li>
     {%- endfor -%}
