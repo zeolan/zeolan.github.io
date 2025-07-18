@@ -1,13 +1,35 @@
 ---
-layout: page
-permalink: /categories/
-title: "Categories"
+layout: default
 ---
 
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">{{ content }}</div>
-</article>
+<h1>{{ page.category_alias | capitalize }}</h1>
+<!-- <ul class="">
+  {% for post in page.linked_docs %}
+  <li>
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a>
+  </li>
+  {% endfor %}
+</ul> -->
+<ul class="post-list">
+  {%- for post in page.linked_docs -%}
+  <li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- if post.img -%}
+    <a href="{{ post.url | relative_url }}"
+      ><img
+        src="{{ post.img }}"
+        width="100%"
+        height="90%"
+        style="border: 1px solid grey; display: block"
+      /><span>{{ post.title | escape }}</span></a
+    >
+    {%- else -%}
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a>
+    {%- endif -%} {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>

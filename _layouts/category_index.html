@@ -1,0 +1,9 @@
+<!-- filepath: _layouts/category_index.html -->
+<h1>{{ page.title }}</h1>
+<ul class="category-list">
+  {% for category in page.categories %}
+  <li class="category">
+    <a href="/{{ category }}">{{ page.category_aliases[category] | upcase }}</a>
+  </li>
+  {% endfor %}
+</ul>

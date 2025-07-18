@@ -35,3 +35,40 @@ ul.post-list li {
   border-style: solid;
   border-color: rgb(80, 70, 70); */
 }
+
+.category-list {
+  display: grid;
+  gap: 10px;
+  margin-left: 0;
+  padding: 20px;
+}
+@media screen and (min-width: 200px) {
+  ul.category-list {
+    grid-template-columns: 1fr;
+  }
+}
+@media screen and (min-width: 320px) {
+  ul.category-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media screen and (min-width: 992px) {
+  ul.category-list {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+ul.category-list li {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+a.category {
+  padding: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(80, 70, 70);
+  border-radius: 4px;
+  :hover {
+    background-color: rgb(240, 240, 240);
+  }
+}
