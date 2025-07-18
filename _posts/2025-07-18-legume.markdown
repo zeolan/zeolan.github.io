@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Овочі - legume"
+date: 2025-07-18 11:00:00 +0300
+category: substantive
+img: "https://screens.cdn.wordwall.net/200/3ae3f79e852d4d2e94522f8b24815d6c_2"
+---
+
+{% include legume.html %}
