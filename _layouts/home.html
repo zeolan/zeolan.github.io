@@ -3,15 +3,15 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
+  <!-- {{ site.data.category_aliases | jsonify | safe }} {%- if page.title -%} -->
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} {{ content }} {%- if site.posts.size > 0 -%}
   <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Вправи" }}</h2> -->
 
   <ul class="category-list">
-    {% for category in site.categories %} {% assign alias =
-    site.data.category_aliases[category[0]] | default: category[0] %}
-    <a class="category" href="/{{ category[0] }}/">{{ alias | upcase }}</a>
+    {% for category in site.data.category_aliases %} {% assign alias =
+    category[1] | default: category[0] %}
+    <a class="category" href="/{{ category[0] }}/">{{ alias }}</a>
     {% endfor %}
   </ul>
 

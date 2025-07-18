@@ -32,7 +32,7 @@ module SamplePlugin
     # Load aliases from data file
     aliases = site.data['category_aliases'] || {}
     self.data['category_alias'] = aliases[category] || category
-    print "===========================Category: #{category}, Alias: #{site.data['category_aliases']}\n"
+    #self.data['title'] = aliases[category] || category
 
     data.default_proc = proc do |_, key|
       site.frontmatter_defaults.find(relative_path, :categories, key)
@@ -63,7 +63,7 @@ module SamplePlugin
       self.read_yaml(File.join(@base, "_layouts"), "category_index.html")
       self.data["categories"] = categories
       # self.data["title"] = "Categories"
-      #self.data["category_aliases"] = site.data['category_alias'] || {}
+      self.data["category_aliases"] = site.data['category_alias'] || {}
 
     end
   end
