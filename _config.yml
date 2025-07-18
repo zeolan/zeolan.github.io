@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: none
 #github_username: zeolan
-
+google_analytics: UA-123456789-1 # your Google Analytics tracking ID
 # Build settings
 theme: minima
 plugins:
