@@ -6,4 +6,4 @@ category: verbe
 img: "https://screens.cdn.wordwall.net/200/35dfc711e3b44c32b19389dd5f3dc013_0"
 ---
 
-{% include verbe_1.html %}
+{% include verbe/verbe_1.html %}
