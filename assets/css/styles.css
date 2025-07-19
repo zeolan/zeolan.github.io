@@ -54,6 +54,12 @@ ul.post-list li {
   border-color: rgb(80, 70, 70); */
 }
 
+.post-title {
+  font-weight: bolder;
+  font-size: 28px;
+  margin-bottom: 5px;
+}
+
 .category-list {
   display: grid;
   gap: 15px;
@@ -94,7 +100,7 @@ a.category:hover {
 }
 
 .site-footer {
-  padding: 15px 0;
+  padding: 10px 0;
 }
 .footer-col {
   margin-bottom: 0;
