@@ -6,6 +6,25 @@ body {
   font-size: 20px;
 }
 
+.site-header {
+  border-top: none;
+}
+.site-header-flag {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 100%;
+  min-height: 6px;
+}
+.site-header-flag-1 {
+  background-color: rgb(0, 43, 127);
+}
+.site-header-flag-2 {
+  background-color: rgb(252, 209, 22);
+}
+.site-header-flag-3 {
+  background-color: rgb(206, 17, 38);
+}
+
 ul.post-list {
   display: grid;
   gap: 15px;
