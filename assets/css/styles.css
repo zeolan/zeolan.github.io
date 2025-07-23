@@ -90,8 +90,9 @@ a.category {
   padding: 10px;
   border-width: 1px;
   border-style: solid;
-  border-color: rgba(48, 59, 35, 0.937);
+  border-color: #e8e8e8;
   border-radius: 4px;
+  color: #111;
 }
 a.category:hover {
   background-color: rgb(252, 209, 22, 0.5);
