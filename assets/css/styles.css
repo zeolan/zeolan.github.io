@@ -105,3 +105,8 @@ a.category:hover {
 .footer-col {
   margin-bottom: 0;
 }
+
+.table-bold {
+  font-weight: bolder;
+  font-size: 115%;
+}
