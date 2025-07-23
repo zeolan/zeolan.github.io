@@ -10,6 +10,14 @@ permalink: /about/
 Тут знайдеш різноманітні ітерактивні уроки, практичні вправи, корисні поради та жива мова —
 усе, щоб ти заговорив румунською впевнено й із задоволенням.
 <br><br>
+
+Якщо вам цікаві індивідуальні онлайн-уроки румунської, напишіть мені зручним для вас способом:
+
+<p></p>
+<p class="social-link">Email: zealan74@gmail.com</p>
+<p class="social-link">Telegram: @bi0robot</p>
+<br>
+
 Învață limba română simplu și cu plăcere!
 Acest site este dedicat celor care vor să stăpânească limba română —
 de la primele cuvinte până la conversații fluente.

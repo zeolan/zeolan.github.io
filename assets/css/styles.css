@@ -94,7 +94,7 @@ a.category {
   border-radius: 4px;
 }
 a.category:hover {
-  background-color: rgb(228, 245, 188);
+  background-color: rgb(252, 209, 22, 0.5);
   /* border-width: 2px;
   padding: 18px; */
 }
@@ -109,4 +109,11 @@ a.category:hover {
 .table-bold {
   font-weight: bolder;
   font-size: 115%;
+}
+
+.social-link {
+  font-weight: bolder;
+  margin-bottom: 5px;
+  /* font-size: 120%; */
+  color: rgb(52, 96, 185);
 }
