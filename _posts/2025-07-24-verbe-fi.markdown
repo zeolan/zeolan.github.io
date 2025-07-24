@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Дієслово A FI"
+date: 2025-07-24 15:00:00 +0300
+category: verbe
+img: "https://screens.cdn.wordwall.net/200/21c97c9ba91f4809b5074bfed2ab2d92_0"
+---
+
+{% include verbe/verbe_fi.html %}
