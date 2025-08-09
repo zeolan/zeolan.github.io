@@ -14,11 +14,12 @@ layout: default
 <nav class="breadcrumbs" style="margin-bottom: 1em">
   <a href="{{ '/' | relative_url }}">Головна</a>
   {% if page.categories and page.categories.size > 0 %} {% assign cat =
-  page.categories[0] %} /
+  page.categories[0] %} >
   <a href="/{{ cat }}/"
-    >{{ site.data.category_aliases[cat] | default: cat | capitalize }}</a
+    >{{ site.data.category_aliases[cat] | first_part | default: cat | capitalize
+    }}</a
   >
-  {% endif %} / <span>{{ page.title | escape }}</span>
+  {% endif %} > <span>{{ page.title | escape }}</span>
 </nav>
 <!-- <nav class="breadcrumbs" style="margin-bottom: 1em">
   <a href="{{ '/' | relative_url }}">Головна</a>
