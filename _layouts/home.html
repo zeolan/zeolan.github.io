@@ -12,9 +12,7 @@ layout: default
   <ul class="category-list">
     {% for category in site.data.category_aliases %} {% assign alias =
     category[1] | default: category[0] %}
-    <div class="category">
-      <a class="" href="/{{ category[0] }}/">{{ alias }}</a>
-    </div>
+    <a class="category" href="/{{ category[0] }}/">{{ alias }}</a>
 
     {% endfor %}
   </ul>
