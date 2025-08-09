@@ -39,6 +39,11 @@ ul.post-list {
     grid-template-columns: 1fr 1fr;
   }
 }
+@media screen and (min-width: 600px) {
+  ul.post-list {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
 @media screen and (min-width: 992px) {
   ul.post-list {
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -49,6 +54,7 @@ ul.post-list li {
   display: flex;
   justify-content: center;
   text-align: center;
+  /* max-width: 200px; */
   /* border-width: 1px;
   border-style: solid;
   border-color: rgb(80, 70, 70); */

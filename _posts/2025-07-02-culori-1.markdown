@@ -3,7 +3,7 @@ layout: post
 title: "Кольори: частина 1"
 date: 2025-07-02 14:45:00 +0300
 category: adjective
-img: "https://screens.cdn.wordwall.net/200/7a444e35cdee4dbaafcdc17d9d5d09b5_0"
+img: "/culori.png"
 ---
 
 {% include culori_1.html %}
