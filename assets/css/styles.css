@@ -41,7 +41,7 @@ ul.post-list {
 }
 @media screen and (min-width: 992px) {
   ul.post-list {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 }
 
