@@ -24,7 +24,10 @@ body {
 .site-header-flag-3 {
   background-color: rgb(206, 17, 38);
 }
-
+.page-content {
+  padding: 10px 0;
+  flex: 1;
+}
 ul.post-list {
   display: grid;
   gap: 15px;
