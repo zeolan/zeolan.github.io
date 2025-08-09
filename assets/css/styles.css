@@ -63,6 +63,7 @@ ul.post-list li {
 .category-list {
   display: grid;
   gap: 15px;
+  justify-content: center;
   margin-left: 0;
   padding: 20px;
 }
@@ -86,7 +87,7 @@ ul.category-list li {
   justify-content: center;
   text-align: center;
 }
-a.category {
+div.category {
   padding: 10px;
   border-width: 3px;
   border-style: solid;
@@ -95,7 +96,7 @@ a.category {
   color: #111;
   font-size: 18px;
 }
-a.category:hover {
+div.category:hover {
   background-color: rgb(252, 209, 22, 0.2);
   /* border-width: 2px;
   padding: 18px; */

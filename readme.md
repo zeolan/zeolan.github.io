@@ -1,3 +1,7 @@
+### Install
+
+bundle
+
 ### Build
 
 bundle exec jekyll build
