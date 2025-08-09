@@ -1,0 +1,31 @@
+---
+layout: nil
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main page -->
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- All pages -->
+  {% for page in site.pages %}
+    {% if page.sitemap != false and page.url != "/404.html" %}
+      <url>
+        <loc>{{ site.url }}{{ page.url | replace:'index.html','' }}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    {% endif %}
+  {% endfor %}
+  <!-- All posts -->
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+    </url>
+  {% endfor %}
+</urlset>
