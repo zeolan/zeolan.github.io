@@ -1,5 +1,6 @@
 body {
   font-family: monospace, ui-sans-serif, monospace, Courier, "Courier New";
+  /* padding-top: 60px; */
 }
 .wrapper .site-title {
   font-weight: bolder;
@@ -10,6 +11,15 @@ body {
 .site-header {
   border-top: none;
 }
+/* .site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+} */
 .site-header-flag {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -130,3 +140,33 @@ a.category:hover {
   /* font-size: 120%; */
   color: #2a7ae2;
 }
+
+.table-custom {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  font-size: 1.1em; /* немного больше стандартного */
+  color: #222831;
+}
+
+/* .table-custom th,
+.table-custom td {
+  padding: 12px 16px;
+  border: 1px solid #e0e0e0;
+  text-align: left;
+}
+
+.table-custom th {
+  background: #f1f5fb;
+  color: #1a237e;
+  font-weight: 700;
+  font-size: 1.15em;
+}
+
+.table-custom tr:nth-child(even) {
+  background: #f6f8fa;
+}
+
+.table-custom tr:hover {
+  background: #e3f2fd;
+} */
