@@ -149,9 +149,12 @@ a.category:hover {
   border-collapse: collapse;
   background: #fff;
   font-size: 1.1em; */
-  font-size: 115%;
+  font-size: 18px;
   color: rgb(17, 136, 119);
   color: #444444;
+  p {
+    margin: 0;
+  }
 }
 
 /* .table-custom th,
