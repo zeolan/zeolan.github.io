@@ -1,113 +1,20 @@
-<!-- <h4>Прикметники емоцій та ємоційних, фізичних та психічних станів</h4> -->
-<table>
+<h4>
+  Ці слова допоможуть тобі розширити свій словниковий запас у сфері емоцій та
+  фізичних і психічних станів. Вони включають прикметники, які описують різні
+  емоції, такі як радість, сум, гнів, страх, здивування, а також фізичні та
+  психічні стани, такі як втома, стрес, спокійність тощо.
+</h4>
+<table class="table-custom">
+  {% for row in site.data.emotii %}
   <tr>
-    <td class="table-bold">sigur</td>
-    <td>впевнений</td>
-    <!-- <td>100%*</td> -->
+    <td class="table-bold">{{ row.ro | markdownify }}</td>
+    <td>{{ row.ua | markdownify}}</td>
   </tr>
-  <tr>
-    <td class="table-bold">calm</td>
-    <td>спокійний</td>
-    <!-- <td>100%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">echilibrat</td>
-    <td>врівноважений</td>
-    <!-- <td>60-70%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">îngrijorat</td>
-    <td>стурбований</td>
-    <!-- <td>20-30%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">(ne)mulțumit</td>
-    <td>(не)задоволений</td>
-    <!-- <td>20-30%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">plictisit</td>
-    <td>нудьгуючий</td>
-    <!-- <td>10-15%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">obosit</td>
-    <td>втомлений</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">furios</td>
-    <td>розлючений</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">nervos</td>
-    <td>нервовий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">anxios</td>
-    <td>тривожний</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">timid</td>
-    <td>сором'язливий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">generos</td>
-    <td>щедрий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">trist</td>
-    <td>сумний</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">confuz</td>
-    <td>спантеличений</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">sensibil</td>
-    <td>чутливий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">îndrăgostit</td>
-    <td>закоханий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">indecis</td>
-    <td>нерішучий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">curajos</td>
-    <td>сміливий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">răbdător</td>
-    <td>терплячий</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">epuizat</td>
-    <td>виснажений</td>
-    <!-- <td>0%</td> -->
-  </tr>
-  <tr>
-    <td class="table-bold">îndrăgostit</td>
-    <td>закоханий</td>
-    <!-- <td>0%</td> -->
-  </tr>
+  {% endfor %}
 </table>
 <hr />
 <br />
+
 <h4>Перевірте себе:</h4>
 <iframe
   style="max-width: 100%"

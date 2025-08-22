@@ -26,25 +26,27 @@
   ua: покажчик повороту
 - ro: un stop
   ua: стоп-сигнал
+- ro: un clax<u>o</u>n
+  ua: клаксона
 - ro: un far de ceață
   ua: протитуманна фара
 - ro: un parbr<u>i</u>z
   ua: лобове скло
+- ro: un geam
+  ua: скло
 - ro: un geam lateral
   ua: бічне скло
 - ro: un geam de lunetă
   ua: заднє скло
 - ro: o oglindă laterală
   ua: бічне дзеркало
-- ro: o oglindă retrovizoare
+- ro: o oglindă retrovizoare (un retrovizor)
   ua: дзеркало заднього виду
-- ro: un geam
-  ua: скло
 - ro: un ștergăt<u>o</u>r (de parbriz)
   ua: склоочисник
 - ro: o ușă (o poartă)
   ua: двері
-- ro: o capotă
+- ro: o cap<u>o</u>tă
   ua: капот
 - ro: un portbag<u>a</u>j
   ua: багажник
@@ -60,14 +62,52 @@
   ua: колесо (колеса)
 - ro: o anvel<u>o</u>pă
   ua: шина
-- ro: o jantă
+- ro: o j<u>a</u>ntă
   ua: диск
-- ro: o distribuție
+- ro: o distrib<u>u</u>ție
   ua: трансмісія
 - ro: o susp<u>e</u>nsie
   ua: підвіска
-- ro: un șas<u>ei</u>u
+- ro: un șas<u>i</u>u
   ua: шасі
+- ro: o caroser<u>i</u>e
+  ua: кузов
+- ro: -----
+  ua: -----
+- ro: un semaf<u>o</u>r
+  ua: світлофор
+- ro: un indicat<u>o</u>r
+  ua: дорожній знак
+- ro: o tr<u>e</u>cere de pietoni
+  ua: пішохідний перехід
+- ro: o bandă de circulație
+  ua: смуга руху
+- ro: o inters<u>e</u>cție
+  ua: перехрестя
+- ro: drum principal
+  ua: головна дорога
+- ro: drum secundar
+  ua: другорядна дорога
+- ro: sens girat<u>o</u>riu
+  ua: круговий рух
+- ro: o depășire
+  ua: обгін
+- ro: un marc<u>a</u>j
+  ua: розмітка
+- ro: o linie continuă
+  ua: суцільна лінія
+- ro: o linie dublă continuă
+  ua: подвійна суцільна лінія
+- ro: un caros<u>a</u>bil (o parte carosabilă)
+  ua: проїзжа частина
+- ro: un accident rutier
+  ua: дорожньо-транспортна пригода
+- ro: un caramb<u>o</u>l
+  ua: зіткнення-паровозік
+- ro: un viraj la dreapta (la stânga)
+  ua: поворот праворуч (ліворуч)
+- ro: o curbă
+  ua: поворот
 - ro: -----
   ua: -----
 - ro: un șofer
