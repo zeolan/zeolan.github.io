@@ -1,0 +1,12 @@
+<h4>
+  Ці слова містять основні терміни, пов'язані з родиною, такі як члени сім'ї,
+  родинні стосунки, а також інші пов'язані поняття.
+</h4>
+<table class="table-custom">
+  {% for row in site.data.familia %}
+  <tr>
+    <td class="table-bold">{{ row.ro | markdownify }}</td>
+    <td>{{ row.ua | markdownify}}</td>
+  </tr>
+  {% endfor %}
+</table>

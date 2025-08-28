@@ -6,4 +6,4 @@ category: substantive
 img: "/autovehicule_200.png"
 ---
 
-{% include autovehicule.html %}
+{% include substantive/autovehicule.html %}

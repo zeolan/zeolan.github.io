@@ -206,3 +206,12 @@ a.category:hover {
 .table-custom tr:hover {
   background: #e3f2fd;
 }
+
+.iframe-custom {
+  display: block; /* iframes are inline by default */
+  background: #000;
+  border: none; /* Reset default border */
+  height: 100vh; /* Viewport-relative units */
+  width: 100vw;
+  max-width: 100%;
+}

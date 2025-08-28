@@ -6,4 +6,4 @@ category: substantive
 img: "/legume_colorat_200.png"
 ---
 
-{% include legume.html %}
+{% include substantive/legume.html %}

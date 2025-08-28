@@ -6,4 +6,4 @@ category: substantive
 img: "/farmacie_sanatate_blue_red_200.png"
 ---
 
-{% include farmacie_sanatate.html %}
+{% include substantive/farmacie_sanatate.html %}
