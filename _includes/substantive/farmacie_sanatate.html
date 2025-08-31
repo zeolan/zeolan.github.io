@@ -3,11 +3,12 @@
   Вони включають назви ліків, хвороб, медичних препаратів та інших термінів,
   пов'язаних із цією темою
 </h4>
+{% include table_toggle.html %}
 <table class="table-custom">
   {% for row in site.data.farmacie_sanatate %}
   <tr>
-    <td class="table-bold">{{ row.ro | markdownify }}</td>
-    <td>{{ row.uk | markdownify}}</td>
+    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
+    <td class="col-ua">{{ row.uk | markdownify}}</td>
   </tr>
   {% endfor %}
 </table>

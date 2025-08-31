@@ -7,12 +7,30 @@ layout: default
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} {{ content }} {%- if site.posts.size > 0 -%}
-  <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Вправи" }}</h2> -->
+
+  <div>
+    <strong>Останні додані матеріали:</strong>
+  </div>
+  <ul>
+    {% for post in site.posts limit: 3 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      <span style="color: #888; font-size: 0.9em"
+        >({{ post.date | date: "%d.%m.%Y" }})</span
+      >
+    </li>
+    {% endfor %}
+  </ul>
 
   <ul class="category-list">
     {% for category in site.data.category_aliases %} {% assign alias =
-    category[1] | default: category[0] %}
-    <a class="category" href="/{{ category[0] }}/">{{ alias }}</a>
+    category[0] %}
+    <li>
+      <a class="category" href="/{{ alias }}/">
+        <img src="/assets/category-icons/{{ alias }}.png" alt="{{ alias }}" />
+        <!-- <span>{{ alias }}</span> -->
+      </a>
+    </li>
 
     {% endfor %}
   </ul>
