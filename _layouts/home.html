@@ -15,9 +15,9 @@ layout: default
     {% for post in site.posts limit: 3 %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      <span style="color: #888; font-size: 0.9em"
+      <!-- <span style="color: #888; font-size: 0.9em"
         >({{ post.date | date: "%d.%m.%Y" }})</span
-      >
+      > -->
     </li>
     {% endfor %}
   </ul>
