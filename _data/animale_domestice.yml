@@ -20,6 +20,8 @@
   ua: козеня
 - ro: un porc
   ua: свиня
+- ro: o scro<u>a</u>fă
+  ua: свиноматка
 - ro: un purc<u>e</u>l
   ua: порося
 - ro: un măg<u>a</u>r
@@ -61,14 +63,16 @@
 - ro: animale de companie
   ua: тварини-компаньони
 - ro: un caine
-  ua: собака
+  ua: пес
 - ro: o cățe<u>a</u>
   ua: сука
 - ro: un căț<u>e</u>l
   ua: цуценя
+- ro: un dulău
+  ua: великий пес
 - ro: o pis<u>i</u>că
   ua: кішка
-- ro: un mot<u>a</u>n, un cot<u>o</u>i
+- ro: un mot<u>a</u>n, un cot<u>o</u>i, un m<u>â</u>ț
   ua: кіт
 - ro: un pis<u>o</u>i, un pis<u>i</u>c
   ua: кошеня
@@ -90,3 +94,15 @@
   ua: папугай
 - ro: un can<u>a</u>r
   ua: канарка
+- ro: -----
+  ua: -----
+- ro: o copită
+  ua: копито
+- ro: un corn
+  ua: ріг
+- ro: o co<u>a</u>dă
+  ua: хвіст
+- ro: o l<u>a</u>bă
+  ua: лапа
+- ro: o lăb<u>u</u>ță
+  ua: лапка
