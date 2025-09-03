@@ -1,0 +1,13 @@
+<h4>
+  Ця тема містить слова, пов'язані з домашніми тваринами, такими як собаки,
+  коти, птахи та інші тварини, які люди утримують у своїх домівках.
+</h4>
+{% include table_toggle.html %}
+<table class="table-custom">
+  {% for row in site.data.animale_domestice %}
+  <tr>
+    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
+    <td class="col-ua">{{ row.ua | markdownify}}</td>
+  </tr>
+  {% endfor %}
+</table>

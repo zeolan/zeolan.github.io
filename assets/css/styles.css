@@ -195,6 +195,7 @@ a.category:hover {
   background: #fff;
   font-size: 1.1em;
   color: #222831;
+  table-layout: fixed;
 }
 .table-custom th,
 .table-custom td {
@@ -235,4 +236,10 @@ a.category:hover {
 .recent-post {
   font-size: 24px;
   margin-bottom: 10px;
+}
+
+.table-toggle {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 5px;
 }
