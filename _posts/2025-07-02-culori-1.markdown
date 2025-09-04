@@ -3,7 +3,7 @@ layout: post
 title: "Кольори: частина 1"
 date: 2025-07-02 14:45:00 +0300
 category: adjective
-img: "/culori.png"
+img: "/assets/post-icons/culori.png"
 ---
 
 {% include culori_1.html %}
