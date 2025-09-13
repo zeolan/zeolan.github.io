@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Прикметники: частина 1"
+title: "Прикметники: частина 1 - знайдіть відповідність"
+short_title: "Прикметники: знайдіть відповідність"
 date: 2025-07-01 12:45:00 +0300
 category: adjective
 img: "https://screens.cdn.wordwall.net/200/4b9da361a91e44219c736ace70673316_0"

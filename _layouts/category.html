@@ -23,11 +23,11 @@ layout: default
         width="100%"
         height="auto"
         style="border: 1px solid grey; display: block"
-      /><span>{{ post.title | escape }}</span></a
+      /><span>{{ post.short_title | default:post.title | escape }}</span></a
     >
     {%- else -%}
     <a class="post-link" href="{{ post.url | relative_url }}">
-      {{ post.title | escape }}
+      {{ post.short_title | default:post.title | escape }}
     </a>
     {%- endif -%} {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
   </li>
