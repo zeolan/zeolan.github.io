@@ -1,0 +1,13 @@
+<h4>
+  Це прикметники, які мають протилежні значення. Вивчення антонімів допоможе
+  тобі краще розуміти нюанси мови та покращити свої навички спілкування.
+</h4>
+{% include table_toggle.html %}
+<table class="table-custom">
+  {% for row in site.data.adjective_antonime %}
+  <tr>
+    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
+    <td class="col-ua">{{ row.ua | markdownify}}</td>
+  </tr>
+  {% endfor %}
+</table>
