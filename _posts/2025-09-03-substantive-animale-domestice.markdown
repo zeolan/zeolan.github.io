@@ -2,8 +2,8 @@
 layout: post
 title: "Свійські тварини"
 date: 2025-09-03 09:00:00 +0300
-category: substantive
+category: dictionar
 img: "/assets/post-icons/animale_domestice_200.png"
 ---
 
-{% include substantive/animale_domestice.html %}
+{% include dictionar/animale_domestice.html %}

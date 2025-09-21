@@ -2,8 +2,8 @@
 layout: post
 title: "Частини людського тіла"
 date: 2025-09-10 08:00:00 +0300
-category: substantive
+category: dictionar
 img: "/assets/post-icons/corpul_uman_200.png"
 ---
 
-{% include substantive/corpul_uman.html %}
+{% include dictionar/corpul_uman.html %}

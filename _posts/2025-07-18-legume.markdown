@@ -2,8 +2,8 @@
 layout: post
 title: "Овочі - legume"
 date: 2025-07-18 11:00:00 +0300
-category: substantive
+category: dictionar
 img: "/assets/post-icons/legume_colorat_200.png"
 ---
 
-{% include substantive/legume.html %}
+{% include dictionar/legume.html %}
