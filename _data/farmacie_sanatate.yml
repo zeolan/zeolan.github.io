@@ -1,5 +1,9 @@
 - ro: "o farmac<u>i</u>e"
   ua: "аптека"
+- ro: o reț<u>e</u>tă
+  ua: рецепт
+- ro: "un medic de familie"
+  ua: "сімейний лікар"
 - ro: "o vitam<u>i</u>nă"
   ua: "вітамін"
 - ro: "o past<u>i</u>lă"
@@ -10,6 +14,8 @@
   ua: "(харчова) добавка"
 - ro: "o caps<u>u</u>lă"
   ua: "капсула"
+- ro: "o <u>a</u>mpulă (o fi<u>o</u>lă)"
+  ua: "ампула"
 - ro: "un ungu<u>e</u>nt"
   ua: "мазь"
 - ro: "un gel"
