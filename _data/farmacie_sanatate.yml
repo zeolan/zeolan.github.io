@@ -1,24 +1,26 @@
-- ro: "o farmac<u>i</u>e"
+- ro: "o farmac<u>i</u>e - două farmac<u>i</u>i"
   ua: "аптека"
-- ro: o reț<u>e</u>tă
+- ro: o reț<u>e</u>tă - două reț<u>e</u>te
   ua: рецепт
 - ro: "un medic de familie"
   ua: "сімейний лікар"
-- ro: "o vitam<u>i</u>nă"
+- ro: un medicam<u>e</u>nt - două medicam<u>e</u>nte
+  ua: ліки, медикамент
+- ro: "o vitam<u>i</u>nă - două vitam<u>i</u>ne"
   ua: "вітамін"
-- ro: "o past<u>i</u>lă"
+- ro: "o past<u>i</u>lă - două past<u>i</u>le"
   ua: "таблетка, пігулка"
-- ro: "un comprim<u>a</u>t"
+- ro: "un comprim<u>a</u>t - două comprim<u>a</u>te"
   ua: "таблетка, пігулка"
 - ro: "un supliment (alimentar)"
   ua: "(харчова) добавка"
-- ro: "o caps<u>u</u>lă"
+- ro: "o caps<u>u</u>lă - două caps<u>u</u>le"
   ua: "капсула"
 - ro: "o <u>a</u>mpulă (o fi<u>o</u>lă)"
   ua: "ампула"
-- ro: "un ungu<u>e</u>nt"
+- ro: "un ungu<u>e</u>nt - două ungu<u>e</u>nte"
   ua: "мазь"
-- ro: "un gel"
+- ro: un gel - două g<u>e</u>luri
   ua: "гель"
 - ro: "o cr<u>e</u>mă"
   ua: "крем"
@@ -34,28 +36,34 @@
   ua: "антісептик"
 - ro: "un antiinflamat<u>o</u>r"
   ua: "протизапальне"
-- ro: "un ac"
+- ro: un ac - două <u>a</u>ce
   ua: "ігла"
 - ro: "o ser<u>i</u>ngă"
   ua: "шприц"
 - ro: "un pansam<u>e</u>nt (steril)"
   ua: "бинт (стерильний)"
-- ro: "o pl<u>a</u>stură"
-  ua: "пластир"
-- ro: "o perf<u>u</u>zie"
-  ua: "крапельниця"
-- ro: "o inj<u>e</u>cție"
-  ua: "укол"
-- ro: "un gar<u>o</u>u"
-  ua: "джгут"
+- ro: o pl<u>a</u>sture - două pl<u>a</u>sturi
+  ua: пластир
+- ro: o perf<u>u</u>zie - două perf<u>u</u>zii
+  ua: крапельниця
+- ro: o inj<u>e</u>cție - două inj<u>e</u>cții
+  ua: укол
+- ro: un gar<u>o</u>u - două gar<u>o</u>uri
+  ua: джгут
 - ro: "---"
   ua: "---"
-- ro: "o inflam<u>a</u>ție"
-  ua: "запалення"
-- ro: "o r<u>a</u>nă"
-  ua: "рана"
-- ro: "o sânger<u>a</u>re"
-  ua: "кровотеча"
+- ro: o răce<u>a</u>lă - două răc<u>e</u>li
+  ua: простуда
+- ro: "o grip<u>ă</u>"
+  ua: "грип"
+- ro: "o tuse"
+  ua: "кашель"
+- ro: o inflam<u>a</u>ție - două inflam<u>a</u>ții
+  ua: запалення"
+- ro: o r<u>a</u>nă - două r<u>ă</u>ni
+  ua: рана
+- ro: o sânger<u>a</u>re - două sânger<u>ă</u>ri
+  ua: кровотеча
 - ro: "o fract<u>u</u>ră"
   ua: "перелом"
 - ro: "o ent<u>o</u>rsă"

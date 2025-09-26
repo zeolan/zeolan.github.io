@@ -1,26 +1,26 @@
 - ro: internet
   ua: інтернет
-- ro: un site
+- ro: un site - două site-uri
   ua: сайт
 - ro: o p<u>a</u>gină web
   ua: веб-сторінка
 - ro: o rețea socială
   ua: соціальна мережа
-- ro: un coment<u>a</u>riu
+- ro: un coment<u>a</u>riu - două comentarii
   ua: коментар
-- ro: un cont
+- ro: un cont - două conturi
   ua: акаунт
-- ro: o par<u>o</u>lă
+- ro: o par<u>o</u>lă - două parole
   ua: пароль
 - ro: un e-mail
   ua: електронна пошта
 - ro: un atașam<u>e</u>nt
   ua: вкладення
-- ro: un link
+- ro: un link - două link-uri
   ua: посилання
 - ro: browser
   ua: браузер
-- ro: o descărc<u>a</u>re
+- ro: o descărc<u>a</u>re - două descărc<u>ă</u>ri
   ua: завантаження
 - ro: o încărc<u>a</u>re
   ua: вивантаження
@@ -30,7 +30,7 @@
   ua: головна сторінка
 - ro: un access
   ua: доступ
-- ro: o aplic<u>a</u>ție
+- ro: o aplic<u>a</u>ție - două aplic<u>a</u>ții
   ua: застосунок
 - ro: un program
   ua: програма
@@ -38,15 +38,15 @@
   ua: файл
 - ro: un folder
   ua: папка
-- ro: un document
+- ro: un document - două documente
   ua: документ
 - ro: o set<u>a</u>re
   ua: налаштування
 - ro: o reset<u>a</u>re
   ua: скидання (налаштувань)
-- ro: o notific<u>a</u>re
+- ro: o notific<u>a</u>re - două notific<u>ă</u>ri
   ua: сповіщення
-- ro: un chat
+- ro: un chat - două chat-uri
   ua: чат
 - ro: un ap<u>e</u>l (video)
   ua: (відео)дзвінок
