@@ -18,9 +18,11 @@
   ua: педаль
 - ro: un bord
   ua: приладова панель
+- ro: un torpedo
+  ua:
 - ro: o bater<u>i</u>e
   ua: акумулятор
-- ro: un far
+- ro: un far - două faruri
   ua: фара
 - ro: un semnalizat<u>o</u>r
   ua: покажчик повороту
@@ -36,7 +38,7 @@
   ua: скло
 - ro: un geam lateral
   ua: бічне скло
-- ro: un geam de lunetă
+- ro: un geam de lunetă (o lunetă)
   ua: заднє скло
 - ro: o oglindă laterală
   ua: бічне дзеркало
@@ -58,12 +60,16 @@
   ua: сидіння
 - ro: un rezerv<u>o</u>r (de combustibil)
   ua: паливний бак
-- ro: o roată (roți)
-  ua: колесо (колеса)
+- ro: o ro<u>a</u>tă - două roți
+  ua: колесо
+- ro: o roată de rezervă
+  ua: запасне колесо
 - ro: o anvel<u>o</u>pă
   ua: шина
 - ro: o j<u>a</u>ntă
   ua: диск
+- ro: un cauci<u>u</u>c - două cauci<u>u</u>curi
+  ua: покришка
 - ro: o distrib<u>u</u>ție
   ua: трансмісія
 - ro: o susp<u>e</u>nsie
@@ -90,8 +96,12 @@
   ua: другорядна дорога
 - ro: sens girat<u>o</u>riu
   ua: круговий рух
+- ro: sens unic
+  ua: односторонній рух
 - ro: o depășire
   ua: обгін
+- ro: o vit<u>e</u>ză (maximă) - două vit<u>e</u>ze
+  ua: (максимальна) швидкість
 - ro: un marc<u>a</u>j
   ua: розмітка
 - ro: o linie continuă
@@ -106,13 +116,19 @@
   ua: зіткнення-паровозік
 - ro: un viraj la dreapta (la stânga)
   ua: поворот праворуч (ліворуч)
-- ro: o curbă
+- ro: o curbă - două curbe
   ua: поворот
+- ro: un stâlp - doi stâlpi
+  ua: стовп
+- ro: un trotuar
+  ua: тротуар
 - ro: -----
   ua: -----
-- ro: un șofer
+- ro: un permis de conducere
+  ua: водійське посвідчення
+- ro: un șofer - doi șoferi
   ua: водій
-- ro: o mașină
+- ro: o mașină - două mașini
   ua: автомобіль
 - ro: o mașină cu tracțiune integrală
   ua: автомобіль з повним приводом
