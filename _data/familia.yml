@@ -1,66 +1,74 @@
-- ro: o familie
+- ro: o fam<u>i</u>lie - două fam<u>i</u>lii
   ua: сім'я
 - ro: un membru al familiei
   ua: член сім'ї
-- ro: un părinte
+- ro: un păr<u>i</u>nte - doi păr<u>i</u>nți
   ua: батько або мати
-- ro: o mamă
+- ro: o mamă - două mame
   ua: мати
-- ro: un tată
+- ro: un tată - doi tăți
   ua: батько
-- ro: un fiu
+- ro: un cop<u>i</u>l - doi cop<u>i</u>i
+  ua: дитина (хлопчик або загально)
+- ro: o cop<u>i</u>lă - două cop<u>i</u>le
+  ua: дитина (дівчинка)
+- ro: un fiu - doi fii
   ua: син
-- ro: o fiică
+- ro: o fi<u>i</u>că - două fi<u>i</u>ce
   ua: дочка
-- ro: un frate
+- ro: un frate - doi frați
   ua: брат
-- ro: o soră
+- ro: o s<u>o</u>ră - două sur<u>o</u>ri
   ua: сестра
-- ro: un bunic
+- ro: un bunic - doi bunici
   ua: дідусь
-- ro: o bunică
+- ro: o bunică - două bunici
   ua: бабуся
-- ro: un nepot
+- ro: un nep<u>o</u>t - doi nep<u>o</u>ți
   ua: онук або племінник
-- ro: o nepoată
+- ro: o nepo<u>a</u>tă - două nepo<u>a</u>te
   ua: онука або племінниця
-- ro: un unchi
+- ro: un străbun<u>i</u>c
+  ua: прадідусь
+- ro: o străbun<u>i</u>că
+  ua: прабабуся
+- ro: un strănep<u>o</u>t
+  ua: правнук
+- ro: o strănepo<u>a</u>tă
+  ua: правнучка
+- ro: un unchi - doi unchi
   ua: дядько
-- ro: o mătușă
+- ro: o mătușă - două mătuși
   ua: тітка
 - ro: un verișor (văr)
   ua: двоюрідний брат
 - ro: o verișoară (vară)
   ua: двоюрідна сестра
-- ro: un soț
+- ro: un soț - doi soți
   ua: чоловік
-- ro: o soție
+- ro: o soț<u>i</u>e - două soț<u>i</u>i
   ua: дружина
-- ro: un socru
+- ro: un s<u>o</u>cru
   ua: тесть або свекор
-- ro: o soacră
+- ro: o so<u>a</u>cră
   ua: теща або свекруха
 - ro: un ginere
   ua: зять
-- ro: o noră
+- ro: o noră - două nur<u>o</u>ri
   ua: невістка
-- ro: un cumnat
+- ro: un cumnat - doi cumnați
   ua: шурин або зять
-- ro: o cumnată
+- ro: o cumnată - două cumnate
   ua: золовка або невістка
-- ro: un copil
-  ua: дитина
-- ro: o copilă
-  ua: дитина (дівчинка)
-- ro: un naș
+- ro: un naș - doi nași
   ua: хрещений батько або хрещений
-- ro: o nașă
+- ro: o nașă - două nașe
   ua: хрещена мати або хрещена
-- ro: un nașit
+- ro: un nășic
   ua: хрещеник
-- ro: o nașită
+- ro: o nășică
   ua: хрещениця
-- ro: o căsătorie
+- ro: o căsător<u>i</u>e
   ua: шлюб
-- ro: un divorț
+- ro: un div<u>o</u>rț
   ua: розлучення
