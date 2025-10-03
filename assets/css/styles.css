@@ -248,3 +248,12 @@ a.category:hover {
   grid-template-columns: 1fr 1fr;
   margin-bottom: 5px;
 }
+
+.blue-bold {
+  color: blue;
+  font-weight: bolder;
+}
+
+.table-verb {
+  width: auto;
+}
