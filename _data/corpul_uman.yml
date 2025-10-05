@@ -1,20 +1,20 @@
-- ro: un cap
+- ro: un cap - doupă capete
   ua: голова
-- ro: un gât
+- ro: un gât - două gâturi
   ua: горло, шия
-- ro: un <u>u</u>măr
+- ro: un <u>u</u>măr - doi umeri
   ua: плече
-- ro: un braț
+- ro: un braț - două brațe
   ua: рука (від плеча до кисті)
-- ro: o palmă
+- ro: o palmă - două palme
   ua: долоня
-- ro: un pumn
+- ro: un pumn - doi pumni
   ua: кулак
-- ro: un cot
+- ro: un cot - două coate
   ua: лікоть
-- ro: o mână
+- ro: o mână - două mâini
   ua: рука (кисть)
-- ro: un d<u>e</u>get
+- ro: un d<u>e</u>get - două degete
   ua: палець
 - ro: un piept
   ua: груди
@@ -22,13 +22,13 @@
   ua: живіт, шлунок (розмовне)
 - ro: o b<u>u</u>rtă
   ua: живіт (розмовне)
-- ro: un spate
+- ro: un spate - două spate
   ua: спина
 - ro: un șold
   ua: стегно
-- ro: un pici<u>o</u>r
+- ro: un pici<u>o</u>r - două picioare
   ua: нога (від стегна до стопи)
-- ro: un gen<u>u</u>nchi
+- ro: un gen<u>u</u>nchi - doi genunchi
   ua: коліно
 - ro: o gleznă
   ua: щиколотка
@@ -44,27 +44,27 @@
   ua: тулуб
 - ro: ---
   ua: ---
-- ro: o față
+- ro: o față - două fețe
   ua: обличчя
-- ro: o frunte
+- ro: o frunte - două frunți
   ua: лоб
-- ro: un obr<u>a</u>z
+- ro: un obr<u>a</u>z - doi obraji
   ua: щока
-- ro: un <u>o</u>chi
+- ro: un <u>o</u>chi - doi ochi
   ua: око
-- ro: o ur<u>e</u>che
+- ro: o ur<u>e</u>che - două urechi
   ua: вухо
 - ro: un nas
   ua: ніс
 - ro: o gură
   ua: рот
-- ro: un dinte
+- ro: un dinte - doi dinți
   ua: зуб
-- ro: o ging<u>i</u>e
+- ro: o ging<u>i</u>e - două gingii
   ua: ясна
-- ro: o limbă
+- ro: o limbă - două limbi
   ua: язик
-- ro: o buză
+- ro: o buză - două buze
   ua: губа
 - ro: o bărb<u>i</u>e
   ua: підборіддя
@@ -80,13 +80,13 @@
   ua: брова
 - ro: o g<u>e</u>ne
   ua: вія
-- ro: o <u>u</u>nghie
+- ro: o <u>u</u>nghie - două unghii
   ua: ніготь
 - ro: ---
   ua: ---
-- ro: un os
+- ro: un os - două oase
   ua: кістка
-- ro: un m<u>u</u>șchi
+- ro: un m<u>u</u>șchi - doi mușchi
   ua: м'яз
 - ro: o pi<u>e</u>le
   ua: шкіра
@@ -102,13 +102,13 @@
   ua: кровоносна судина
 - ro: un cr<u>e</u>ier
   ua: мозок
-- ro: un nerv
+- ro: un nerv - doi nervi
   ua: нерв
 - ro: un fic<u>a</u>t
   ua: печінка
-- ro: un rin<u>i</u>chi
+- ro: un rin<u>i</u>chi - doi rinichi
   ua: нирка
-- ro: un plăm<u>â</u>n
+- ro: un plăm<u>â</u>n - doi plămâni
   ua: легеня
 - ro: un intest<u>i</u>n
   ua: кишечник

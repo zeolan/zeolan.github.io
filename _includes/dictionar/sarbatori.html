@@ -1,0 +1,81 @@
+<h4>
+  Поговоримо про свята. Назви основних свят румунською та українською мовами.
+  Вітання з нагоди свят, та інші пов'язані терміни.
+</h4>
+{% include table_toggle.html %}
+<table class="table-custom">
+  {% for row in site.data.sarbatori %}
+  <tr>
+    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
+    <td class="col-ua">{{ row.ua | markdownify}}</td>
+  </tr>
+  {% endfor %}
+</table>
+&#42; В дужках дана форма дієслова для першої особи однини (Я).
+<hr />
+<br />
+<p><u>Exemple de propoziții / Приклади речень</u></p>
+<p>
+  <strong>Astăzi sărbătorim Ziua Națională cu familia.</strong> (Сьогодні ми
+  святкуємо Національне свято з родиною.)
+</p>
+<p>
+  <strong>La mulți ani! Îți urez sănătate și fericire!</strong> (Багато років!
+  Бажаю тобі здоров’я і щастя!)
+</p>
+<p>
+  <strong>De Crăciun, Moș Crăciun aduce cadouri copiilor.</strong> (На Різдво
+  Дід Мороз приносить подарунки дітям.)
+</p>
+<p>
+  <strong>Am primit o felicitare frumoasă de Ziua Independenței.</strong> (Я
+  отримав гарне привітання на День незалежності.)
+</p>
+<p>
+  <strong>Paștele este o sărbătoare religioasă foarte importantă.</strong>
+  (Великдень — дуже важливе релігійне свято.)
+</p>
+<p>
+  <strong>De Ziua Copilului, sărbătorim împreună cu familia.</strong> (У День
+  захисту дітей ми святкуємо разом із родиною.)
+</p>
+<p>
+  <strong>Îmi place să felicit prietenii de ziua lor de naștere.</strong> (Мені
+  подобається вітати друзів з їхнім днем народження.)
+</p>
+<p>
+  <strong>La aniversare, am urat bunicii multă sănătate.</strong> (На ювілеї я
+  побажав бабусі багато здоров’я.)
+</p>
+<p>
+  <strong>Sărbătorim Ziua Națională cu familia.</strong> (Ми святкуємо
+  Національне свято з родиною.)
+</p>
+<p>
+  <strong>Primesc o felicitare frumoasă de ziua mea de naștere.</strong> (Я
+  отримую гарне привітання на день народження.)
+</p>
+<p>
+  <strong>Moș Crăciun aduce cadouri copiilor.</strong> (Дід Мороз приносить
+  подарунки дітям.)
+</p>
+<p>
+  <strong>Urez sănătate și fericire prietenilor mei.</strong> (Я бажаю здоров’я
+  і щастя своїм друзям.)
+</p>
+<p>
+  <strong>Copiii sărbătoresc Ziua Copilului la școală.</strong> (Діти святкують
+  День захисту дітей у школі.)
+</p>
+<p>
+  <strong>Felicit colegii cu ocazia Anului Nou.</strong> (Я вітаю колег з Новим
+  роком.)
+</p>
+<p>
+  <strong>Organizez o petrecere de aniversare acasă.</strong> (Я організовую
+  святкування ювілею вдома.)
+</p>
+<p>
+  <strong>De Paște, familia merge la biserică.</strong> (На Великдень родина йде
+  до церкви.)
+</p>
