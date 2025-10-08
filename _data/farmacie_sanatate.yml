@@ -59,15 +59,15 @@
 - ro: "o tuse"
   ua: "кашель"
 - ro: o inflam<u>a</u>ție - două inflam<u>a</u>ții
-  ua: запалення"
+  ua: запалення
 - ro: o r<u>a</u>nă - două r<u>ă</u>ni
   ua: рана
 - ro: o sânger<u>a</u>re - două sânger<u>ă</u>ri
   ua: кровотеча
-- ro: "o fract<u>u</u>ră"
-  ua: "перелом"
-- ro: "o ent<u>o</u>rsă"
-  ua: "розтягнення"
+- ro: o fract<u>u</u>r
+  ua: перелом
+- ro: o ent<u>o</u>rsă
+  ua: розтягнення
 - ro: "o lux<u>a</u>ție"
   ua: "вивих"
 - ro: "o ars<u>u</u>ră"
@@ -106,3 +106,17 @@
   ua: "висип"
 - ro: "o infecție f<u>u</u>ngică"
   ua: "грибкова інфекція"
+- ro: "---"
+  ua: "---"
+- ro: a răci (răcesc)*
+  ua: застудитися
+- ro: a tuși (tușesc)
+  ua: кашляти
+- ro: a strănuta (strănut)
+  ua: чхати
+- ro: a îmbolnăvi (îmbolnăvesc)
+  ua: захворіти
+- ro: a se vindeca (mă vindec)
+  ua: одужати
+- ro: a se simți (mă simt)
+  ua: почуватися
