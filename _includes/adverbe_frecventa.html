@@ -1,0 +1,87 @@
+<h4>
+  Прислівники які вказують на те, як часто відбувається певна дія. Відповідають
+  на питання ЯК ЧАСТО? В таблиці наведені у порядку зниження частоти, від
+  найчастіших до найрідкісніших.
+</h4>
+{% include table_toggle.html %}
+<table class="table-custom">
+  {% for row in site.data.adverbe_frecventa %}
+  <tr>
+    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
+    <td class="col-ua">{{ row.ua | markdownify}}</td>
+  </tr>
+  {% endfor %}
+</table>
+<hr />
+<br />
+<p><u>Exemple de propoziții / Приклади речень</u></p>
+<p>
+  <strong
+    >Întotdeauna încerc să învăț ceva nou, chiar și atunci când am puțin timp
+    liber.</strong
+  >
+  (Я завжди намагаюся вчити щось нове, навіть коли маю мало вільного часу.)
+</p>
+<p>
+  <strong
+    >Frecvent particip la proiecte de voluntariat pentru a ajuta
+    comunitatea.</strong
+  >
+  (Я часто беру участь у волонтерських проєктах, щоб допомогти громаді.)
+</p>
+<p>
+  <strong
+    >De multe ori, când plouă, prefer să citesc o carte acasă în loc să ies
+    afară.</strong
+  >
+  (Багато разів, коли йде дощ, я віддаю перевагу читанню книжки вдома, а не
+  прогулянці.)
+</p>
+<p>
+  <strong
+    >Uneori, după o zi lungă de muncă, gătesc cina împreună cu familia
+    mea.</strong
+  >
+  (Іноді після довгого робочого дня я готую вечерю разом зі своєю родиною.)
+</p>
+<p>
+  <strong
+    >Din când în când, mergem cu prietenii la munte pentru a ne relaxa și a
+    respira aer curat.</strong
+  >
+  (Час від часу ми їздимо з друзями в гори, щоб відпочити і подихати свіжим
+  повітрям.)
+</p>
+<p>
+  <strong
+    >Ocazional, primesc invitații la evenimente culturale unde pot cunoaște
+    oameni noi.</strong
+  >
+  (Іноді я отримую запрошення на культурні заходи, де можу познайомитися з
+  новими людьми.)
+</p>
+<p>
+  <strong
+    >Rar se întâmplă să uit de o întâlnire importantă, pentru că îmi notez totul
+    în agendă.</strong
+  >
+  (Рідко трапляється, що я забуваю про важливу зустріч, бо все записую в
+  щоденник.)
+</p>
+<p>
+  <strong
+    >Niciodată nu plec de acasă fără să verific dacă am închis ușa.</strong
+  >
+  (Я ніколи не виходжу з дому, не перевіривши, чи зачинені двері.)
+</p>
+
+<hr />
+<h4>Перевірте себе:</h4>
+<iframe
+  style="max-width: 100%"
+  src="https://wordwall.net/uk/embed/9373c58b67374a8cb00d6c7eae425ea4?themeId=41&templateId=76&fontStackId=0"
+  width="500"
+  height="380"
+  frameborder="0"
+  allowfullscreen
+></iframe>
