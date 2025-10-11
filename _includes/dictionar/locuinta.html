@@ -1,0 +1,63 @@
+<h4>
+  Слова, які включають назви кімнат, меблів, побутової техніки та інших
+  термінів, пов'язаних із оселєю та житлом.
+</h4>
+{% include table_toggle.html %}
+<table class="table-custom">
+  {% for row in site.data.locuinta %}
+  <tr>
+    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
+    <td class="col-ua">{{ row.ua | markdownify}}</td>
+  </tr>
+  {% endfor %}
+</table>
+&#42; В дужках дана форма дієслова для першої особи однини (Я).
+<hr />
+<br />
+<p><u>Exemple de propoziții / Приклади речень</u></p>
+<p>
+  <strong>Locuim într-un apartament spațios la etajul trei.</strong>
+  (Ми живемо у просторій квартирі на третьому поверсі.)
+</p>
+<p>
+  <strong>Am o casă cu o grădină mare și un garaj.</strong>
+  (У мене будинок з великим садом і гаражем.)
+</p>
+<p>
+  <strong
+    >În sufragerie avem o canapea confortabilă și un televizor modern.</strong
+  >
+  (У вітальні у нас зручний диван і сучасний телевізор.)
+</p>
+<p>
+  <strong>Copiii dorm în dormitorul lor și au multe jucării pe covor.</strong>
+  (Діти сплять у своїй спальні й мають багато іграшок на килимі.)
+</p>
+<p>
+  <strong
+    >Bucătăria este dotată cu un frigider nou și un aragaz electric.</strong
+  >
+  (Кухня обладнана новим холодильником і електричною плитою.)
+</p>
+<p>
+  <strong>În fiecare dimineață deschid fereastra și aerisesc camera.</strong>
+  (Щоранку я відкриваю вікно і провітрюю кімнату.)
+</p>
+<p>
+  <strong>Am închiri<u>a</u>t o locuință aproape de centrul orașului.</strong>
+  (Я орендував житло неподалік від центру міста.)
+</p>
+<p>
+  <strong>Ne mutăm într-o casă nouă luna viitoare.</strong> (Ми переїжджаємо в
+  новий будинок наступного місяця.)
+</p>
+<p>
+  <strong>Pe balcon cresc flori și plante decorative.</strong> (На балконі я
+  вирощую квіти й декоративні рослини.)
+</p>
+<p>
+  <strong
+    >Pe hol avem un dulap pentru haine și un raft pentru încălțăminte.</strong
+  >
+  (У коридорі у нас шафа для одягу і полиця для взуття.)
+</p>
