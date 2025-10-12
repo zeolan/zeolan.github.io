@@ -1,4 +1,4 @@
-- ro: un motor
+- ro: un motor - două moto<u>a</u>re
   ua: мотор
 - ro: o cut<u>i</u>e de viteze
   ua: коробка передач
@@ -6,7 +6,7 @@
   ua: зчеплення
 - ro: o acceler<u>a</u>ție
   ua: акселератор
-- ro: o fr<u>â</u>nă
+- ro: o fr<u>â</u>nă - două fr<u>â</u>ne
   ua: гальмо
 - ro: frâna de mână
   ua: ручне гальмо
@@ -20,9 +20,9 @@
   ua: приладова панель
 - ro: un torpedo
   ua:
-- ro: o bater<u>i</u>e
+- ro: o bater<u>i</u>e - două baterii
   ua: акумулятор
-- ro: un far - două faruri
+- ro: un far - două f<u>a</u>ruri
   ua: фара
 - ro: un semnalizat<u>o</u>r
   ua: покажчик повороту
@@ -34,7 +34,7 @@
   ua: протитуманна фара
 - ro: un parbr<u>i</u>z
   ua: лобове скло
-- ro: un geam
+- ro: un ge<u>a</u>m - două ge<u>a</u>muri
   ua: скло
 - ro: un geam lateral
   ua: бічне скло
@@ -64,9 +64,9 @@
   ua: колесо
 - ro: o roată de rezervă
   ua: запасне колесо
-- ro: o anvel<u>o</u>pă
+- ro: o anvel<u>o</u>pă - două anvelope
   ua: шина
-- ro: o j<u>a</u>ntă
+- ro: o j<u>a</u>ntă - două jante
   ua: диск
 - ro: un cauci<u>u</u>c - două cauci<u>u</u>curi
   ua: покришка
@@ -82,8 +82,8 @@
   ua: ---
 - ro: un semaf<u>o</u>r
   ua: світлофор
-- ro: un indicat<u>o</u>r
-  ua: дорожній знак
+- ro: un indicat<u>o</u>r - două indicato<u>a</u>re
+  ua: покажчик, дорожній знак
 - ro: o tr<u>e</u>cere de pietoni
   ua: пішохідний перехід
 - ro: o bandă de circulație
@@ -98,7 +98,7 @@
   ua: круговий рух
 - ro: sens unic
   ua: односторонній рух
-- ro: o depășire
+- ro: o depăș<u>i</u>re - două depăș<u>i</u>ri
   ua: обгін
 - ro: o vit<u>e</u>ză (maximă) - două vit<u>e</u>ze
   ua: (максимальна) швидкість
@@ -124,9 +124,9 @@
   ua: тротуар
 - ro: -----
   ua: -----
-- ro: un permis de conducere
+- ro: un perm<u>i</u>s de conducere
   ua: водійське посвідчення
-- ro: un șofer - doi șoferi
+- ro: un șof<u>e</u>r - doi șof<u>e</u>ri
   ua: водій
 - ro: o mașină - două mașini
   ua: автомобіль
@@ -140,9 +140,9 @@
   ua: автомобіль з автоматичною коробкою передач
 - ro: o mașină cu transmisie manuală
   ua: автомобіль з механічною коробкою передач
-- ro: un veh<u>i</u>cul
+- ro: un veh<u>i</u>cul - două veh<u>i</u>cule
   ua: транспортний засіб
-- ro: o motocicl<u>e</u>tă
+- ro: o motocicl<u>e</u>tă - două motociclete
   ua: мотоцикл
 - ro: o bicicl<u>e</u>tă
   ua: велосипед
