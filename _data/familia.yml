@@ -2,6 +2,12 @@
   ua: сім'я
 - ro: un membru al familiei
   ua: член сім'ї
+- ro: o r<u>u</u>dă - două r<u>u</u>de
+  ua: родич
+- ro: un apropi<u>a</u>t - doi apropi<u>a</u>ți
+  ua: близький (людина)
+- ro: o apropiată - două apropiate
+  ua: близька (людина)
 - ro: un păr<u>i</u>nte - doi păr<u>i</u>nți
   ua: батько або мати
 - ro: o mamă - două mame
@@ -20,9 +26,9 @@
   ua: брат
 - ro: o s<u>o</u>ră - două sur<u>o</u>ri
   ua: сестра
-- ro: un bunic - doi bunici
+- ro: un bun<u>i</u>c - doi bun<u>i</u>ci
   ua: дідусь
-- ro: o bunică - două bunici
+- ro: o bun<u>i</u>că - două bunici
   ua: бабуся
 - ro: un nep<u>o</u>t - doi nep<u>o</u>ți
   ua: онук або племінник
@@ -36,13 +42,13 @@
   ua: правнук
 - ro: o strănepo<u>a</u>tă
   ua: правнучка
-- ro: un unchi - doi unchi
+- ro: un <u>u</u>nchi - doi <u>u</u>nchi
   ua: дядько
-- ro: o mătușă - două mătuși
+- ro: o măt<u>u</u>șă - două măt<u>u</u>și
   ua: тітка
-- ro: un verișor (văr)
+- ro: un veriș<u>o</u>r (văr)
   ua: двоюрідний брат
-- ro: o verișoară (vară)
+- ro: o verișo<u>a</u>ră (vară)
   ua: двоюрідна сестра
 - ro: un soț - doi soți
   ua: чоловік
@@ -52,11 +58,11 @@
   ua: тесть або свекор
 - ro: o so<u>a</u>cră
   ua: теща або свекруха
-- ro: un ginere
+- ro: un g<u>i</u>nere
   ua: зять
 - ro: o noră - două nur<u>o</u>ri
   ua: невістка
-- ro: un cumnat - doi cumnați
+- ro: un cumn<u>a</u>t - doi cumnați
   ua: шурин або зять
 - ro: o cumnată - două cumnate
   ua: золовка або невістка
