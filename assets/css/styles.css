@@ -7,7 +7,9 @@ body {
   color: #222831;
 }
 
-p {
+p,
+p > p,
+p > div {
   font-size: 1.1em;
 }
 
@@ -280,4 +282,10 @@ table caption {
   font-weight: bolder;
   font-size: 1.2em;
   margin-bottom: 8px;
+}
+
+.fraze-verb {
+  font-weight: bolder;
+  background-color: rgb(252, 209, 22, 0.2);
+  /* display: flex; */
 }
