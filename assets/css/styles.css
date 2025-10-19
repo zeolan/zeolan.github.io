@@ -7,7 +7,9 @@ body {
   color: #222831;
 }
 
-p {
+p,
+p > p,
+p > div {
   font-size: 1.1em;
 }
 
@@ -256,7 +258,7 @@ a.category:hover {
 
 .table-verb {
   width: auto;
-  thead {
+  thead th {
     background-color: rgb(22.9483471074, 86.2541322314, 168.5516528926, 0.85);
     color: white;
     font-weight: bolder;
@@ -280,4 +282,10 @@ table caption {
   font-weight: bolder;
   font-size: 1.2em;
   margin-bottom: 8px;
+}
+
+.fraze-verb {
+  font-weight: bolder;
+  background-color: rgb(252, 209, 22, 0.2);
+  /* display: flex; */
 }
