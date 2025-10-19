@@ -54,24 +54,26 @@
   ua: "---"
 - ro: o răce<u>a</u>lă - două răc<u>e</u>li
   ua: простуда
-- ro: "o grip<u>ă</u>"
+- ro: "o gr<u>i</u>pă"
   ua: "грип"
-- ro: "o tuse"
-  ua: "кашель"
+- ro: o vir<u>o</u>ză - două vir<u>o</u>ze
+  ua: вірусна інфекція
+- ro: o t<u>u</u>se
+  ua: кашель
 - ro: o inflam<u>a</u>ție - două inflam<u>a</u>ții
   ua: запалення
 - ro: o r<u>a</u>nă - două r<u>ă</u>ni
   ua: рана
 - ro: o sânger<u>a</u>re - două sânger<u>ă</u>ri
   ua: кровотеча
-- ro: o fract<u>u</u>r
+- ro: o fract<u>u</u>ră - două fract<u>u</u>ri
   ua: перелом
 - ro: o ent<u>o</u>rsă
   ua: розтягнення
-- ro: "o lux<u>a</u>ție"
-  ua: "вивих"
-- ro: "o ars<u>u</u>ră"
-  ua: "опік"
+- ro: o lux<u>a</u>ție - două lux<u>a</u>ții
+  ua: вивих
+- ro: o ars<u>u</u>ră - două ars<u>u</u>ri
+  ua: опік
 - ro: "o tăiet<u>u</u>ră"
   ua: "поріз"
 - ro: "o zgâriet<u>u</u>ră"
@@ -84,8 +86,8 @@
   ua: "алергія"
 - ro: "o mâncăr<u>i</u>me"
   ua: "свербіж"
-- ro: "<u>a</u>rsuri la stom<u>a</u>c"
-  ua: "печія"
+- ro: ars<u>u</u>ri la stom<u>a</u>c
+  ua: печія
 - ro: "o amețe<u>a</u>lă"
   ua: "запаморочення"
 - ro: "dur<u>e</u>re de cap"
@@ -108,17 +110,21 @@
   ua: "грибкова інфекція"
 - ro: "---"
   ua: "---"
-- ro: a răci (răcesc)*
+- ro: a lua medicam<u>e</u>nte (iau)
+  ua: приймати ліки
+- ro: a răci (răc<u>e</u>sc)*
   ua: застудитися
-- ro: a tuși (tușesc)
+- ro: a tuși (tuș<u>e</u>sc)
   ua: кашляти
-- ro: a strănuta (strănut)
+- ro: a strănut<u>a</u> (străn<u>u</u>t)
   ua: чхати
-- ro: a se îmbolnăvi (mă îmbolnăvesc)
+- ro: a se îmbolnăv<u>i</u> (mă îmbolnăv<u>e</u>sc)
   ua: захворіти
-- ro: a se însănătoși (mă însănătoșesc)
+- ro: a se însănătoș<u>i</u> (mă însănătoș<u>e</u>sc)
   ua: одужувати
-- ro: a se vindeca (mă vindec)
+- ro: a se vindeca (mă v<u>i</u>ndec)
   ua: одужувати
-- ro: a se simți (mă simt)
+- ro: a se simț<u>i</u> (mă simt)
   ua: почуватися
+- ro: a vomita (vom<u>i</u>t)
+  ua: блювати
