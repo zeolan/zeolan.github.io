@@ -116,13 +116,13 @@
   ua: кінний спорт
 - ro: ---
   ua: ---
-- ro: a face sport
+- ro: a face sport (fac)*
   ua: займатися спортом
-- ro: a câștiga un meci (câștig)
+- ro: a câștiga un meci (câștig)*
   ua: виграти матч
-- ro: a pierde un meci (pierd)
+- ro: a pierde un meci (pierd)*
   ua: програти матч
-- ro: a marca un gol (marchez)
+- ro: a marca un gol (marchez)*
   ua: забити гол
 - ro: a antrena o echipă (antrenez)
   ua: тренувати команду
