@@ -2,8 +2,10 @@
   ua: спорт
 - ro: un atlet<u>i</u>sm
   ua: атлетика
-- ro: un sport<u>i</u>iv - doi sportivi
+- ro: un sport<u>i</u>v - doi sportivi
   ua: спортсмен
+- ro: o sport<u>i</u>vă - două sportive
+  ua: спортсменка
 - ro: un atlet - doi atleți
   ua: атлет
 - ro: un fotbalist - doi fotbaliști
@@ -12,16 +14,20 @@
   ua: футбол
 - ro: un meci - două m<u>e</u>ciuri
   ua: матч
-- ro: o ech<u>i</u>pă - două ech<u>i</u>pe
-  ua: команда
-- ro: un jucăt<u>o</u>r - doi jucători
-  ua: гравець
 - ro: o repr<u>i</u>ză - două repr<u>i</u>ze
   ua: тайм
 - ro: un gol - două g<u>o</u>luri
   ua: гол
+- ro: o ech<u>i</u>pă - două ech<u>i</u>pe
+  ua: команда
+- ro: un jucăt<u>o</u>r - doi jucători
+  ua: гравець
 - ro: un antren<u>o</u>r - doi antrenori
   ua: тренер
+- ro: un arb<u>i</u>tru - doi arbitri
+  ua: арбітр
+- ro: un fan - doi fani
+  ua: вболівальник
 - ro: un stadi<u>o</u>n - două stadio<u>a</u>ne
   ua: стадіон
 - ro: o compet<u>i</u>ție - două compet<u>i</u>ții
@@ -42,18 +48,12 @@
   ua: штрафний удар
 - ro: o f<u>a</u>ult - două f<u>a</u>ulturi
   ua: фол
-- ro: un arb<u>i</u>tru - doi arbitri
-  ua: арбітр
-- ro: un fan - doi fani
-  ua: вболівальник
-- ro: un echipam<u>e</u>nt sportiv - două echipamente sportive
-  ua: спортивна форма
+- ro: un carton<u>a</u>ș galben - două cartonașe galbene
+  ua: жовта картка
 - ro: o m<u>i</u>nge - două m<u>i</u>ngi
   ua: м'яч
 - ro: un ter<u>e</u>n - două ter<u>e</u>nuri
   ua: поле, майданчик
-- ro: o alerg<u>a</u>re - două alerg<u>ă</u>ri
-  ua: біг
 - ro: un antrenam<u>e</u>nt - două antrenam<u>e</u>nte
   ua: тренування
 - ro: o competiție internațională - două competiții internaționale
@@ -62,10 +62,14 @@
   ua: рекорд
 - ro: o med<u>a</u>lie - două med<u>a</u>lii
   ua: медаль
+- ro: un echipam<u>e</u>nt sportiv - două echipamente sportive
+  ua: спортивна форма
 - ro: un ciclist - doi cicliști
   ua: велосипедист
 - ro: un înotător - doi înotători
   ua: плавець
+- ro: o alerg<u>a</u>re - două alerg<u>ă</u>ri
+  ua: біг
 - ro: o cursă de ciclism - două curse de ciclism
   ua: велогонка
 - ro: o săritură cu prăjina
