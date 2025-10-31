@@ -6,9 +6,15 @@
   ua: веб-сторінка
 - ro: o rețea socială
   ua: соціальна мережа
-- ro: un coment<u>a</u>riu - două comentarii
+- ro: un profil
+  ua: профіль
+- ro: un utilizat<u>o</u>r - doi utilizat<u>o</u>ri
+  ua: користувач
+- ro: o post<u>a</u>re - două post<u>ă</u>ri
+  ua: пост, публікація
+- ro: un coment<u>a</u>riu - două coment<u>a</u>arii
   ua: коментар
-- ro: un cont - două conturi
+- ro: un cont - două c<u>o</u>nturi
   ua: акаунт
 - ro: o par<u>o</u>lă - două parole
   ua: пароль
@@ -36,7 +42,7 @@
   ua: програма
 - ro: un fiși<u>e</u>r
   ua: файл
-- ro: un folder
+- ro: un folder - două foldere
   ua: папка
 - ro: un document - două documente
   ua: документ
@@ -48,8 +54,10 @@
   ua: сповіщення
 - ro: un chat - două chat-uri
   ua: чат
-- ro: un ap<u>e</u>l (video)
+- ro: un ap<u>e</u>l (video) - două ap<u>e</u>luri
   ua: (відео)дзвінок
+- ro: un videoclip - două videoclipuri
+  ua: відеокліп, відео
 - ro: ---
   ua: ---
 - ro: a descărc<u>a</u> (desc<u>a</u>rc)*
