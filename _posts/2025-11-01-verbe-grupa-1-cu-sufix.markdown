@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Дієслова першої групи з суфіксом -ez"
-date: 2025-07-13 20:00:00 +0300
+date: 2025-11-01 20:00:00 +0300
 category: verbe
 img: "https://screens.cdn.wordwall.net/200/09168f7db2e34310973ed93b4f1a63a5_0"
 ---
 
-{% include verbe/verbe_2.html %}
+{% include verbe/verbe_grupa_1_cu_suf.html %}
