@@ -289,3 +289,20 @@ table caption {
   background-color: rgb(252, 209, 22, 0.2);
   /* display: flex; */
 }
+
+.verb-list {
+  font-size: 1.1em;
+  margin-bottom: 8px;
+}
+
+/* details summary::marker {
+  content: "\21d2";
+  background-color: rgb(49, 193, 20) !important;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+details[open] summary::marker {
+  content: "\21d3";
+  background-color: rgb(49, 193, 20) !important;
+} */

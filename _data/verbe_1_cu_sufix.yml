@@ -1,28 +1,219 @@
-# ...existing code...
-# List of verbs with suffixes that belong to the first conjugation group in Romanian
-- a actualiza
-- a bloca
-- a completa
-- a copia
-- a conecta
-- a decora
-- a dura
-- a filma
-- a fixa
-- a fotografia
-- a fuma
-- a instala
-- a lucra
-- a monta
-- a naviga
-- a parca
-- a păstra
-- a programa
-- a raporta
-- a semna
-- a seta
-- a studia
-- a telefona
-- a visa
-- a viza
-- a vizita
+- key:
+    name: A
+    values:
+      - ro: "a acomoda"
+        ua: "вміщувати, розміщувати"
+      - ro: "a activa"
+        ua: "активувати"
+      - ro: "a actualiza"
+        ua: "оновлювати"
+      - ro: "a acumula"
+        ua: "накопичувати"
+      - ro: "a adapta"
+        ua: "адаптувати"
+      - ro: "a administra"
+        ua: "управляти, адмініструвати"
+      - ro: "a adresa"
+        ua: "адресувати, звертатися"
+      - ro: "a antrena"
+        ua: "тренувати"
+      - ro: "a aprecia"
+        ua: "оцінювати, цінувати"
+      - ro: "a asocia"
+        ua: "асоціювати"
+- key:
+    name: B
+    values:
+      - ro: "a baza"
+        ua: "базувати"
+      - ro: "a beneficia"
+        ua: "отримувати вигоду"
+      - ro: "a bloca"
+        ua: "блокувати"
+- key:
+    name: C
+    values:
+      - ro: "a completa"
+        ua: "заповнювати, доповнювати"
+      - ro: "a concentra"
+        ua: "концентрувати"
+      - ro: "a conecta"
+        ua: "підключати, з'єднувати"
+      - ro: "a consolida"
+        ua: "зміцнювати, консолідувати"
+      - ro: "a conta"
+        ua: "мати значення, рахуватися"
+      - ro: "a copia"
+        ua: "копіювати"
+      - ro: "a crea"
+        ua: "створювати"
+- key:
+    name: D
+    values:
+      - ro: "a datora"
+        ua: "бути винним, бути зобов'язаним"
+      - ro: "a decora"
+        ua: "прикрашати"
+      - ro: "a deranja"
+        ua: "турбувати, заважати"
+      - ro: "a descuraja"
+        ua: "відмовляти, знеохочувати"
+      - ro: "a dicta"
+        ua: "диктувати"
+      - ro: "a distra"
+        ua: "розважати"
+      - ro: "a dona"
+        ua: "дарувати, жертвувати"
+      - ro: "a dura"
+        ua: "тривати"
+- key:
+    name: E
+    values:
+      - ro: "a epuiza"
+        ua: "вичерпуватися, виснажуватися"
+      - ro: "a evalua"
+        ua: "оцінювати"
+      - ro: "a examina"
+        ua: "оглядати, перевіряти"
+- key:
+    name: F
+    values:
+      - ro: "a favoriza"
+        ua: "сприяти, надавати перевагу"
+      - ro: "a filtra"
+        ua: "фільтрувати"
+      - ro: "a filma"
+        ua: "знімати на відео"
+      - ro: "a fixa"
+        ua: "закріплювати, фіксувати"
+      - ro: "a forma"
+        ua: "формувати, створювати"
+      - ro: "a fotografia"
+        ua: "фотографувати"
+      - ro: "a frecventa"
+        ua: "відвідувати регулярно"
+      - ro: "a fuma"
+        ua: "курити"
+      - ro: "a funcționa"
+        ua: "функціонувати, працювати"
+      - ro: "a furniza"
+        ua: "постачати, забезпечувати"
+- key:
+    name: G
+    values:
+      - ro: "a genera"
+        ua: "створювати, породжувати"
+      - ro: "a gestiona"
+        ua: "керувати, управляти"
+      - ro: "a grupa"
+        ua: "групувати"
+- key:
+    name: I
+    values:
+      - ro: "a influența"
+        ua: "впливати"
+      - ro: "a instala"
+        ua: "встановлювати"
+      - ro: "a interesa"
+        ua: "цікавити"
+      - ro: "a invidia"
+        ua: "заздрити"
+      - ro: "a izola"
+        ua: "ізолювати"
+- key:
+    name: Î
+    values:
+      - ro: "a încuraja"
+        ua: "заохочувати"
+      - ro: "a însemna"
+        ua: "означати"
+      - ro: "a întrebuința"
+        ua: "використовувати"
+- key:
+    name: L
+    values:
+      - ro: "a limita"
+        ua: "обмежувати"
+      - ro: "a lista"
+        ua: "складати список"
+      - ro: "a livra"
+        ua: "доставляти, вручати"
+      - ro: "a lucra"
+        ua: "працювати"
+- key:
+    name: M
+    values:
+      - ro: "a marca"
+        ua: "позначати, маркувати"
+      - ro: "a memora"
+        ua: "запам'ятовувати"
+      - ro: "a monta"
+        ua: "збирати, монтувати"
+- key:
+    name: N
+    values:
+      - ro: "a nota"
+        ua: "нотувати, робити нотатки"
+      - ro: "a naviga"
+        ua: "плавати, орієнтуватися"
+- key:
+    name: O
+    values:
+      - ro: "a organiza"
+        ua: "організовувати"
+- key:
+    name: P
+    values:
+      - ro: "a parca"
+        ua: "паркувати"
+      - ro: "a păstra"
+        ua: "зберігати"
+      - ro: "a printa"
+        ua: "друкувати"
+      - ro: "a programa"
+        ua: "програмувати, планувати"
+- key:
+    name: R
+    values:
+      - ro: "a raporta"
+        ua: "звітувати, доповідати"
+      - ro: "a rata"
+        ua: "пропускати, не встигати"
+- key:
+    name: S
+    values:
+      - ro: "a salva"
+        ua: "зберігати (файл), рятувати"
+      - ro: "a semna"
+        ua: "підписувати"
+      - ro: "a seta"
+        ua: "встановлювати, налаштовувати"
+      - ro: "a simula"
+        ua: "імітувати, моделювати"
+      - ro: "a sfida"
+        ua: "кидати виклик"
+      - ro: "a studia"
+        ua: "вивчати, навчатися"
+      - ro: "a sublinia"
+        ua: "підкреслювати"
+- key:
+    name: T
+    values:
+      - ro: "a testa"
+        ua: "тестувати, перевіряти"
+      - ro: "a telefona"
+        ua: "телефонувати"
+- key:
+    name: U
+    values:
+      - ro: "a utiliza"
+        ua: "використовувати"
+- key:
+    name: V
+    values:
+      - ro: "a valida"
+        ua: "підтверджувати, перевіряти"
+      - ro: "a visa"
+        ua: "мріяти, бажати"
+      - ro: "a viza"
+        ua: "цілитися, мати на меті"
