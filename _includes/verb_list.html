@@ -1,9 +1,10 @@
-{% for letter in site.data.verbe_1_cu_sufix %}
-<details>
+Список дієслів першої групи з суфіксом {% for letter in
+site.data.verbe_1_cu_sufix %}
+<details class="verb-list">
   <summary>{{ letter.key.name }}</summary>
   <ul>
     {% for verb in letter.key.values %}
-    <li>
+    <li class="verb-list-item">
       <strong lang="ro">{{ verb.ro }}</strong>{% if verb.ua %} —
       <span lang="uk">{{ verb.ua }}</span>{% endif %}
     </li>
