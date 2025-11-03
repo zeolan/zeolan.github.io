@@ -17,6 +17,10 @@ p > div {
   font-size: 1.1em;
 }
 
+li {
+  margin-bottom: 8px;
+}
+
 .site-header .site-title {
   font-weight: bolder;
   font-size: 20px;
@@ -130,7 +134,7 @@ a.category {
   font-size: 18px;
 }
 a.category:hover {
-  background-color: rgb(252, 209, 22, 0.2);
+  background-color: $highlight-yellow;
   /* border-width: 2px;
   padding: 18px; */
 }
@@ -150,17 +154,11 @@ a.category:hover {
 .social-link {
   font-weight: bolder;
   margin-bottom: 5px;
-  /* font-size: 120%; */
   color: #2a7ae2;
 }
 
 .table-custom {
-  /* width: 100%;
-  border-collapse: collapse;
-  background: #fff;
-  font-size: 1.1em; */
   font-size: 18px;
-  color: rgb(17, 136, 119);
   color: #444444;
   p {
     margin: 0;
@@ -170,34 +168,12 @@ a.category:hover {
   }
 }
 
-/* .table-custom th,
-.table-custom td {
-  padding: 12px 16px;
-  border: 1px solid #e0e0e0;
-  text-align: left;
-}
-
-.table-custom th {
-  background: #f1f5fb;
-  color: #1a237e;
-  font-weight: 700;
-  font-size: 1.15em;
-}
-
-.table-custom tr:nth-child(even) {
-  background: #f6f8fa;
-}
-
-.table-custom tr:hover {
-  background: #e3f2fd;
-} */
-
 .table-custom {
   width: 100%;
   border-collapse: collapse;
   background: #fff;
   font-size: 1.1em;
-  color: #222831;
+  color: $font-main-color;
   table-layout: fixed;
 }
 .table-custom th,
@@ -283,7 +259,6 @@ table caption {
 .fraze-verb {
   font-weight: bolder;
   background-color: $highlight-yellow;
-  /* display: flex; */
 }
 
 .highlight-yellow {
