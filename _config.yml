@@ -34,6 +34,8 @@ google_analytics: UA-123456789-1 # your Google Analytics tracking ID
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+  sass_dir: _sass
 #  - jekyll-pwa-plugin
 # pwa:
 #   enabled: true
