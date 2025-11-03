@@ -290,11 +290,18 @@ table caption {
   /* display: flex; */
 }
 
+.highlight-yellow {
+  background-color: rgb(252, 209, 22, 0.2);
+}
+
 .verb-list {
   font-size: 1.1em;
   margin-bottom: 8px;
 }
 
+.main-font {
+  font-size: 1.1em;
+}
 /* details summary::marker {
   content: "\21d2";
   background-color: rgb(49, 193, 20) !important;
