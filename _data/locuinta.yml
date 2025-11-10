@@ -78,10 +78,12 @@
   ua: тумбочка
 - ro: un bir<u>o</u>u - două bir<u>o</u>uri
   ua: письмовий стіл
-- ro: un raft - două r<u>a</u>fturi
-  ua: полиця
+- ro: un raft (suspendat) - două r<u>a</u>fturi
+  ua: полиця (навісна)
 - ro: o bibliot<u>e</u>că - două bibliot<u>e</u>ci
   ua: книжкова шафа
+- ro: o etaj<u>e</u>ră - două etaj<u>e</u>re
+  ua: стелаж
 - ro: un cui<u>e</u>r - două cui<u>e</u>re
   ua: вішалка (для одягу)
 - ro: un cov<u>o</u>r - două covo<u>a</u>re
@@ -90,6 +92,16 @@
   ua: штора
 - ro: un tabl<u>o</u>u - două tabl<u>o</u>uri
   ua: картина
+- ro: o p<u>e</u>rnă - două p<u>e</u>rne
+  ua: подушка
+- ro: o salte<u>a</u> - două salt<u>e</u>le
+  ua: матрац
+- ro: o p<u>ă</u>tură - două p<u>ă</u>turi
+  ua: покривало
+- ro: un cearș<u>a</u>f - două cearș<u>a</u>furi
+  ua: простирадло, підковдра
+- ro: un pros<u>o</u>p - două proso<u>a</u>pe
+  ua: рушник
 - ro: ---
   ua: ---
 - ro: un televiz<u>o</u>r - două televizo<u>a</u>re
