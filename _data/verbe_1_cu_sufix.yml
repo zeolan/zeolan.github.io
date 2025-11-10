@@ -182,6 +182,11 @@
       - ro: "întrebuința"
         ua: "використовувати"
 - key:
+    name: J
+    values:
+      - ro: "jubila"
+        ua: "торжествувати, втішатися, радіти"
+- key:
     name: L
     values:
       - ro: "limita"
