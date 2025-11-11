@@ -271,3 +271,11 @@ table caption {
 .main-font {
   font-size: 1.1em;
 }
+
+details summary {
+  cursor: pointer;
+  background-color: $highlight-yellow;
+  &:hover {
+    background-color: darken($highlight-yellow, 15%);
+  }
+}
