@@ -284,3 +284,34 @@ details[open] summary {
   background-color: darken($highlight-yellow, 35%);
   margin-bottom: 0.5em;
 }
+
+.site-header-lang-selector {
+  display: flex;
+  font-weight: bolder;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-right: 10px;
+  flex: 1 0 auto;
+  flex-direction: row-reverse;
+}
+
+.site-header-lang-label {
+  background-color: $highlight-yellow;
+  border: 1px solid $font-main-color;
+  border-radius: 15%;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.header-wrapper {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+}
+.header-nav-wrapper {
+  //   display: flex;
+  //   margin-right: 0;
+  //   margin-left: auto;
+  flex: none;
+}
