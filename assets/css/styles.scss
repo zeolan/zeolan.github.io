@@ -279,3 +279,8 @@ details summary {
     background-color: darken($highlight-yellow, 15%);
   }
 }
+
+details[open] summary {
+  background-color: darken($highlight-yellow, 35%);
+  margin-bottom: 0.5em;
+}
