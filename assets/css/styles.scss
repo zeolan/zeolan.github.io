@@ -222,6 +222,16 @@ a.category:hover {
   grid-template-columns: 1fr 1fr;
   margin-bottom: 5px;
 }
+.lang-toggle {
+  display: flex;
+  margin-bottom: 5px;
+  align-items: flex-end;
+}
+.table-lang-toggle {
+  display: flex;
+  flex-direction: row-reverse;
+  flex: auto;
+}
 
 .blue-bold {
   color: blue;
@@ -283,4 +293,27 @@ details summary {
 details[open] summary {
   background-color: darken($highlight-yellow, 35%);
   margin-bottom: 0.5em;
+}
+
+.site-header-lang-selector {
+  display: flex;
+  font-weight: bolder;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-right: 10px;
+  flex: 1 0 auto;
+  flex-direction: row-reverse;
+}
+
+.site-header-lang-label {
+  background-color: $highlight-yellow;
+  border: 1px solid $font-main-color;
+  border-radius: 15%;
+  padding: 4px 8px;
+  cursor: pointer;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  align-self: baseline;
+  font-size: 0.8em;
 }

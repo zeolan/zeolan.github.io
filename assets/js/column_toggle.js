@@ -23,11 +23,13 @@
         .getElementById("toggle-ua")
         .addEventListener("change", function () {
           var opacity = this.checked ? "1" : "0";
-          document.querySelectorAll(".col-ua").forEach(function (cell) {
-            cell.style.opacity = opacity;
-          });
+          document
+            .querySelectorAll(".col-ru, .col-ua")
+            .forEach(function (cell) {
+              cell.style.opacity = opacity;
+            });
         });
-      document.querySelectorAll(".col-ua").forEach(function (cell) {
+      document.querySelectorAll(".col-ru, .col-ua").forEach(function (cell) {
         cell.style.opacity = "1";
         cell.addEventListener("click", function () {
           var opacity = this.style.opacity == "1" ? "0" : "1";

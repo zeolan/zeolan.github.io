@@ -5,3 +5,4 @@ _site
 vendor
 .vercel
 .env*.local
+utils/

@@ -1,186 +1,285 @@
 - ro: un motor - două moto<u>a</u>re
   ua: мотор
+  ru: двигатель
 - ro: o cut<u>i</u>e de viteze
   ua: коробка передач
+  ru: коробка передач
 - ro: un ambrei<u>a</u>j
   ua: зчеплення
+  ru: сцепление
 - ro: o acceler<u>a</u>ție
   ua: акселератор
+  ru: педаль газа
 - ro: o fr<u>â</u>nă - două fr<u>â</u>ne
   ua: гальмо
+  ru: тормоз
 - ro: frâna de mână
   ua: ручне гальмо
+  ru: ручной тормоз
 - ro: un vol<u>a</u>n
   ua: кермо
+  ru: руль
 - ro: un schimbăt<u>o</u>r de viteze
   ua: важіль перемикання передач
+  ru: рычаг переключения передач
 - ro: o ped<u>a</u>lă
   ua: педаль
+  ru: педаль
 - ro: un bord
   ua: приладова панель
+  ru: приборная панель
 - ro: un torpedo
-  ua:
+  ua: бардачок
+  ru: бардачок
 - ro: o bater<u>i</u>e - două baterii
   ua: акумулятор
+  ru: аккумулятор
 - ro: un far - două f<u>a</u>ruri
   ua: фара
+  ru: фараё
 - ro: un semnalizat<u>o</u>r
   ua: покажчик повороту
+  ru: указатель поворота
 - ro: un stop
   ua: стоп-сигнал
+  ru: стоп-сигнал
 - ro: un clax<u>o</u>n
-  ua: клаксона
+  ua: клаксон
+  ru: клаксон
 - ro: un far de ceață
   ua: протитуманна фара
+  ru: противотуманная фара
 - ro: un parbr<u>i</u>z
   ua: лобове скло
+  ru: лобовое стекло
 - ro: un ge<u>a</u>m - două ge<u>a</u>muri
   ua: скло
+  ru: стекло
 - ro: un geam lateral
   ua: бічне скло
+  ru: боковое стекло
 - ro: un geam de lunetă (o lunetă)
   ua: заднє скло
+  ru: заднее стекло
 - ro: o oglindă laterală
   ua: бічне дзеркало
+  ru: боковое зеркало
 - ro: o oglindă retrovizoare (un retrovizor)
   ua: дзеркало заднього виду
+  ru: зеркало заднего вида
 - ro: un ștergăt<u>o</u>r (de parbriz)
   ua: склоочисник
+  ru: стеклоочиститель
 - ro: o ușă (o poartă)
   ua: двері
+  ru: дверь
 - ro: o cap<u>o</u>tă
   ua: капот
+  ru: капот
 - ro: un portbag<u>a</u>j
   ua: багажник
+  ru: багажник
 - ro: un hayon
   ua: кришка багажника
+  ru: крышка багажника
 - ro: o cent<u>u</u>ră de siguranță
   ua: ремінь безпеки
+  ru: ремень безопасности
 - ro: o bancet<u>ă</u>
   ua: сидіння
+  ru: сиденье
 - ro: un rezerv<u>o</u>r (de combustibil)
   ua: паливний бак
+  ru: топливный бак
 - ro: o ro<u>a</u>tă - două roți
   ua: колесо
+  ru: колесо
 - ro: o roată de rezervă
   ua: запасне колесо
+  ru: запасное колесо
 - ro: o anvel<u>o</u>pă - două anvelope
   ua: шина
+  ru: шина
 - ro: o j<u>a</u>ntă - două jante
   ua: диск
+  ru: диск
 - ro: un cauci<u>u</u>c - două cauci<u>u</u>curi
   ua: покришка
+  ru: покрышка
 - ro: o distrib<u>u</u>ție
   ua: трансмісія
+  ru: трансмисия
 - ro: o susp<u>e</u>nsie
   ua: підвіска
+  ru: подвеска
 - ro: un șas<u>i</u>u
   ua: шасі
+  ru: шасси
 - ro: o caroser<u>i</u>e
   ua: кузов
+  ru: кузов
 - ro: ---
   ua: ---
+  ru: ---
 - ro: un semaf<u>o</u>r
   ua: світлофор
+  ru: светофор
 - ro: un indicat<u>o</u>r - două indicato<u>a</u>re
   ua: покажчик, дорожній знак
+  ru: указатель, дорожный знак
 - ro: o tr<u>e</u>cere de pietoni
   ua: пішохідний перехід
+  ru: пешеходный переход
 - ro: o bandă de circulație
   ua: смуга руху
+  ru: полоса движения
 - ro: o inters<u>e</u>cție
   ua: перехрестя
+  ru: перекресток
 - ro: drum principal
   ua: головна дорога
+  ru: главная дорога
 - ro: drum secundar
   ua: другорядна дорога
+  ru: второстепенная дорога
 - ro: sens girat<u>o</u>riu
   ua: круговий рух
+  ru: круговое движение
 - ro: sens unic
   ua: односторонній рух
+  ru: одностороннее движение
 - ro: o depăș<u>i</u>re - două depăș<u>i</u>ri
   ua: обгін
+  ru: обгон
 - ro: o vit<u>e</u>ză (maximă) - două vit<u>e</u>ze
   ua: (максимальна) швидкість
+  ru: (максимальная) скорость
 - ro: un marc<u>a</u>j
   ua: розмітка
+  ru: разметка
 - ro: o linie continuă
   ua: суцільна лінія
+  ru: сплошная линия
 - ro: o linie dublă continuă
   ua: подвійна суцільна лінія
+  ru: двойная сплошная линия
 - ro: un caros<u>a</u>bil (o parte carosabilă)
   ua: проїзжа частина
+  ru: проезжая часть
 - ro: un accident rutier
   ua: дорожньо-транспортна пригода
+  ru: дорожно-транспортное происшествие
 - ro: un caramb<u>o</u>l
   ua: зіткнення-паровозік
+  ru: столкновение-вагончик
 - ro: un viraj la dreapta (la stânga)
   ua: поворот праворуч (ліворуч)
+  ru: поворот направо (налево)
 - ro: o curbă - două curbe
   ua: поворот
+  ru: поворот
 - ro: un stâlp - doi stâlpi
   ua: стовп
+  ru: столб
 - ro: un trotuar
   ua: тротуар
+  ru: тротуар
 - ro: -----
   ua: -----
+  ru: -----
 - ro: un perm<u>i</u>s de conducere
   ua: водійське посвідчення
+  ru: водительское удостоверение
 - ro: un șof<u>e</u>r - doi șof<u>e</u>ri
   ua: водій
+  ru: водитель
 - ro: o mașină - două mașini
   ua: автомобіль
+  ru: автомобиль
 - ro: o mașină cu tracțiune integrală
   ua: автомобіль з повним приводом
+  ru: автомобиль с полным приводом
 - ro: o mașină cu tracțiune față
   ua: автомобіль з переднім приводом
+  ru: автомобиль с передним приводом
 - ro: o mașină cu tracțiune spate
   ua: автомобіль з заднім приводом
+  ru: автомобиль с задним приводом
 - ro: o mașină cu transmisie (cutie) automată
   ua: автомобіль з автоматичною коробкою передач
+  ru: автомобиль с автоматической коробкой передач
 - ro: o mașină cu transmisie manuală
+  ru: автомобиль с механической коробкой передач
   ua: автомобіль з механічною коробкою передач
 - ro: un veh<u>i</u>cul - două veh<u>i</u>cule
   ua: транспортний засіб
+  ru: транспортное средство
 - ro: o motocicl<u>e</u>tă - două motociclete
   ua: мотоцикл
+  ru: мотоцикл
 - ro: o bicicl<u>e</u>tă
   ua: велосипед
+  ru: велосипед
 - ro: o trotin<u>e</u>tă
   ua: самокат
+  ru: самокат
 - ro: o autoutilitară
   ua: вантажівка
+  ru: грузовик
+- ro: un camion - două camioane
+  ua: вантажівка
+  ru: грузовик
 - ro: o rem<u>o</u>rcă
   ua: причіп
+  ru: прицеп
 - ro: o autob<u>u</u>z
   ua: автобус
+  ru: автобус
+- ro: un microb<u>u</u>z
+  ua: мікроавтобус
+  ru: микроавтобус
 - ro: o tramvai
   ua: трамвай
+  ru: трамвай
 - ro: o troleib<u>u</u>z
   ua: тролейбус
+  ru: троллейбус
 - ro: o mașină electrică
   ua: електромобіль
+  ru: электромобиль
 - ro: o mașină hibridă
   ua: гібридний автомобіль
+  ru: гибридный автомобиль
 - ro: o mașină sport
   ua: спортивний автомобіль
+  ru: спортивный автомобиль
 - ro: o mașină de lux
   ua: розкішний автомобіль
+  ru: роскошный автомобиль
 - ro: o mașină de familie
   ua: сімейний автомобіль
+  ru: семейный автомобиль
 - ro: o mașină compactă
   ua: компактний автомобіль
+  ru: компактный автомобиль
 - ro: o mașină sedan
   ua: седан
+  ru: седан
 - ro: o mașină hatchback
   ua: хетчбек
+  ru: хэтчбек
 - ro: o mașină cabriolet
   ua: кабріолет
+  ru: кабриолет
 - ro: o mașină cu motor pe benzină
   ua: автомобіль з бензиновим двигуном
+  ru: автомобиль с бензиновым двигателем
 - ro: o mașină cu motor diesel
   ua: автомобіль з дизельним двигуном
+  ru: автомобиль с дизельным двигателем
 - ro: o mașină cu motor electric
   ua: автомобіль з електричним двигуном
+  ru: автомобиль с электрическим двигателем
 - ro: o mașină cu motor hibrid
   ua: автомобіль з гібридним двигуном
+  ru: автомобиль с гибридным двигателем
