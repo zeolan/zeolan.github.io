@@ -1,66 +1,99 @@
 - ro: o sărbăto<u>a</u>re - două sărbăt<u>o</u>ri
   ua: свято
+  ru: праздник
 - ro: o zi liberă - două zile libere
   ua: вихідний день
+  ru: выходной день
 - ro: o zi de naștere - două zile de naștere
   ua: день народження
+  ru: день рождения
 - ro: o anivers<u>a</u>re - două anivers<u>ă</u>ri
   ua: ювілей
+  ru: юбилей
 - ro: o felicit<u>a</u>re - două felicit<u>ă</u>ri
   ua: привітання
+  ru: поздравление
 - ro: Crăci<u>u</u>nul
   ua: Різдво
+  ru: Рождество
 - ro: Crăciun Fericit!
   ua: Веселого Різдва!
+  ru: Счастливого Рождества!
 - ro: Moș Nicolae
   ua: Святий Миколай
+  ru: Святой Николай
 - ro: Moș Crăciun
   ua: Дід Мороз
+  ru: Дед Мороз
 - ro: Sărbători Fericite!
   ua: Щасливих свят!
+  ru: Счастливых праздников!
 - ro: Reveli<u>o</u>nul
   ua: Новий рік (вечір)
+  ru: Новый год (вечер)
 - ro: Anul Nou
   ua: Новий рік
+  ru: Новый год
 - ro: Sărbători fericite și un An Nou fericit!
   ua: Щасливих свят і щасливого Нового року!
+  ru: Счастливых праздников и счастливого Нового года!
 - ro: P<u>a</u>ște
   ua: Великдень
+  ru: Пасха
 - ro: Hristos a înviat!
   ua: Христос Воскрес!
+  ru: Христос воскрес!
 - ro: Adevărat a înviat!
   ua: Воістину Воскрес!
+  ru: Воистину воскрес!
 - ro: Postul Paștelui
   ua: Великий піст
+  ru: Великий пост
 - ro: V<u>i</u>nerea Mare
   ua: Велика П'ятниця
+  ru: Страстная пятница
 - ro: Învi<u>e</u>rea Domnului
   ua: Великдень
+  ru: Воскресение Господне
 - ro: Mărțiș<u>o</u>rul
   ua: Мартениця (Свято весни)
+  ru: Мэрцишор (праздник весны)
 - ro: Rus<u>a</u>lii
   ua: Зелені свята (Трійця)
+  ru: Троица (Зелёные праздники)
 - ro: La mulți ani!
   ua: Багато років! (З Днем народження!)
+  ru: Многих лет! (С днём рождения!)
 - ro: Sănăt<u>a</u>te!
   ua: Будьте здорові!
-- ro: Ziua Îndrăgost<u>i</u>ților
+  ru: Будьте здоровы!
+- ro: Ziua Îndrăgostiților
   ua: День святого Валентина
+  ru: День святого Валентина
 - ro: Ziua Copilului
   ua: День захисту дітей
+  ru: День защиты детей
 - ro: Ziua Femeii
   ua: Міжнародний жіночий день
+  ru: Международный женский день
 - ro: Ziua Independ<u>e</u>nței
   ua: День незалежності
+  ru: День независимости
 - ro: Ziua Națională
   ua: Національне свято
+  ru: Национальный праздник
 - ro: ---
   ua: ---
+  ru: ---
 - ro: a sărbători (sărbător<u>e</u>sc)*
   ua: святкувати
+  ru: праздновать
 - ro: a aniversa (anivers<u>e</u>z)
   ua: відзначати ювілей
+  ru: отмечать юбилей
 - ro: a felicita (felic<u>i</u>t)
   ua: вітати
+  ru: поздравлять
 - ro: a ura (ur<u>e</u>z)
   ua: бажати
+  ru: желать

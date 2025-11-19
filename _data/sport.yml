@@ -1,152 +1,228 @@
 - ro: un sport - două sporturi
   ua: спорт
+  ru: спорт
 - ro: un atlet<u>i</u>sm
   ua: атлетика
+  ru: лёгкая атлетика
 - ro: un sport<u>i</u>v - doi sportivi
   ua: спортсмен
+  ru: спортсмен
 - ro: o sport<u>i</u>vă - două sportive
   ua: спортсменка
+  ru: спортсменка
 - ro: un atlet - doi atleți
   ua: атлет
+  ru: атлет
 - ro: un fotbalist - doi fotbaliști
   ua: футболіст
+  ru: футболист
 - ro: un f<u>o</u>tbal - două fotbaluri
   ua: футбол
+  ru: футбол
 - ro: un meci - două m<u>e</u>ciuri
   ua: матч
+  ru: матч
 - ro: o repr<u>i</u>ză - două repr<u>i</u>ze
   ua: тайм
+  ru: тайм
 - ro: un gol - două g<u>o</u>luri
   ua: гол
+  ru: гол
 - ro: o ech<u>i</u>pă - două ech<u>i</u>pe
   ua: команда
+  ru: команда
 - ro: un jucăt<u>o</u>r - doi jucători
   ua: гравець
+  ru: игрок
 - ro: un antren<u>o</u>r - doi antrenori
   ua: тренер
+  ru: тренер
 - ro: un arb<u>i</u>tru - doi arbitri
   ua: арбітр
+  ru: арбитр
 - ro: un fan - doi fani
   ua: вболівальник
+  ru: болельщик
 - ro: un stadi<u>o</u>n - două stadio<u>a</u>ne
   ua: стадіон
+  ru: стадион
 - ro: o compet<u>i</u>ție - două compet<u>i</u>ții
   ua: змагання
+  ru: соревнование, соревнования
 - ro: o l<u>i</u>gă - două ligi
   ua: ліга
+  ru: лига
 - ro: un campion<u>a</u>t - două campion<u>a</u>te
   ua: чемпіонат
+  ru: чемпионат
 - ro: o vict<u>o</u>rie - două vict<u>o</u>rii
   ua: перемога
+  ru: победа
 - ro: o înfr<u>â</u>ngere - două înfr<u>â</u>ngeri
   ua: поразка
+  ru: поражение
 - ro: un eg<u>a</u>l - două eg<u>a</u>luri
   ua: нічия
+  ru: ничья
 - ro: o lovit<u>u</u>ră de colț - două lovit<u>u</u>ri de colț
   ua: кутовий удар
+  ru: угловой удар
 - ro: o lovitură liberă
   ua: штрафний удар
+  ru: штрафной удар
 - ro: o f<u>a</u>ult - două f<u>a</u>ulturi
   ua: фол
+  ru: фол
 - ro: un carton<u>a</u>ș galben - două cartonașe galbene
   ua: жовта картка
+  ru: жёлтая карточка
 - ro: o m<u>i</u>nge - două m<u>i</u>ngi
   ua: м'яч
+  ru: мяч
 - ro: un ter<u>e</u>n - două ter<u>e</u>nuri
   ua: поле, майданчик
+  ru: поле, площадка
 - ro: un antrenam<u>e</u>nt - două antrenam<u>e</u>nte
   ua: тренування
+  ru: тренировка
 - ro: o competiție internațională - două competiții internaționale
   ua: міжнародні змагання
+  ru: международные соревнования
 - ro: un record - două recorduri
   ua: рекорд
+  ru: рекорд
 - ro: o med<u>a</u>lie - două med<u>a</u>lii
   ua: медаль
+  ru: медаль
 - ro: un echipam<u>e</u>nt sportiv - două echipamente sportive
   ua: спортивна форма
+  ru: спортивная форма
 - ro: un ciclist - doi cicliști
   ua: велосипедист
+  ru: велосипедист
 - ro: un înotător - doi înotători
   ua: плавець
+  ru: пловец
 - ro: o alerg<u>a</u>re - două alerg<u>ă</u>ri
   ua: біг
+  ru: бег
 - ro: o cursă de ciclism - două curse de ciclism
   ua: велогонка
+  ru: велогонка
 - ro: o săritură cu prăjina
   ua: стрибок з жердиною
+  ru: прыжок с шестом
 - ro: o săritură în apa
   ua: стрибок у воду
+  ru: прыжок в воду
 - ro: un maraton - două maratoane
   ua: марафон
+  ru: марафон
 - ro: un triatlon - două triatlonuri
   ua: тріатлон
+  ru: триатлон
 - ro: l<u>u</u>pte
   ua: боротьба
+  ru: борьба
 - ro: lupte greco-romane
   ua: боротьба греко-римська
+  ru: борьба греко-римская
 - ro: lupte libere
   ua: боротьба вільна
+  ru: вольная борьба
 - ro: h<u>a</u>ndbal
   ua: гандбол
+  ru: гандбол
 - ro: box
   ua: бокс
+  ru: бокс
 - ro: scr<u>i</u>mă
   ua: фехтування
+  ru: фехтование
 - ro: tenis
   ua: теніс
+  ru: теннис
 - ro: j<u>u</u>do
   ua: дзюдо
+  ru: дзюдо
 - ro: kar<u>a</u>te
   ua: карате
+  ru: карате
 - ro: halt<u>e</u>re
   ua: важка атлетика
+  ru: тяжёлая атлетика
 - ro: canot<u>a</u>j
   ua: веслування
+  ru: гребля
 - ro: v<u>o</u>lei
   ua: волейбол
+  ru: волейбол
 - ro: b<u>a</u>schet
   ua: баскетбол
+  ru: баскетбол
 - ro: rugby
   ua: регбі
+  ru: регби
 - ro: h<u>o</u>chei
   ua: хокей
+  ru: хоккей
 - ro: ski
   ua: лижі
+  ru: лыжи
 - ro: echit<u>a</u>ție
   ua: кінний спорт
+  ru: конный спорт
 - ro: ---
   ua: ---
+  ru: ---
 - ro: a face sport (fac)*
   ua: займатися спортом
+  ru: заниматься спортом
 - ro: a câștiga un meci (câștig)*
   ua: виграти матч
+  ru: выиграть матч
 - ro: a pierde un meci (pierd)*
   ua: програти матч
+  ru: проиграть матч
 - ro: a marca un gol (marchez)*
   ua: забити гол
+  ru: забить гол
 - ro: a antrena o echipă (antrenez)
   ua: тренувати команду
+  ru: тренировать команду
 - ro: a participa la o competiție (particip)
   ua: брати участь у змаганнях
+  ru: участвовать в соревнованиях
 - ro: a stabili un record (stabilesc)
   ua: встановити рекорд
+  ru: установить рекорд
 - ro: a alerga o cursă (alerg)
   ua: бігти гонку
+  ru: бежать гонку
 - ro: a înota într-o competiție (înot)
   ua: плавати на змаганнях
+  ru: плавать на соревнованиях
 - ro: a schia (schiez)
   ua: кататися на лижах
+  ru: кататься на лыжах
 - ro: a câștiga o medalie
   ua: виграти медаль
+  ru: выиграть медаль
 - ro: a se antrena zilnic
   ua: тренуватися щодня
+  ru: тренироваться ежедневно
 - ro: a fi în formă
   ua: бути у формі
+  ru: быть в форме
 - ro: a fi campion
   ua: бути чемпіоном
+  ru: быть чемпионом
 - ro: a fi învingător
   ua: бути переможцем
+  ru: быть победителем
 - ro: a fi învins
   ua: бути переможеним
+  ru: быть побеждённым
 - ro: a face o încălzire
   ua: робити розминку
+  ru: делать разминку
