@@ -1,162 +1,243 @@
 - ro: o locu<u>i</u>nță - două locu<u>i</u>nțe
   ua: житло
+  ru: жильё
 - ro: o c<u>a</u>să - două c<u>a</u>se
   ua: будинок
+  ru: дом
 - ro: un apartam<u>e</u>nt - două apartam<u>e</u>nte
   ua: квартира
+  ru: квартира
 - ro: un bl<u>o</u>c - două bl<u>o</u>curi
   ua: багатоквартирний будинок
+  ru: многоквартирный дом
 - ro: o sc<u>a</u>ră - două sc<u>ă</u>ri
   ua: під'їзд, сходи
+  ru: подъезд, лестница
 - ro: un interf<u>o</u>n - două interfo<u>a</u>ne
   ua: домофон
+  ru: домофон
 - ro: o <u>u</u>șă - două uși
   ua: двері
+  ru: двери
 - ro: un hol - două h<u>o</u>luri
   ua: коридор
+  ru: коридор
 - ro: o cam<u>e</u>ră - două cam<u>e</u>re
   ua: кімната
+  ru: комната
 - ro: o sufrag<u>e</u>rie - două sufrag<u>e</u>rii
   ua: вітальня, cтолова
+  ru: гостиная, столовая
 - ro: un l<u>i</u>ving - două l<u>i</u>vinguri
   ua: вітальня
+  ru: гостиная
 - ro: un dormit<u>o</u>r - două dormito<u>a</u>re
   ua: спальня
+  ru: спальня
 - ro: o bucătăr<u>i</u>e - două bucătăr<u>i</u>i
   ua: кухня
+  ru: кухня
 - ro: o b<u>a</u>ie - două b<u>ă</u>i
   ua: ванна кімната
+  ru: ванная комната
 - ro: un balc<u>o</u>n - două balco<u>a</u>ne
   ua: балкон
+  ru: балкон
 - ro: o ter<u>a</u>să - două ter<u>a</u>se
   ua: тераса
+  ru: терраса
 - ro: o toaletă - două toalete
-  ua: туалет
+  ua: туалет, вбиральня
+  ru: туалет
 - ro: o fer<u>e</u>astră - două fer<u>e</u>stre
   ua: вікно
+  ru: окно
 - ro: un per<u>e</u>te - doi per<u>e</u>ți
   ua: стіна
+  ru: стена
 - ro: o pode<u>a</u> - două pod<u>e</u>le
   ua: підлога
+  ru: пол
 - ro: un tav<u>a</u>n - două tav<u>a</u>ne
   ua: стеля
+  ru: потолок
 - ro: un plaf<u>o</u>n - două plafo<u>a</u>ne
   ua: стеля
+  ru: потолок
 - ro: o ogl<u>i</u>ndă - două ogl<u>i</u>nzi
   ua: дзеркало
+  ru: зеркало
 - ro: un acoper<u>i</u>ș - două acoper<u>i</u>șuri
   ua: дах
+  ru: крыша
 - ro: o c<u>u</u>rte - două c<u>u</u>rți
   ua: подвір'я
+  ru: двор
 - ro: un gar<u>a</u>j - două gar<u>a</u>je
   ua: гараж
+  ru: гараж
 - ro: o grăd<u>i</u>nă - două grăd<u>i</u>ni
   ua: сад, город
+  ru: сад, огород
 - ro: ---
   ua: ---
+  ru: ---
 - ro: o m<u>o</u>bilă - două m<u>o</u>bile
   ua: меблі
+  ru: мебель
 - ro: un pat - două p<u>a</u>turi
   ua: ліжко
+  ru: кровать
 - ro: un dul<u>a</u>p - două dul<u>a</u>puri
   ua: шафа
+  ru: шкаф
 - ro: o m<u>a</u>să - două m<u>e</u>se
   ua: стіл
+  ru: стол
 - ro: o măs<u>u</u>ță - două măs<u>u</u>țe
   ua: столик (невеликий)
+  ru: столик (небольшой)
 - ro: un sc<u>a</u>un - două sc<u>a</u>une
   ua: стілець
+  ru: стул
 - ro: o canap<u>e</u>a - două canap<u>e</u>le
   ua: диван
+  ru: диван
 - ro: un fot<u>o</u>liu - două fot<u>o</u>lii
   ua: крісло
+  ru: кресло
 - ro: o tabur<u>e</u>tă - două tabur<u>e</u>te
   ua: табурет
+  ru: табурет
 - ro: o com<u>o</u>dă - două com<u>o</u>de
   ua: комод
+  ru: комод
 - ro: un nopti<u>e</u>ră - două nopti<u>e</u>re
   ua: тумбочка
+  ru: тумбочка
 - ro: un bir<u>o</u>u - două bir<u>o</u>uri
   ua: письмовий стіл
+  ru: письменный стол
 - ro: un raft (suspendat) - două r<u>a</u>fturi
   ua: полиця (навісна)
+  ru: полка (настенная)
 - ro: o bibliot<u>e</u>că - două bibliot<u>e</u>ci
   ua: книжкова шафа
+  ru: книжный шкаф
 - ro: o etaj<u>e</u>ră - două etaj<u>e</u>re
   ua: стелаж
+  ru: стеллаж
 - ro: un cui<u>e</u>r - două cui<u>e</u>re
   ua: вішалка (для одягу)
+  ru: вешалка (для одежды)
 - ro: un cov<u>o</u>r - două covo<u>a</u>re
   ua: килим
+  ru: ковер
 - ro: o perd<u>e</u>a - două perd<u>e</u>le
   ua: штора
+  ru: штора
 - ro: un tabl<u>o</u>u - două tabl<u>o</u>uri
   ua: картина
+  ru: картина
 - ro: o p<u>e</u>rnă - două p<u>e</u>rne
   ua: подушка
+  ru: подушка
 - ro: o față de pernă
   ua: наволочка
+  ru: наволочка
 - ro: o salte<u>a</u> - două salt<u>e</u>le
   ua: матрац
+  ru: матрас
 - ro: o p<u>ă</u>tură - două p<u>ă</u>turi
   ua: покривало
+  ru: покрывало
 - ro: un cearș<u>a</u>f - două cearș<u>a</u>furi
   ua: простирадло, підковдра
+  ru: простыня, пододеяльник
 - ro: un pros<u>o</u>p - două proso<u>a</u>pe
   ua: рушник
+  ru: полотенце
 - ro: ---
   ua: ---
+  ru: ---
 - ro: un televiz<u>o</u>r - două televizo<u>a</u>re
   ua: телевізор
+  ru: телевизор
 - ro: o l<u>a</u>mpă - două l<u>ă</u>mpi
   ua: лампа
+  ru: лампа
 - ro: un frigid<u>e</u>r - două frigid<u>e</u>re
   ua: холодильник
+  ru: холодильник
 - ro: o maș<u>i</u>nă de spăl<u>a</u>t
   ua: пральна машина
+  ru: стиральная машина
 - ro: un arag<u>a</u>z - două arag<u>a</u>ze
   ua: плита
+  ru: плита
 - ro: un cupt<u>o</u>r - două cupto<u>a</u>re
   ua: піч, духовка
+  ru: печь, духовка
 - ro: un cuptor cu micro<u>u</u>nde
   ua: мікрохвильова піч
+  ru: микроволновая печь
 - ro: un aspirat<u>o</u>r - două aspirato<u>a</u>re
   ua: пилосос
+  ru: пылесос
 - ro: un fi<u>e</u>r de călc<u>a</u>t
   ua: праска
+  ru: утюг
 - ro: un uscăt<u>o</u>r de păr
   ua: фен
+  ru: фен
 - ro: o centr<u>a</u>lă t<u>e</u>rmică
   ua: котел
+  ru: котёл
 - ro: un radiat<u>o</u>r - două radiato<u>a</u>re
   ua: радіатор
+  ru: радиатор
 - ro: un calorif<u>e</u>r - două calorif<u>e</u>re
   ua: батарея
+  ru: батарея
 - ro: un b<u>o</u>iler - două b<u>o</u>ilere
   ua: бойлер
+  ru: бойлер
 - ro: un ventilat<u>o</u>r - două ventilato<u>a</u>re
   ua: вентилятор
+  ru: вентилятор
 - ro: un aer condițion<u>a</u>t - două aeruri condițion<u>a</u>te
   ua: кондиціонер
+  ru: кондиционер
 - ro: ---
   ua: ---
+  ru: ---
 - ro: un et<u>a</u>j - două et<u>a</u>je
   ua: поверх
+  ru: этаж
 - ro: la et<u>a</u>j
   ua: на поверсі
+  ru: на этаже
 - ro: la part<u>e</u>r
   ua: на першому поверсі, на землі
+  ru: на первом этаже, на уровне земли
 - ro: în subs<u>o</u>l
   ua: в підвалі
+  ru: в подвале
 - ro: chir<u>i</u>e
   ua: орендна плата
+  ru: арендная плата
 - ro: ---
   ua: ---
+  ru: ---
 - ro: a închiri<u>a</u> (închiri<u>e</u>z)*
   ua: орендувати
+  ru: арендовать
 - ro: a locui (locui<u>e</u>sc)
   ua: жити, мешкати
+  ru: жить, проживать
 - ro: a sta (st<u>a</u>u)
   ua: перебувати, жити (тимчасово)
+  ru: находиться, жить (временно)
 - ro: a se mut<u>a</u> (mă mut)
   ua: переїжджати
+  ru: переезжать

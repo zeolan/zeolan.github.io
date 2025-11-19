@@ -2,15 +2,11 @@
   Ці слова містять основні терміни, пов'язані з родиною, такі як члени сім'ї,
   родинні стосунки, а також інші пов'язані поняття.
 </h4>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.familia %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua">{{ row.ua | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<!-- prettier-ignore -->
+{% assign word_list = site.data.familia %}
+{% include word_table.html
+rows=word_list %}
+
 <hr />
 <br />
 <p><u>Exemple de propoziții / Приклади речень</u></p>

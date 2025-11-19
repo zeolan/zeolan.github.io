@@ -3,16 +3,11 @@
   коти, птахи, велика та мала рогата худоба та інші тварини, які люди утримують
   у своїх домівках.
 </h4>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.animale_domestice %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua">{{ row.ua | markdownify}}</td>
-    <td class="col-ru">{{ row.ru | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<!-- prettier-ignore -->
+{% assign word_list = site.data.animale_domestice %}
+{% include word_table.html
+rows=word_list %}
+
 <hr />
 <br />
 <p><u>Exemple de propoziții / Приклади речень</u></p>

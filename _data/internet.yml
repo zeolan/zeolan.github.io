@@ -1,102 +1,153 @@
 - ro: internet
   ua: інтернет
+  ru: интернет
 - ro: un site - două site-uri
   ua: сайт
+  ru: сайт
 - ro: o p<u>a</u>gină web
   ua: веб-сторінка
+  ru: веб-страница
 - ro: o rețea socială
   ua: соціальна мережа
+  ru: социальная сеть
 - ro: un profil
   ua: профіль
+  ru: профиль
 - ro: un utilizat<u>o</u>r - doi utilizat<u>o</u>ri
   ua: користувач
+  ru: пользователь
 - ro: o post<u>a</u>re - două post<u>ă</u>ri
   ua: пост, публікація
+  ru: пост, публикация
 - ro: un coment<u>a</u>riu - două coment<u>a</u>arii
   ua: коментар
+  ru: комментарий
 - ro: un cont - două c<u>o</u>nturi
   ua: акаунт
+  ru: аккаунт
 - ro: o par<u>o</u>lă - două parole
   ua: пароль
+  ru: пароль
 - ro: un e-mail
   ua: електронна пошта
+  ru: электронная почта
 - ro: un atașam<u>e</u>nt
   ua: вкладення
+  ru: вложение
 - ro: un link - două link-uri
   ua: посилання
+  ru: ссылка
 - ro: browser
   ua: браузер
+  ru: браузер
 - ro: o descărc<u>a</u>re - două descărc<u>ă</u>ri
   ua: завантаження
+  ru: загрузка
 - ro: o încărc<u>a</u>re
   ua: вивантаження
+  ru: выгрузка
 - ro: o p<u>a</u>gină de start (de pornire)
   ua: стартова (початкова) сторінка
+  ru: стартовая (домашняя) страница
 - ro: o pagină principală
   ua: головна сторінка
+  ru: главная страница
 - ro: un access
   ua: доступ
+  ru: доступ
 - ro: o aplic<u>a</u>ție - două aplic<u>a</u>ții
   ua: застосунок
+  ru: приложение
 - ro: un program
   ua: програма
+  ru: программа
 - ro: un fiși<u>e</u>r
   ua: файл
+  ru: файл
 - ro: un folder - două foldere
   ua: папка
+  ru: папка
 - ro: un document - două documente
   ua: документ
+  ru: документ
 - ro: o set<u>a</u>re
   ua: налаштування
+  ru: настройки
 - ro: o reset<u>a</u>re
   ua: скидання (налаштувань)
+  ru: сброс (настроек)
 - ro: o notific<u>a</u>re - două notific<u>ă</u>ri
   ua: сповіщення
+  ru: уведомление
 - ro: un chat - două chat-uri
   ua: чат
+  ru: чат
 - ro: un ap<u>e</u>l (video) - două ap<u>e</u>luri
   ua: (відео)дзвінок
+  ru: (видео)звонок
 - ro: un videoclip - două videoclipuri
   ua: відеокліп, відео
+  ru: видеоклип, видео
 - ro: ---
   ua: ---
+  ru: ---
 - ro: a descărc<u>a</u> (desc<u>a</u>rc)*
   ua: завантажувати, скачувати (з інтернету)
+  ru: загружать, скачивать (из интернета)
 - ro: a încărc<u>a</u> (înc<u>a</u>rc)
   ua: вивантажувати, завантажувати (в інтернет)
+  ru: загружать (на сервер)
 - ro: a navig<u>a</u> (navig<u>e</u>z)
   ua: переглядати (веб-сторінки), серфити (в інтернеті)
+  ru: просматривать (веб-страницы), серфить (в интернете)
 - ro: a căut<u>a</u> (c<u>a</u>ut)
   ua: шукати
+  ru: искать
 - ro: a acces<u>a</u> (acces<u>e</u>z)
   ua: отримувати доступ
+  ru: получать доступ
 - ro: a salv<u>a</u> (salv<u>e</u>z)
   ua: зберігати
+  ru: сохранять
 - ro: a șt<u>e</u>rge (șt<u>e</u>rg)
   ua: видаляти
+  ru: удалять
 - ro: a trim<u>i</u>te (trim<u>i</u>t)
   ua: надсилати
+  ru: отправлять
 - ro: a prim<u>i</u> (prim<u>e</u>sc)
   ua: отримувати
+  ru: получать
 - ro: a copi<u>a</u> (сopi<u>e</u>z)
   ua: копіювати
+  ru: копировать
 - ro: a lip<u>i</u> (lip<u>e</u>sc)
   ua: вставляти
+  ru: вставлять
 - ro: a da(face) clic
   ua: клацати (мишею)
+  ru: кликать (мышью)
 - ro: a da(face) dublu clic
   ua: двічі клацати (мишею)
+  ru: двічі кликать (мышью)
 - ro: a conect<u>a</u> (conect<u>e</u>z)
   ua: підключати
+  ru: подключать
 - ro: a da like
   ua: ставити лайк
+  ru: ставить лайк
 - ro: a coment<u>a</u> (coment<u>e</u>z)
   ua: коментувати
+  ru: комментировать
 - ro: a distribu<u>i</u> (distr<u>i</u>bui)
   ua: поширювати
+  ru: делиться
 - ro: a post<u>a</u> (post<u>e</u>z)
   ua: публікувати
+  ru: публиковать
 - ro: a urmăr<u>i</u> (urmăr<u>e</u>sc)
   ua: стежити (за кимось в соцмережах)
+  ru: следить (за кем-то в соцсетях)
 - ro: a se abon<u>a</u> (abon<u>e</u>z)
   ua: підписуватися (на когось в соцмережах)
+  ru: подписываться (на кого-то в соцсетях)

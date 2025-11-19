@@ -2,16 +2,13 @@
   Слова, які включають назви кімнат, меблів, побутової техніки та інших
   термінів, пов'язаних із оселєю та житлом.
 </h4>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.locuinta %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua">{{ row.ua | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
-&#42; В дужках дана форма дієслова для першої особи однини (Я).
+<!-- prettier-ignore -->
+{% assign word_list = site.data.locuinta %}
+{% include word_table.html
+rows=word_list %}
+
+&#42; В дужках дана форма дієслова для першої особи однини
+(Я).
 <hr />
 <br />
 <p><u>Exemple de propoziții / Приклади речень</u></p>

@@ -1,130 +1,195 @@
-- ro: "o farmac<u>i</u>e - două farmac<u>i</u>i"
-  ua: "аптека"
+- ro: o farmac<u>i</u>e - două farmac<u>i</u>i
+  ua: аптека
+  ru: аптека
 - ro: o reț<u>e</u>tă - două reț<u>e</u>te
   ua: рецепт
-- ro: "un medic de familie"
-  ua: "сімейний лікар"
+  ru: рецепт
+- ro: un medic de familie
+  ua: сімейний лікар
+  ru: семейный врач
 - ro: un medicam<u>e</u>nt - două medicam<u>e</u>nte
   ua: ліки, медикамент
-- ro: "o vitam<u>i</u>nă - două vitam<u>i</u>ne"
-  ua: "вітамін"
-- ro: "o past<u>i</u>lă - două past<u>i</u>le"
-  ua: "таблетка, пігулка"
-- ro: "un comprim<u>a</u>t - două comprim<u>a</u>te"
-  ua: "таблетка, пігулка"
-- ro: "un supliment (alimentar)"
-  ua: "(харчова) добавка"
-- ro: "o caps<u>u</u>lă - două caps<u>u</u>le"
-  ua: "капсула"
-- ro: "o <u>a</u>mpulă (o fi<u>o</u>lă)"
-  ua: "ампула"
-- ro: "un ungu<u>e</u>nt - două ungu<u>e</u>nte"
-  ua: "мазь"
+  ru: лекарство, медикамент
+- ro: o vitam<u>i</u>nă - două vitam<u>i</u>ne
+  ua: вітамін
+  ru: витамин
+- ro: o past<u>i</u>lă - două past<u>i</u>le
+  ua: таблетка, пігулка
+  ru: таблетка, пилюля
+- ro: un comprim<u>a</u>t - două comprim<u>a</u>te
+  ua: таблетка, пігулка
+  ru: таблетка
+- ro: un supliment (alimentar)
+  ua: (харчова) добавка
+  ru: (пищевой) добавка
+- ro: o caps<u>u</u>lă - două caps<u>u</u>le
+  ua: капсула
+  ru: капсула
+- ro: o <u>a</u>mpulă (o fi<u>o</u>lă)
+  ua: ампула
+  ru: ампула
+- ro: un ungu<u>e</u>nt - două ungu<u>e</u>nte
+  ua: мазь
+  ru: мазь
 - ro: un gel - două g<u>e</u>luri
-  ua: "гель"
-- ro: "o cr<u>e</u>mă"
-  ua: "крем"
-- ro: "picăt<u>u</u>ri"
-  ua: "краплі"
-- ro: "o inf<u>u</u>zie"
-  ua: "настій"
-- ro: "un analg<u>e</u>zic"
-  ua: "анальгетик"
-- ro: "un antit<u>e</u>rmic"
-  ua: "жарознижуюче"
-- ro: "un antis<u>e</u>ptic"
-  ua: "антісептик"
-- ro: "un antiinflamat<u>o</u>r"
-  ua: "протизапальне"
-- ro: un ac - două <u>a</u>ce
-  ua: "ігла"
-- ro: "o ser<u>i</u>ngă"
-  ua: "шприц"
-- ro: "un pansam<u>e</u>nt (steril)"
-  ua: "бинт (стерильний)"
+  ua: гель
+  ru: гель
+- ro: o cr<u>e</u>mă
+  ua: крем
+  ru: крем
+- ro: picăt<u>u</u>ri
+  ua: краплі
+  ru: капли
+- ro: o inf<u>u</u>zie
+  ua: настій
+  ru: настой
+- ro: un analg<u>e</u>zic
+  ua: анальгетик
+  ru: анальгетик
+- ro: un antit<u>e</u>rmic
+  ua: жарознижуюче
+  ru: жаропонижающее
+- ro: un antis<u>e</u>ptic
+  ua: антісептик
+  ru: антисептик
+- ro: un antiinflamat<u>o</u>r
+  ua: протизапальне
+  ru: противовоспалительное
+- ro: un ac - două a< u>a</u>ce
+  ua: ігла
+  ru: игла
+- ro: o ser<u>i</u>ngă
+  ua: шприц
+  ru: шприц
+- ro: un pansam<u>e</u>nt (steril)
+  ua: бинт (стерильний)
+  ru: бинт (стерильный)
 - ro: o pl<u>a</u>sture - două pl<u>a</u>sturi
   ua: пластир
+  ru: пластырь
 - ro: o perf<u>u</u>zie - două perf<u>u</u>zii
   ua: крапельниця
+  ru: капельница
 - ro: o inj<u>e</u>cție - două inj<u>e</u>cții
   ua: укол
+  ru: укол
 - ro: un gar<u>o</u>u - două gar<u>o</u>uri
   ua: джгут
-- ro: "---"
-  ua: "---"
+  ru: жгут
+- ro: ---
+  ua: ---
+  ru: ---
 - ro: o răce<u>a</u>lă - două răc<u>e</u>li
   ua: простуда
-- ro: "o gr<u>i</u>pă"
-  ua: "грип"
+  ru: простуда
+- ro: o gr<u>i</u>pă
+  ua: грип
+  ru: грипп
 - ro: o vir<u>o</u>ză - două vir<u>o</u>ze
   ua: вірусна інфекція
+  ru: вирусная инфекция
 - ro: o t<u>u</u>se
   ua: кашель
+  ru: кашель
 - ro: o inflam<u>a</u>ție - două inflam<u>a</u>ții
   ua: запалення
+  ru: воспаление
 - ro: o r<u>a</u>nă - două r<u>ă</u>ni
   ua: рана
+  ru: рана
 - ro: o sânger<u>a</u>re - două sânger<u>ă</u>ri
   ua: кровотеча
+  ru: кровотечение
 - ro: o fract<u>u</u>ră - două fract<u>u</u>ri
   ua: перелом
+  ru: перелом
 - ro: o ent<u>o</u>rsă
   ua: розтягнення
+  ru: растяжение
 - ro: o lux<u>a</u>ție - două lux<u>a</u>ții
   ua: вивих
+  ru: вывих
 - ro: o ars<u>u</u>ră - două ars<u>u</u>ri
   ua: опік
-- ro: "o tăiet<u>u</u>ră"
-  ua: "поріз"
-- ro: "o zgâriet<u>u</u>ră"
-  ua: "подряпина"
-- ro: "o umflăt<u>u</u>ră"
-  ua: "набряк"
-- ro: "un cârc<u>e</u>l"
-  ua: "судома"
-- ro: "o alerg<u>i</u>e"
-  ua: "алергія"
-- ro: "o mâncăr<u>i</u>me"
-  ua: "свербіж"
+  ru: ожог
+- ro: o tăiet<u>u</u>ră
+  ua: поріз
+  ru: порез
+- ro: o zgâriet<u>u</u>ră
+  ua: подряпина
+  ru: царапина
+- ro: o umflăt<u>u</u>ră
+  ua: набряк
+  ru: отёк
+- ro: un cârc<u>e</u>l
+  ua: судома
+  ru: судорога
+- ro: o alerg<u>i</u>e
+  ua: алергія
+  ru: аллергия
+- ro: o mâncăr<u>i</u>me
+  ua: свербіж
+  ru: зуд
 - ro: ars<u>u</u>ri la stom<u>a</u>c
   ua: печія
-- ro: "o amețe<u>a</u>lă"
-  ua: "запаморочення"
-- ro: "dur<u>e</u>re de cap"
-  ua: "головний біль"
-- ro: "durere de gât"
-  ua: "біль у горлі"
-- ro: "durere de spate"
-  ua: "біль у спині"
-- ro: "nas înfundat"
-  ua: "закладений ніс"
-- ro: "o f<u>e</u>bră"
-  ua: "жар, лихоманка, гарячка"
-- ro: "un fris<u>o</u>n"
-  ua: "озноб"
-- ro: "vărsăt<u>u</u>ri"
-  ua: "рвота"
-- ro: "o er<u>u</u>pție"
-  ua: "висип"
-- ro: "o infecție f<u>u</u>ngică"
-  ua: "грибкова інфекція"
-- ro: "---"
-  ua: "---"
+  ru: изжога
+- ro: o amețe<u>a</u>lă
+  ua: запаморочення
+  ru: головокружение
+- ro: dur<u>e</u>re de cap
+  ua: головний біль
+  ru: головная боль
+- ro: durere de gât
+  ua: біль у горлі
+  ru: боль в горле
+- ro: durere de spate
+  ua: біль у спині
+  ru: боль в спине
+- ro: nas înfundat
+  ua: закладений ніс
+  ru: заложенный нос
+- ro: o f<u>e</u>bră
+  ua: жар, лихоманка, гарячка
+  ru: жар, лихорадка, температура
+- ro: un fris<u>o</u>n
+  ua: озноб
+  ru: озноб
+- ro: vărsăt<u>u</u>ri
+  ua: рвота
+  ru: рвота
+- ro: o er<u>u</u>pție
+  ua: висип
+  ru: сыпь
+- ro: o infecție f<u>u</u>ngică
+  ua: грибкова інфекція
+  ru: грибковая инфекция
+- ro: ---
+  ua: ---
+  ru: ---
 - ro: a lua medicam<u>e</u>nte (iau)
   ua: приймати ліки
+  ru: принимать лекарства
 - ro: a răci (răc<u>e</u>sc)*
   ua: застудитися
+  ru: простудиться
 - ro: a tuși (tuș<u>e</u>sc)
   ua: кашляти
+  ru: кашлять
 - ro: a strănut<u>a</u> (străn<u>u</u>t)
   ua: чхати
+  ru: чихать
 - ro: a se îmbolnăv<u>i</u> (mă îmbolnăv<u>e</u>sc)
   ua: захворіти
+  ru: заболеть
 - ro: a se însănătoș<u>i</u> (mă însănătoș<u>e</u>sc)
   ua: одужувати
+  ru: выздоравливать
 - ro: a se vindeca (mă v<u>i</u>ndec)
   ua: одужувати
+  ru: выздоравливать
 - ro: a se simț<u>i</u> (mă simt)
   ua: почуватися
+  ru: чувствовать себя
 - ro: a vomita (vom<u>i</u>t)
   ua: блювати
+  ru: рвать

@@ -2,15 +2,11 @@
   Ця тема містить слова, пов'язані з Інтернетом, комп'ютерами, веб-сайтами,
   соціальними мережами та цифровими комунікаціями.
 </h4>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.internet %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua">{{ row.ua | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<!-- prettier-ignore -->
+{% assign word_list = site.data.internet %}
+{% include word_table.html
+rows=word_list %}
+
 &#42; В дужках дана форма дієслова для першої особи однини (Я).
 <hr />
 <br />

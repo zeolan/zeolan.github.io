@@ -1,80 +1,120 @@
 - ro: o fam<u>i</u>lie - două fam<u>i</u>lii
   ua: сім'я
+  ru: семья
 - ro: un membru al familiei
   ua: член сім'ї
+  ru: член семьи
 - ro: o r<u>u</u>dă - două r<u>u</u>de
   ua: родич
+  ru: родственник
 - ro: un apropi<u>a</u>t - doi apropi<u>a</u>ți
   ua: близький (людина)
+  ru: близкий (человек)
 - ro: o apropiată - două apropiate
   ua: близька (людина)
+  ru: близкая (человек)
 - ro: un păr<u>i</u>nte - doi păr<u>i</u>nți
   ua: батько або мати
+  ru: родитель
 - ro: o mamă - două mame
   ua: мати
+  ru: мать, мама
 - ro: un tată - doi tăți
   ua: батько
+  ru: отец, папа
 - ro: un cop<u>i</u>l - doi cop<u>i</u>i
   ua: дитина (хлопчик або загально)
+  ru: ребенок (мальчик), дети
 - ro: o cop<u>i</u>lă - două cop<u>i</u>le
   ua: дитина (дівчинка)
+  ru: ребенок (девочка), дети
 - ro: un fiu - doi fii
   ua: син
+  ru: сын
 - ro: o fi<u>i</u>că - două fi<u>i</u>ce
   ua: дочка
+  ru: дочка
 - ro: un frate - doi frați
   ua: брат
+  ru: брат
 - ro: o s<u>o</u>ră - două sur<u>o</u>ri
   ua: сестра
+  ru: сестра
 - ro: un bun<u>i</u>c - doi bun<u>i</u>ci
   ua: дідусь
+  ru: дедушка
 - ro: o bun<u>i</u>că - două bunici
   ua: бабуся
+  ru: бабушка
 - ro: un nep<u>o</u>t - doi nep<u>o</u>ți
   ua: онук або племінник
+  ru: внук, племянник
 - ro: o nepo<u>a</u>tă - două nepo<u>a</u>te
   ua: онука або племінниця
+  ru: внучка, племянница
 - ro: un străbun<u>i</u>c
   ua: прадідусь
+  ru: прадед
 - ro: o străbun<u>i</u>că
   ua: прабабуся
+  ru: прабабка
 - ro: un strănep<u>o</u>t
   ua: правнук
+  ru: правнук
 - ro: o strănepo<u>a</u>tă
   ua: правнучка
+  ru: правнучка
 - ro: un <u>u</u>nchi - doi <u>u</u>nchi
   ua: дядько
+  ru: дядя
 - ro: o măt<u>u</u>șă - două măt<u>u</u>și
   ua: тітка
+  ru: тетя
 - ro: un veriș<u>o</u>r (văr)
   ua: двоюрідний брат
+  ru: брат двоюродный, кузен
 - ro: o verișo<u>a</u>ră (vară)
   ua: двоюрідна сестра
+  ru: сестра двоюродная, кузина
 - ro: un soț - doi soți
   ua: чоловік
+  ru: муж
 - ro: o soț<u>i</u>e - două soț<u>i</u>i
   ua: дружина
+  ru: жена
 - ro: un s<u>o</u>cru
   ua: тесть або свекор
+  ru: тесть, свекор
 - ro: o so<u>a</u>cră
   ua: теща або свекруха
+  ru: теща, свекровь
 - ro: un g<u>i</u>nere
   ua: зять
+  ru: зять
 - ro: o noră - două nur<u>o</u>ri
   ua: невістка
+  ru: невестка
 - ro: un cumn<u>a</u>t - doi cumnați
   ua: шурин або зять
+  ru: шурин, зять
 - ro: o cumnată - două cumnate
   ua: золовка або невістка
+  ru: золовка, невестка
 - ro: un naș - doi nași
   ua: хрещений батько або хрещений
+  ru: клестный отец, крестный
 - ro: o nașă - două nașe
   ua: хрещена мати або хрещена
+  ru: крестная мать, крестная
 - ro: un nășic
   ua: хрещеник
+  ru: крестник
 - ro: o nășică
   ua: хрещениця
+  ru: крестница
 - ro: o căsător<u>i</u>e
   ua: шлюб
+  ru: брак
 - ro: un div<u>o</u>rț
   ua: розлучення
+  ru: развод
