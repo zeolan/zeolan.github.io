@@ -1,0 +1,117 @@
+- ro: o apă - două ape
+  ua: вода
+  ru: вода
+- ro: un suc - două s<u>u</u>curi
+  ua: сік
+  ru: сок
+- ro: un vin - două v<u>i</u>nuri
+  ua: вино
+  ru: вино
+- ro: un ceai - două c<u>ea</u>iuri
+  ua: чай
+  ru: чай
+- ro: o caf<u>ea</u> - douoă caf<u>e</u>le
+  ua: кава
+  ru: кофе
+- ro: un z<u>a</u>hăr - -----
+  ua: цукор
+  ru: сахар
+- ro: o s<u>a</u>re - două s<u>ă</u>ruri
+  ua: сіль
+  ru: соль
+- ro: un ul<u>e</u>i - două ul<u>e</u>iuri
+  ua: олія
+  ru: масло
+- ro: un unt - două <u>u</u>nturi
+  ua: масло
+  ru: масло
+- ro: o maioneză
+  ua: майонез
+  ru: майонез
+- ro: un lapte
+  ua: молоко
+  ru: молоко
+- ro: o smânt<u>â</u>nă
+  ua: сметана
+  ru: сметана
+- ro: o br<u>â</u>nză - două brânz<u>e</u>turi
+  ua: сир
+  ru: сыр
+- ro: un ia<u>u</u>rt - două ia<u>u</u>rturi
+  ua: йогурт
+  ru: йогурт
+- ro: un chefir - două chef<u>i</u>ruri
+  ua: кефір
+  ru: кефир
+- ro: o pâine - două pâini
+  ua: хліб
+  ru: хлеб
+- ro: o fă<u>i</u>nă
+  ua: борошно
+  ru: мука
+- ro: o carne - două cărnuri
+  ua: м'ясо
+  ru: мясо
+- ro: o slănină
+  ua: сало
+  ru: сало
+- ro: un pește - doi pești
+  ua: риба
+  ru: рыба
+- ro: un ou - două <u>o</u>uă
+  ua: яйце
+  ru: яйцо
+- ro: cârnați
+  ua: ковбаса
+  ru: колбаса
+- ro: un salam - două salamuri
+  ua: салямі
+  ru: салями
+- ro: o șuncă
+  ua: шинка
+  ru: ветчина
+- ro: un or<u>e</u>z - două or<u>e</u>zuri
+  ua: рис
+  ru: рис
+- ro: un ovăz - două oveze
+  ua: овес
+  ru: овёс, овсянка
+- ro: paste
+  ua: паста, спагеті
+  ru: паста, спагетти
+- ro: o ch<u>i</u>flă - două chifle
+  ua: булочка
+  ru: булочка
+- ro: un covrig - doi covrigi
+  ua: крендель, бублик
+  ru: крендель, бублик
+- ro: un cart<u>o</u>f - doi cart<u>o</u>fi
+  ua: картопля
+  ru: картофель
+- ro: un m<u>o</u>rcov - doi m<u>o</u>rcovi
+  ua: морква
+  ru: морковь
+- ro: o r<u>o</u>șie - două r<u>o</u>șii
+  ua: помідор
+  ru: помидор
+- ro: o v<u>a</u>rză - două v<u>e</u>rze
+  ua: капуста
+  ru: капуста
+- ro: un ard<u>e</u>i - doi ard<u>e</u>i
+  ua: перець
+  ru: перец
+- ro: un măr<u>a</u>r
+  ua: кріп
+  ru: укроп
+- ro: o fasolă
+  ua: квасоля
+  ru: фасоль
+- ro: o ceapă - două cepe
+  ua: цибуля
+  ru: лук
+- ro: un ustur<u>o</u>i
+  ua: часник
+  ru: чеснок
+# please create list of object with such fields: ro, ua, ru. Each field is a transaltion to russian, romaniana or ucranian respectivly. Please also keep the order of the words. Do that for these words: apă, pâine, unt, ulei, vin, zahăr
+# apă, suc, vin, ceai, cafea, zahăr, sare, ulei, unt, maioneză, lapte, smântână, brânză, iaurt, chefir, pâine, făină, carne, slănină, pește, ou, cârnați, salam, șuncă, orez, ovăz, pastă, chiflă, covrig, cartof, morcov, roșie, varză, ardei, mărar, fasolă, ceapă, usturoi, broccoli
+
