@@ -17,7 +17,7 @@ p > div {
   font-size: 1.1em;
 }
 
-li {
+li.verb-list-item {
   margin-bottom: 8px;
 }
 
@@ -89,6 +89,9 @@ ul.post-list li {
   /* border-width: 1px;
   border-style: solid;
   border-color: rgb(80, 70, 70); */
+  :hover {
+    background-color: lighten($flag-color-yellow, 20%);
+  }
 }
 
 .post-title {
@@ -213,8 +216,8 @@ a.category:hover {
   border-radius: 8px;
 }
 .recent-post {
-  font-size: 24px;
-  margin-bottom: 10px;
+  // font-size: 24px;
+  margin-bottom: 3px;
 }
 
 .table-toggle {

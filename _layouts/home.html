@@ -8,11 +8,11 @@ layout: default
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} {{ content }} {%- if site.posts.size > 0 -%}
 
-  <div>
+  <p>
     <strong>Останні додані матеріали:</strong>
-  </div>
+  </p>
   <ul>
-    {% for post in site.posts limit: 3 %}
+    {% for post in site.posts limit: 5 %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       <span style="color: #888; font-size: 0.9em"
