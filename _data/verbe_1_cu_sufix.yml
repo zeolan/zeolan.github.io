@@ -1,4 +1,4 @@
-- key:
+- key: # A
     name: A
     values:
       - ro: "acomoda"
@@ -25,6 +25,8 @@
         ua: "облаштовувати, організувати"
       - ro: "analiza"
         ua: "аналізувати"
+      - ro: "ancheta"
+        ua: "розслідувати, досліджувати"
       - ro: "angaja"
         ua: "наймати, найняти"
       - ro: "anticipa"
@@ -41,7 +43,9 @@
         ua: "розкладати, розставляти, впорядковувати"
       - ro: "asocia"
         ua: "асоціювати"
-- key:
+      - ro: "atașa"
+        ua: "прикріпляти, прикріпити"        
+- key: # B
     name: B
     values:
       - ro: "baza"
@@ -50,7 +54,7 @@
         ua: "отримувати вигоду"
       - ro: "bloca"
         ua: "блокувати, застрягти, зависнути"
-- key:
+- key: # C
     name: C
     values:
       - ro: "calcula"
@@ -59,6 +63,8 @@
         ua: "заспокоїти, заспокоїтися"
       - ro: "candida"
         ua: "балотуватися, висувати кандидатуру"
+      - ro: "colabora"
+        ua: "співпрацювати"        
       - ro: "comenta"
         ua: "коментувати"
       - ro: "completa"
@@ -79,7 +85,7 @@
         ua: "співвідносити, корелювати"
       - ro: "crea"
         ua: "створювати"
-- key:
+- key: # D
     name: D
     values:
       - ro: "dansa"
@@ -88,18 +94,26 @@
         ua: "бути винним, бути зобов'язаним"
       - ro: "dăuna"
         ua: "шкодити, завдавати шкоди"
+      - ro: "debuta"
+        ua: "дебютувати"
       - ro: "decola"
         ua: "злітати"
       - ro: "decora"
         ua: "прикрашати"
+      - ro: "defila"
+        ua: "йти на парад"
       - ro: "degrada"
         ua: "деградувати, руйнувати(ся)"
+      - ro: "demisiona"
+        ua: "піти у відставку"
       - ro: "demonstra"
         ua: "демонструвати, проявляти, свідчити про що-небудь"
       - ro: "depista"
         ua: "виявити"
       - ro: "deplasa"
         ua: "рухати(ся), пересувати(ся)"
+      - ro: "depozita"
+        ua: "зберігати(ся)"        
       - ro: "destina"
         ua: "призначати, виділяти, бути призначеним для"
       - ro: "deranja"
@@ -108,6 +122,8 @@
         ua: "відмовляти, знеохочувати"
       - ro: "desena"
         ua: "малювати, креслити"
+      - ro: "desființa"
+        ua: "скасувати"
       - ro: "deteriora"
         ua: "шкодити, пошкодити"
       - ro: "dicta"
@@ -122,11 +138,13 @@
         ua: "дарувати, жертвувати"
       - ro: "dura"
         ua: "тривати"
-- key:
+- key: # E
     name: E
     values:
       - ro: "echilibra"
         ua: "балансувати, збалансувати"
+      - ro: "efectua"
+        ua: "виконувати, реалізовувати"        
       - ro: "enerva (se enerva)"
         ua: "дратувати(ся), нервувати(ся)"
       - ro: "epuiza"
@@ -143,7 +161,7 @@
         ua: "експериментувати"
       - ro: "exploda"
         ua: "вибухнути, вибухати"
-- key:
+- key: # F
     name: F
     values:
       - ro: "favoriza"
@@ -168,7 +186,7 @@
         ua: "функціонувати, працювати"
       - ro: "furniza"
         ua: "постачати, забезпечувати"
-- key:
+- key: # G
     name: G
     values:
       - ro: "garanta"
@@ -179,7 +197,7 @@
         ua: "керувати, управляти"
       - ro: "grupa"
         ua: "групувати"
-- key:
+- key: # I
     name: I
     values:
       - ro: "impresiona"
@@ -196,9 +214,11 @@
         ua: "залякувати"
       - ro: "invidia"
         ua: "заздрити"
+      - ro: "ironiza"
+        ua: "іронізувати"
       - ro: "izola"
         ua: "ізолювати"
-- key:
+- key: # Î
     name: Î
     values:
       - ro: "îmbrățișa"
@@ -211,12 +231,12 @@
         ua: "клеймувати, ставити клеймо"
       - ro: "întrebuința"
         ua: "використовувати"
-- key:
+- key: # J
     name: J
     values:
       - ro: "jubila"
         ua: "торжествувати, втішатися, радіти"
-- key:
+- key: # L
     name: L
     values:
       - ro: "limita"
@@ -227,7 +247,7 @@
         ua: "доставляти, вручати"
       - ro: "lucra"
         ua: "працювати"
-- key:
+- key: # M
     name: M
     values:
       - ro: "majora"
@@ -248,7 +268,7 @@
         ua: "відстежувати, моніторити, контролювати"
       - ro: "monta"
         ua: "збирати, монтувати"
-- key:
+- key: # N
     name: N
     values:
       - ro: "naviga"
@@ -261,7 +281,7 @@
         ua: "висувати кандидатуру, номінувати"
       - ro: "nota"
         ua: "нотувати, робити нотатки"
-- key:
+- key: # O
     name: O
     values:
       - ro: "organiza"
@@ -270,13 +290,15 @@
         ua: "схвалити"
       - ro: "opera"
         ua: "оперувати, працювати (на чомусь), керувати чимось"
-- key:
+- key: # P
     name: P
     values:
       - ro: "parca"
         ua: "паркувати"
       - ro: "păstra"
         ua: "зберігати"
+      - ro: "plasa"
+        ua: "розмістити, розміщувати"        
       - ro: "preciza"
         ua: "уточнювати, уточнити"
       - ro: "printa"
@@ -287,7 +309,9 @@
         ua: "прогнозувати"
       - ro: "programa"
         ua: "програмувати, планувати"
-- key:
+      - ro: "proteja"
+        ua: "захищати(ся)"
+- key: # R
     name: R
     values:
       - ro: "raporta"
@@ -298,7 +322,7 @@
         ua: "реагувати, відгукуватися"
       - ro: "rula"
         ua: 'наматувати рулон, показувати фільм, "крутити" гроши'
-- key:
+- key: # S
     name: S
     values:
       - ro: "sabota"
@@ -315,6 +339,8 @@
         ua: "встановлювати, налаштовувати"
       - ro: "simula"
         ua: "імітувати, моделювати"
+      - ro: "situa"
+        ua: "розташовувати(ся)"
       - ro: "sfida"
         ua: "кидати виклик"
       - ro: "stabiliza"
@@ -333,7 +359,7 @@
         ua: "спостерігати, контролювати"
       - ro: "suspecta"
         ua: "підозрювати"
-- key:
+- key: # T
     name: T
     values:
       - ro: "testa"
@@ -342,7 +368,7 @@
         ua: "телефонувати"
       - ro: "trata"
         ua: "поводитися з ким-то, лікувати(ся)"
-- key:
+- key: # U
     name: U
     values:
       - ro: "ura"
@@ -351,7 +377,7 @@
         ua: "слідувати"
       - ro: "utiliza"
         ua: "використовувати"
-- key:
+- key: # V
     name: V
     values:
       - ro: "valida"
