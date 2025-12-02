@@ -52,6 +52,15 @@
 - ro: o carne - două cărnuri
   ua: м'ясо
   ru: мясо
+- ro: carne de vită
+  ua: гов'ядина
+  ru: говядина
+- ro: carne de porc
+  ua: свинина
+  ru: свинина
+- ro: carne de pui
+  ua: курятина
+  ru: курятина
 - ro: o slănină
   ua: сало
   ru: сало
@@ -62,8 +71,8 @@
   ua: яйце
   ru: яйцо
 - ro: cârnați
-  ua: ковбаса
-  ru: колбаса
+  ua: ковбаски
+  ru: колбаски
 - ro: un salam - două salamuri
   ua: салямі
   ru: салями
