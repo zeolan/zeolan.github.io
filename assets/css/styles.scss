@@ -97,9 +97,14 @@ ul.post-list li {
 .post-title {
   font-weight: bolder;
   font-size: 28px;
-  margin-bottom: 5px;
+  margin-bottom: 0;
 }
-
+.post-header {
+  margin-bottom: unset;
+  .post-meta {
+    margin-bottom: 5px;
+  }
+}
 .category-list {
   display: grid;
   gap: 15px;
@@ -222,8 +227,12 @@ a.category:hover {
 
 .table-column-toggle {
   display: grid;
+  gap: 10px;
   grid-template-columns: 1fr 1fr;
   // margin-bottom: 5px;
+  * {
+    cursor: pointer;
+  }
 }
 .lang-toggle {
   display: flex;
