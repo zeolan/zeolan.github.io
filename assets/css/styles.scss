@@ -220,22 +220,34 @@ a.category:hover {
   margin-bottom: 3px;
 }
 
-.table-toggle {
+.table-column-toggle {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-bottom: 5px;
+  // margin-bottom: 5px;
 }
 .lang-toggle {
   display: flex;
-  margin-bottom: 5px;
-  align-items: flex-end;
+  // margin-bottom: 5px;
+  align-items: center;
+}
+.lang-toggle-hint {
+  //  margin-bottom: 10px;
+  line-height: 1em;
+   font-size: 0.8em;
+   color: #555;
 }
 .table-lang-toggle {
   display: flex;
   flex-direction: row-reverse;
   flex: auto;
+  margin-left: 5px;
 }
-
+.sticky {
+  background-color: #f9fafb;
+  padding: 5px 0;
+  position: sticky;
+  top: 0;
+}
 .blue-bold {
   color: blue;
   font-weight: bolder;
