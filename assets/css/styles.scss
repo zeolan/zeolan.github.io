@@ -102,7 +102,7 @@ ul.post-list li {
 .post-header {
   margin-bottom: unset;
   .post-meta {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
 }
 .category-list {
@@ -229,7 +229,8 @@ a.category:hover {
   display: grid;
   gap: 10px;
   grid-template-columns: 1fr 1fr;
-  // margin-bottom: 5px;
+  line-height: 1.1em;
+  margin-bottom: 5px;
   * {
     cursor: pointer;
   }
@@ -240,10 +241,10 @@ a.category:hover {
   align-items: center;
 }
 .lang-toggle-hint {
-  //  margin-bottom: 10px;
+  margin-bottom: 5px;
   line-height: 1em;
-   font-size: 0.8em;
-   color: #555;
+  font-size: 0.8em;
+  color: #555;
 }
 .table-lang-toggle {
   display: flex;
@@ -253,7 +254,7 @@ a.category:hover {
 }
 .sticky {
   background-color: #f9fafb;
-  padding: 5px 0;
+  padding: 10px 0 5px 0;
   position: sticky;
   top: 0;
   z-index: 10;

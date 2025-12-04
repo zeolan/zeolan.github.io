@@ -21,10 +21,10 @@
   ru: соль
 - ro: un ul<u>e</u>i - două ul<u>e</u>iuri
   ua: олія
-  ru: масло
+  ru: масло (подсолн.)
 - ro: un unt - două <u>u</u>nturi
-  ua: масло
-  ru: масло
+  ua: масло (вершк.)
+  ru: масло (сливоч.)
 - ro: o maioneză
   ua: майонез
   ru: майонез
@@ -112,7 +112,7 @@
 - ro: un măr<u>a</u>r
   ua: кріп
   ru: укроп
-- ro: o fasolă
+- ro: o fasolă - două fasole
   ua: квасоля
   ru: фасоль
 - ro: o ceapă - două cepe
