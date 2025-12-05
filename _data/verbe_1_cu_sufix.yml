@@ -176,6 +176,8 @@
         ua: "закріплювати, фіксувати"
       - ro: "forma"
         ua: "формувати, створювати"
+      - ro: "forța"
+        ua: "змушувати"
       - ro: "fotografia"
         ua: "фотографувати"
       - ro: "frecventa"
@@ -202,6 +204,8 @@
 - key: # I
     name: I
     values:
+      - ro: "imagina"
+        ua: "уявити, уявляти"
       - ro: "impresiona"
         ua: "вразити, вражати, дивувати"
       - ro: "influența"
@@ -214,6 +218,8 @@
         ua: "цікавити"
       - ro: "intimida"
         ua: "залякувати"
+      - ro: "invada"
+        ua: "вторгатися"
       - ro: "invidia"
         ua: "заздрити"
       - ro: "ironiza"
@@ -341,6 +347,8 @@
         ua: "смакувати, насолоджуватися"
       - ro: "schia"
         ua: "кататися на лижах"
+      - ro: "selecta"
+        ua: "вибирати, відбирати"
       - ro: "semna"
         ua: "підписувати"
       - ro: "seta"
