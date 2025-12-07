@@ -17,3 +17,8 @@ bundle exec jekyll serve
 check yaml files inside \_data directory:
 
 python utils/yml_check.py \_data/
+
+### How to config git credentials
+
+git config --global credential.helper store
+echo https://user:token@host >> ~/.git-credetials
