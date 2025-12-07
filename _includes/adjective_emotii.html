@@ -4,15 +4,11 @@
   емоції, такі як радість, сум, гнів, страх, здивування, а також фізичні та
   психічні стани, такі як втома, стрес, спокійність тощо.
 </h4>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.emotii %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua">{{ row.ua | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<!-- prettier-ignore -->
+{% assign word_list = site.data.emotii %}
+{% include word_table.html
+rows=word_list %}
+
 <hr />
 <br />
 
