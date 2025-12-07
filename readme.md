@@ -2,6 +2,8 @@
 
 bundle
 
+bundle config path PATH_TO_INSTALL_RUBY
+
 ### Build
 
 bundle exec jekyll build
