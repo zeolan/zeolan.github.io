@@ -274,6 +274,7 @@ a.category:hover {
 }
 .table-verb {
   width: auto;
+  overflow-x: scroll;
   thead th {
     font-weight: bolder;
     background-color: #505050;
