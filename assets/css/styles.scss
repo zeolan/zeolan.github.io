@@ -1,6 +1,6 @@
 ---
 ---
-
+@use "sass:color";
 @import "variables";
 body {
   font-family: monospace, ui-sans-serif, monospace, Courier, "Courier New";
@@ -90,7 +90,7 @@ ul.post-list li {
   border-style: solid;
   border-color: rgb(80, 70, 70); */
   :hover {
-    background-color: lighten($flag-color-yellow, 20%);
+    background-color: color.scale($flag-color-yellow, $lightness: 60%);
   }
 }
 
@@ -165,9 +165,14 @@ a.category:hover {
   color: #2a7ae2;
 }
 
+.table-custom-wrapper {
+  width: 100%;
+}
+
 .table-custom {
   font-size: 18px;
   color: #444444;
+  overflow-x: scroll;
   p {
     margin: 0;
   }
