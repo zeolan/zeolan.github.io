@@ -1,6 +1,6 @@
 ---
 ---
-@use "sass:color";
+
 @import "variables";
 body {
   font-family: monospace, ui-sans-serif, monospace, Courier, "Courier New";
@@ -90,7 +90,7 @@ ul.post-list li {
   border-style: solid;
   border-color: rgb(80, 70, 70); */
   :hover {
-    background-color: color.scale($flag-color-yellow, $lightness: 60%);
+    background-color: lighten($flag-color-yellow, 20%);
   }
 }
 
