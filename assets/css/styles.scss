@@ -165,14 +165,14 @@ a.category:hover {
   color: #2a7ae2;
 }
 
-.table-custom-wrapper {
+.table-wrapper {
   width: 100%;
+  overflow-x: scroll;
 }
 
 .table-custom {
   font-size: 18px;
   color: #444444;
-  overflow-x: scroll;
   p {
     margin: 0;
   }
