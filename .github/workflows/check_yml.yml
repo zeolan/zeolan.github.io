@@ -3,8 +3,12 @@ name: Check YAML
 on:
   push:
     branches: [ dev ]
+    paths:
+      - '_data/**'
   pull_request:
-    branches: [ dev ]
+    branches: [ main ]
+    paths:
+      - '_data/**'
 
 jobs:
   check-yaml:
@@ -22,4 +26,4 @@ jobs:
       run: pip install pyyaml
 
     - name: Run YAML check script
-      run: python utils/yml_check.py
+      run: python utils/yml_check.py _data
