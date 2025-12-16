@@ -1,5 +1,8 @@
 name: Check YAML
 
+permissions:
+  contents: read
+
 on:
   push:
     branches: [ dev ]
