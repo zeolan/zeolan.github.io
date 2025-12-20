@@ -124,6 +124,9 @@
 - ro: un nopti<u>e</u>ră - două nopti<u>e</u>re
   ua: тумбочка
   ru: тумбочка
+- ro: o veio<u>a</u>ză - două vei<u>o</u>ze
+  ua: нічник, торшер
+  ru: ночник, торшер
 - ro: un bir<u>o</u>u - două bir<u>o</u>uri
   ua: письмовий стіл
   ru: письменный стол
@@ -166,6 +169,18 @@
 - ro: un pros<u>o</u>p - două proso<u>a</u>pe
   ua: рушник
   ru: полотенце
+- ro: o c<u>a</u>dă - două c<u>ă</u>zi
+  ua: ванна
+  ru: ванна
+- ro: un duș - două dușuri
+  ua: душ
+  ru: душ
+- ro: o chiuv<u>e</u>tă - două chiuv<u>e</u>te
+  ua: умивальник
+  ru: умывальник
+- ro: un vas de toaleta - două vase de toaleta
+  ua: унітаз
+  ru: унитаз
 - ro: ---
   ua: ---
   ru: ---
@@ -235,6 +250,15 @@
 - ro: chir<u>i</u>e
   ua: орендна плата
   ru: арендная плата
+- ro: apartament decomandat
+  ua: квартира ізольована (окремі кімнати)
+  ru: квартира изолированная (раздельные комнаты)
+- ro: apartament semidecomandat
+  ua: квартира напівізольована (прохідні кімнати)
+  ru: квартира полуизолированная (проходные комнаты)
+- ro: un vecin, o vecină - doi / două vecini
+  ua: сусід, сусідка - сусіди
+  ru: сосед, соседка - соседи
 - ro: ---
   ua: ---
   ru: ---
