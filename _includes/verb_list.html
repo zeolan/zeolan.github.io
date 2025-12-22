@@ -1,6 +1,5 @@
-Список дієслів першої групи з суфіксом
 <!-- prettier-ignore -->
-{% for letter in site.data.verbe_1_cu_sufix %}
+{% for letter in include.rows %}
 <details class="verb-list">
   <summary>{{ letter.key.name }}</summary>
   <ul>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Дієслова першої групи без суфікса"
-date: 2025-10-02 12:00:00 +0300
+date: 2025-12-22 12:00:00 +0300
 category: verbe
 img: "https://screens.cdn.wordwall.net/200/5ebd2efc289d4f14a6a5e4610583fb82_0"
 ---
