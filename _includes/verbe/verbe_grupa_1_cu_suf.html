@@ -178,7 +178,10 @@
 
 <hr />
 <br />
-{% include verb_list.html %}
+Список дієслів першої групи з суфіксом
+<!-- prettier-ignore -->
+{% assign verb_list = site.data.verbe_1_cu_sufix %}
+{% include verb_list.html rows=verb_list %}
 <hr />
 <br />
 <p><u>Exemple de propoziții / Приклади речень</u></p>
