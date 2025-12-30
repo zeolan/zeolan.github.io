@@ -22,6 +22,9 @@
 - ro: un ul<u>e</u>i - două ul<u>e</u>iuri
   ua: олія
   ru: масло (подсолн.)
+- ro: un oț<u>e</u>t - două oț<u>e</u>turi
+  ua: оцет
+  ru: уксус
 - ro: un unt - două <u>u</u>nturi
   ua: масло (вершк.)
   ru: масло (сливоч.)
@@ -37,6 +40,9 @@
 - ro: o br<u>â</u>nză - două brânz<u>e</u>turi
   ua: сир
   ru: сыр
+- ro: un cașcav<u>a</u>l - două cașcav<u>a</u>luri
+  ua: твердий сир
+  ru: твердый сыр
 - ro: un ia<u>u</u>rt - două ia<u>u</u>rturi
   ua: йогурт
   ru: йогурт
@@ -49,6 +55,9 @@
 - ro: o fă<u>i</u>nă
   ua: борошно
   ru: мука
+- ro: un măl<u>a</u>i
+  ua: кукурудзяне борошно
+  ru: кукурузная мука
 - ro: o carne - două cărnuri
   ua: м'ясо
   ru: мясо
@@ -121,6 +130,23 @@
 - ro: un ustur<u>o</u>i
   ua: часник
   ru: чеснок
+- ro: o verd<u>ea</u>ță - două verd<u>e</u>țuri
+  ua: зелень
+  ru: зелень
+- ro: ---
+  ua: ---
+  ru: ---
+- ro: o mi<u>e</u>re
+  ua: мед
+  ru: мёд
+- ro: o dulc<u>ea</u>ță - două dulc<u>e</u>țuri
+  ua: варення
+  ru: варенье
+- ro: o bombo<u>a</u>nă - două bombo<u>a</u>ne
+  ua: цукерка
+  ru: конфета
+- ro: o ciocol<u>a</u>tă
+  ua: шоколад
+  ru: шоколад
 # please create list of object with such fields: ro, ua, ru. Each field is a transaltion to russian, romaniana or ucranian respectivly. Please also keep the order of the words. Do that for these words: apă, pâine, unt, ulei, vin, zahăr
 # apă, suc, vin, ceai, cafea, zahăr, sare, ulei, unt, maioneză, lapte, smântână, brânză, iaurt, chefir, pâine, făină, carne, slănină, pește, ou, cârnați, salam, șuncă, orez, ovăz, pastă, chiflă, covrig, cartof, morcov, roșie, varză, ardei, mărar, fasolă, ceapă, usturoi, broccoli
-
