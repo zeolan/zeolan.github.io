@@ -1,14 +1,35 @@
 <!doctype html>
-<html lang="en">
+<!--
+  offline.html
+  - Purpose: Minimal offline fallback page served by the service
+    worker when a navigation request cannot be fulfilled from the
+    network or cache. Keep this file small and self-contained so it
+    can be cached and shown quickly while offline.
+
+  Notes for maintainers:
+  - This file is referenced by `sw.js` via `OFFLINE_URL` and should
+    be included in the precache list so the worker can serve it when
+    offline.
+  - Keep external dependencies to a minimum (no external fonts or
+    scripts) to ensure the page loads while offline.
+-->
+<html lang="uk">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Offline</title>
+    <title>Офлайн</title>
+    <!-- Link to the web app manifest (helps installers show icon/name) -->
     <link rel="manifest" href="/manifest.json">
+    <!-- Theme color used by some UAs when showing the page or splash -->
     <meta name="theme-color" content="#000000" />
-    <style>body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;flex-direction:column;text-align:center;padding:1rem}.logo{font-weight:700;margin-bottom:1rem}</style>
+    <!-- Inline minimal styling so the page is self-contained and small. -->
+    <style>
+      body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;flex-direction:column;text-align:center;padding:1rem}
+      .logo{font-weight:700;margin-bottom:1rem}
+    </style>
   </head>
   <body>
+    <!-- Content: short message and a link back to the homepage. -->
     <div>
       <div class="logo">Сайт офлайн</div>
       <p>Схоже, ви офлайн. Перевірте підключення до інтернету.</p>
