@@ -11,7 +11,7 @@
   ua: багатоквартирний будинок
   ru: многоквартирный дом
 - ro: o sc<u>a</u>ră - două sc<u>ă</u>ri
-  ua: під'їзд, сходи
+  ua: під'їзд, сходи, сходова клітка
   ru: подъезд, лестница
 - ro: o intr<u>a</u>re - două intr<u>ă</u>ri
   ua: вхід
@@ -25,6 +25,9 @@
 - ro: o soner<u>i</u>e (de ușă, elctrică, fără fir)
   ua: дзвінок (дверний, електричний, бездротовий)
   ru: звонок (дверной, электрический, беспроводной)
+- ro: un antr<u>e</u>u - două antr<u>e</u>uri
+  ua: передпокій (прихожа)
+  ru: прихожая
 - ro: un hol - două h<u>o</u>luri
   ua: коридор
   ru: коридор
@@ -32,9 +35,12 @@
   ua: кімната
   ru: комната
 - ro: o sufrag<u>e</u>rie - două sufrag<u>e</u>rii
-  ua: вітальня, cтолова
-  ru: гостиная, столовая
+  ua: їдальня
+  ru: столовая
 - ro: un l<u>i</u>ving - două l<u>i</u>vinguri
+  ua: вітальня
+  ru: гостиная
+- ro: un sal<u>o</u>n - două salo<u>a</u>ne
   ua: вітальня
   ru: гостиная
 - ro: un dormit<u>o</u>r - două dormito<u>a</u>re
@@ -178,6 +184,9 @@
 - ro: o chiuv<u>e</u>tă - două chiuv<u>e</u>te
   ua: умивальник
   ru: умывальник
+- ro: un robin<u>e</u>t - două robin<u>e</u>te
+  ua: кран
+  ru: кран
 - ro: un vas de toaleta - două vase de toaleta
   ua: унітаз
   ru: унитаз
