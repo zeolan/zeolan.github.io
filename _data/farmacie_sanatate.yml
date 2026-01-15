@@ -24,7 +24,7 @@
   ru: таблетка
 - ro: un supliment (alimentar)
   ua: (харчова) добавка
-  ru: (пищевой) добавка
+  ru: (пищевая) добавка
 - ro: o caps<u>u</u>lă - două caps<u>u</u>le
   ua: капсула
   ru: капсула
@@ -58,7 +58,7 @@
 - ro: un antiinflamat<u>o</u>r
   ua: протизапальне
   ru: противовоспалительное
-- ro: un ac - două a< u>a</u>ce
+- ro: un ac - două <u>a</u>ce
   ua: ігла
   ru: игла
 - ro: o ser<u>i</u>ngă
@@ -82,6 +82,18 @@
 - ro: ---
   ua: ---
   ru: ---
+- ro: un simpt<u>o</u>m - două simpt<u>o</u>me
+  ua: симптом
+  ru: симптом
+- ro: un diagn<u>o</u>stic - două diagn<u>o</u>stice
+  ua: діагноз
+  ru: диагноз
+- ro: un tratam<u>e</u>nt - două tratam<u>e</u>nte
+  ua: лікування
+  ru: лечение
+- ro: o bo<u>a</u>lă - două b<u>o</u>li
+  ua: хвороба
+  ru: болезнь
 - ro: o răce<u>a</u>lă - două răc<u>e</u>li
   ua: простуда
   ru: простуда
@@ -124,7 +136,7 @@
 - ro: o umflăt<u>u</u>ră
   ua: набряк
   ru: отёк
-- ro: un cârc<u>e</u>l
+- ro: un cârc<u>e</u>l - doi cârc<u>e</u>i
   ua: судома
   ru: судорога
 - ro: o alerg<u>i</u>e

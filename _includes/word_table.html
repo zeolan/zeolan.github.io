@@ -1,11 +1,15 @@
 <!-- prettier-ignore -->
 {% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in include.rows %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua">{{ row.ua | markdownify}}</td>
-    <td class="col-ru">{{ row.ru | markdownify}}</td>
-  </tr>
-  {% endfor %}
+<div class="table-wrapper">
+<table class="table-verb">
+  <tbody>
+    {% for row in include.rows %}
+    <tr>
+      <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
+      <td class="col-ua">{{ row.ua | markdownify}}</td>
+      <td class="col-ru">{{ row.ru | markdownify}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>
+</div>

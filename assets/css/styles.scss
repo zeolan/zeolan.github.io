@@ -173,6 +173,8 @@ a.category:hover {
 .table-custom {
   font-size: 18px;
   color: #444444;
+  width: auto;
+  overflow-x: scroll;
   p {
     margin: 0;
   }
