@@ -294,6 +294,15 @@ a.category:hover {
   }
 }
 
+table {
+  tr {
+    td {
+      p {
+        margin: 0;
+      }
+    }
+  }
+}
 table caption {
   caption-side: top;
   font-weight: bolder;
