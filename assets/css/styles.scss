@@ -295,10 +295,12 @@ a.category:hover {
 }
 
 table {
-  tr {
-    td {
-      p {
-        margin: 0;
+  tbody {
+    tr {
+      td {
+        p {
+          margin: 0;
+        }
       }
     }
   }
