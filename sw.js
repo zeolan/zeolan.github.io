@@ -14,7 +14,7 @@ const IMAGE_CACHE = 'images-v1';
 // Set of request `destination` values that we treat as static assets
 // (stylesheets, scripts, fonts). Using a Set makes the check clearer
 // and easier to extend.
-const STATIC_DESTINATIONS = new Set(['style', 'script', 'font']);
+const STATIC_DESTINATIONS = new Set(['style', 'script', 'font', 'js', 'styles']);
 
 // Path to the offline fallback page that will be served when a
 // navigation request cannot be fulfilled from network or cache.
