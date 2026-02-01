@@ -1,15 +1,19 @@
+// Cache version - increment this to force update all cached assets
+// (styles, fonts, scripts, images, etc.)
+const CACHE_VERSION = 'v2';
+
 // Name of the cache used for pre-caching a small set of core files
 // This cache is populated during the `install` event and updated only
 // when the service worker is updated (versioned name).
-const PRECACHE = 'precache-v1';
+const PRECACHE = `precache-${CACHE_VERSION}`;
 
 // Name of the cache used for runtime caching of pages and other
 // non-image assets fetched while the app is running.
-const RUNTIME = 'runtime-v1';
+const RUNTIME = `runtime-${CACHE_VERSION}`;
 
 // Dedicated cache name for images and icons. Using a separate cache
 // allows easier pruning and different lifetime policies later.
-const IMAGE_CACHE = 'images-v1';
+const IMAGE_CACHE = `images-${CACHE_VERSION}`;
 
 // Set of request `destination` values that we treat as static assets
 // (stylesheets, scripts, fonts). Using a Set makes the check clearer
