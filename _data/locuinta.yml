@@ -142,6 +142,9 @@
 - ro: o bibliot<u>e</u>că - două bibliot<u>e</u>ci
   ua: книжкова шафа
   ru: книжный шкаф
+- ro: un sert<u>a</u>r - două sert<u>a</u>re
+  ua: шухляда
+  ru: ящик выдвижной
 - ro: o etaj<u>e</u>ră - două etaj<u>e</u>re
   ua: стелаж
   ru: стеллаж
@@ -154,6 +157,9 @@
 - ro: o perd<u>e</u>a - două perd<u>e</u>le
   ua: штора
   ru: штора
+- ro: o jaluz<u>e</u>a - două jaluz<u>e</u>le
+  ua: жалюзі
+  ru: жалюзи
 - ro: un tabl<u>o</u>u - două tabl<u>o</u>uri
   ua: картина
   ru: картина
@@ -202,18 +208,27 @@
 - ro: un frigid<u>e</u>r - două frigid<u>e</u>re
   ua: холодильник
   ru: холодильник
+- ro: un congelat<u>o</u>r - două congelato<u>a</u>re
+  ua: морозильник
+  ru: морозильник
 - ro: o maș<u>i</u>nă de spăl<u>a</u>t
   ua: пральна машина
   ru: стиральная машина
 - ro: un arag<u>a</u>z - două arag<u>a</u>ze
-  ua: плита
-  ru: плита
+  ua: плита (газова)
+  ru: плита (газовая)
+- ro: un reș<u>o</u>u / o plită electrică
+  ua: елєктроплита
+  ru: электроплита
 - ro: un cupt<u>o</u>r - două cupto<u>a</u>re
   ua: піч, духовка
   ru: печь, духовка
-- ro: un cuptor cu micro<u>u</u>nde
+- ro: un cupt<u>o</u>r cu micro<u>u</u>nde
   ua: мікрохвильова піч
   ru: микроволновая печь
+- ro: un coș de gun<u>o</u>i
+  ua: корзина для сміття
+  ru: корзина для мусора
 - ro: un aspirat<u>o</u>r - două aspirato<u>a</u>re
   ua: пилосос
   ru: пылесос
@@ -241,6 +256,12 @@
 - ro: un aer condițion<u>a</u>t - două aeruri condițion<u>a</u>te
   ua: кондиціонер
   ru: кондиционер
+- ro: un lapt<u>o</u>p - două lapt<u>o</u>puri
+  ua: ноутбук
+  ru: ноутбук
+- ro: un calculat<u>o</u>r - două calculato<u>a</u>re
+  ua: компьютер
+  ru: компьютер
 - ro: ---
   ua: ---
   ru: ---
