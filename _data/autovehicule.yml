@@ -22,7 +22,7 @@
 - ro: un schimbăt<u>o</u>r de viteze
   ua: важіль перемикання передач
   ru: рычаг переключения передач
-- ro: o ped<u>a</u>lă
+- ro: o ped<u>a</u>lă - două pedale
   ua: педаль
   ru: педаль
 - ro: un bord
@@ -37,10 +37,10 @@
 - ro: un far - două f<u>a</u>ruri
   ua: фара
   ru: фараё
-- ro: un semnalizat<u>o</u>r
+- ro: un semnalizat<u>o</u>r - două semnalizatoare
   ua: покажчик повороту
   ru: указатель поворота
-- ro: un stop
+- ro: un stop - două st<u>o</u>puri
   ua: стоп-сигнал
   ru: стоп-сигнал
 - ro: un clax<u>o</u>n
@@ -67,10 +67,10 @@
 - ro: o oglindă retrovizoare (un retrovizor)
   ua: дзеркало заднього виду
   ru: зеркало заднего вида
-- ro: un ștergăt<u>o</u>r (de parbriz)
+- ro: un ștergăt<u>o</u>r (de parbriz) - două ștergăto<u>a</u>re
   ua: склоочисник
   ru: стеклоочиститель
-- ro: o ușă (o poartă)
+- ro: o <u>u</u>șă (o po<u>a</u>rtă) - două uși (două porți)
   ua: двері
   ru: дверь
 - ro: o cap<u>o</u>tă
@@ -118,6 +118,12 @@
 - ro: o caroser<u>i</u>e
   ua: кузов
   ru: кузов
+- ro: o țe<u>a</u>vă / o t<u>o</u>bă de eșapam<u>e</u>nt
+  ua: вихлопна труба / глушник
+  ru: выхлопная труба / глушнитель
+- ro: o b<u>a</u>ră de protecție
+  ua: бампер
+  ru: бампер
 - ro: ---
   ua: ---
   ru: ---
