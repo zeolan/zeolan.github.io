@@ -1,6 +1,6 @@
 // Cache version - increment this to force update all cached assets
 // (styles, fonts, scripts, images, etc.)
-const CACHE_VERSION = 'v7';
+const CACHE_VERSION = 'v8';
 
 // Name of the cache used for pre-caching a small set of core files
 // This cache is populated during the `install` event and updated only
@@ -33,6 +33,8 @@ const PRECACHE_URLS = [
   '/android-chrome-192x192.png',
   '/android-chrome-512x512.png'
 ];
+
+const RUNTIME_CACHE_EXCLUDED_HOSTS = new Set(['www.googletagmanager.com']);
 
 /*
   safePrecache(urls)
@@ -246,7 +248,7 @@ self.addEventListener('fetch', (event) => {
           return new Response(null, { status: 503, statusText: 'Service Unavailable' });
         }
         const cache = await caches.open(RUNTIME);
-        if (url.origin === self.location.origin) {
+        if (url.origin === self.location.origin && !RUNTIME_CACHE_EXCLUDED_HOSTS.has(url.hostname)) {
           cache.put(request, response.clone()).catch(() => {});
         }
         return response;
