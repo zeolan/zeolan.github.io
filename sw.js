@@ -1,6 +1,6 @@
 // Cache version - increment this to force update all cached assets
 // (styles, fonts, scripts, images, etc.)
-const CACHE_VERSION = 'v4';
+const CACHE_VERSION = 'v7';
 
 // Name of the cache used for pre-caching a small set of core files
 // This cache is populated during the `install` event and updated only
@@ -194,6 +194,7 @@ async function handleImageRequest(event) {
     using a network-first strategy with offline fallback.
   - Same-origin image requests: handled by `handleImageRequest` and cached in
     `IMAGE_CACHE` (cache-first).
+  - External image requests: not intercepted, handled directly by browser.
   - Static assets (style/script/font): handled by `handleAssetRequest`
     (cache-first) but only for same-origin requests.
   - Fallback for other requests: try network then cache; if the
@@ -219,7 +220,12 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 3) Static assets (styles/scripts/fonts) from the same origin
+  // 3) External images -> let browser handle directly (no SW interception)
+  if (request.destination === 'image' && url.origin !== self.location.origin) {
+    return;
+  }
+
+  // 4) Static assets (styles/scripts/fonts) from the same origin
   if (url.origin === self.location.origin && STATIC_DESTINATIONS.has(request.destination)) {
     event.respondWith(handleAssetRequest(event));
     return;
@@ -240,7 +246,9 @@ self.addEventListener('fetch', (event) => {
           return new Response(null, { status: 503, statusText: 'Service Unavailable' });
         }
         const cache = await caches.open(RUNTIME);
-        cache.put(request, response.clone()).catch(() => {});
+        if (url.origin === self.location.origin) {
+          cache.put(request, response.clone()).catch(() => {});
+        }
         return response;
       } catch (err) {
         const cached = await caches.match(request);
