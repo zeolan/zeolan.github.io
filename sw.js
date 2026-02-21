@@ -34,6 +34,8 @@ const PRECACHE_URLS = [
   '/android-chrome-512x512.png'
 ];
 
+const RUNTIME_CACHE_EXCLUDED_HOSTS = new Set(['www.googletagmanager.com']);
+
 /*
   safePrecache(urls)
   - Purpose: Preload a minimal, essential set of URLs into the
@@ -246,7 +248,7 @@ self.addEventListener('fetch', (event) => {
           return new Response(null, { status: 503, statusText: 'Service Unavailable' });
         }
         const cache = await caches.open(RUNTIME);
-        if (url.origin === self.location.origin && !url.hostname.includes('googletagmanager.com')) {
+        if (url.origin === self.location.origin && !RUNTIME_CACHE_EXCLUDED_HOSTS.has(url.hostname)) {
           cache.put(request, response.clone()).catch(() => {});
         }
         return response;
