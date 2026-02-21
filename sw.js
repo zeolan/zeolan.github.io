@@ -210,6 +210,16 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(request.url);
 
+  // Bypass service worker entirely for Google Tag Manager / Analytics
+  // scripts to avoid any CORS or caching interference when served
+  // from external hosts (helps local http dev where external https
+  // requests can behave differently).
+  if (url.hostname &&
+    RUNTIME_CACHE_EXCLUDED_HOSTS.has(url.hostname)
+  ) {
+    return;
+  }
+
   // 1) Top-level navigations (pages)
   if (request.mode === 'navigate') {
     event.respondWith(handleNavigationRequest(event));
