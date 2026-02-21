@@ -1,6 +1,6 @@
 // Cache version - increment this to force update all cached assets
 // (styles, fonts, scripts, images, etc.)
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 
 // Name of the cache used for pre-caching a small set of core files
 // This cache is populated during the `install` event and updated only
@@ -192,7 +192,7 @@ async function handleImageRequest(event) {
   Routing rules:
   - Navigation requests (HTML pages): handled by `handleNavigationRequest`
     using a network-first strategy with offline fallback.
-  - Image requests: handled by `handleImageRequest` and cached in
+  - Same-origin image requests: handled by `handleImageRequest` and cached in
     `IMAGE_CACHE` (cache-first).
   - Static assets (style/script/font): handled by `handleAssetRequest`
     (cache-first) but only for same-origin requests.
@@ -213,8 +213,8 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2) Images/icons -> dedicated image cache (cache-first)
-  if (request.destination === 'image') {
+  // 2) Same-origin images/icons -> dedicated image cache (cache-first)
+  if (request.destination === 'image' && url.origin === self.location.origin) {
     event.respondWith(handleImageRequest(event));
     return;
   }
