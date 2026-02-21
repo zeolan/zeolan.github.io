@@ -1,6 +1,6 @@
 // Cache version - increment this to force update all cached assets
 // (styles, fonts, scripts, images, etc.)
-const CACHE_VERSION = 'v7';
+const CACHE_VERSION = 'v8';
 
 // Name of the cache used for pre-caching a small set of core files
 // This cache is populated during the `install` event and updated only
@@ -246,7 +246,7 @@ self.addEventListener('fetch', (event) => {
           return new Response(null, { status: 503, statusText: 'Service Unavailable' });
         }
         const cache = await caches.open(RUNTIME);
-        if (url.origin === self.location.origin) {
+        if (url.origin === self.location.origin && !url.hostname.includes('googletagmanager.com')) {
           cache.put(request, response.clone()).catch(() => {});
         }
         return response;
