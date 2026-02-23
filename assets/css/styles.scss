@@ -4,13 +4,90 @@
 @import "variables";
 body {
   font-family: monospace, ui-sans-serif, monospace, Courier, "Courier New";
-  /* padding-top: 60px; */
-  //   background-color: rgb(248, 248, 248);
-  background-color: #f9fafb;
-  //   color: rgb(17, 136, 119);
   color: $font-main-color;
 }
+/* Light mode defaults (applied at root) */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222831;
+  --highlight-color: rgba(252, 209, 22, 0.2);
+  --border-color: #e0e0e0;
+  --card-bg: #f9f9f9;
+  --link-color: #1976d2;
+  --link-hover-color: #1565c0;
+  --code-bg: #f5f5f5;
+  --code-text: #d63384;
+  --blockquote-border: #ddd;
+  --table-bg: #ffffff;
+  --table-header-bg: #505050;
+  --table-row-even-bg: #f9f9f9;
+  --table-row-odd-bg: #ffffff;
+  --details-summary-bg: #fcd11655;
+  --red-color: #ff0000;
+  --blue-color: #0000ff;
+}
 
+// Dark mode - automatically applied when system preference is dark
+// @media (prefers-color-scheme: dark) {
+[data-theme="dark"] {
+  --bg-color: #333333;
+  --text-color: #eeeeee;
+  --highlight-color: rgba(252, 209, 22, 0.15);
+  --border-color: #888888;
+  --card-bg: #2a2a2a;
+  --link-color: #64b5f6;
+  --link-hover-color: #81c4ff;
+  --code-bg: #2a2a2a;
+  --code-text: #ff7eb3;
+  --blockquote-border: #444;
+  --table-bg: #333333;
+  --table-header-bg: #6e6e6e;
+  --table-row-even-bg: #3e3e3e;
+  --table-row-odd-bg: #333333;
+  --details-summary-bg: #fcd11633;
+  --red-color: #e16060;
+  --blue-color: #64b5f6;
+}
+/* Dark mode → show sun, hide moon */
+#icon-light {
+  display: none;
+}
+[data-theme="dark"] #icon-dark {
+  display: none;
+}
+[data-theme="dark"] #icon-light {
+  display: inline;
+}
+/* Minima styles overrides and customizations */
+table {
+  color: var(--text-color);
+  border-color: var(--border-color);
+  background-color: var(--table-bg);
+  th, td {
+    border-color: var(--border-color);
+  }
+}
+table tr:nth-child(even) {
+  background-color: var(--table-row-even-bg);
+}
+table tr:nth-child(odd) {
+  background-color: var(--table-row-odd-bg);
+}
+
+a, a:visited {
+  color: var(--link-color);
+  transition: color 0.3s ease;
+  &:hover {
+    color: var(--link-hover-color);
+  }
+}
+.site-nav .page-link {
+  color: var(--link-color);
+  &:hover {
+    color: var(--link-hover-color);
+  }
+}
+/* End */
 p,
 p > p,
 p > div {
@@ -23,13 +100,46 @@ li.verb-list-item {
 
 .site-header .site-title {
   font-weight: bolder;
-  font-size: 20px;
+  font-size: 1.1em;
   /* line-height: 2em; */
 }
 
 .site-header .site-nav {
   top: 12px;
   right: 8px;
+  display: flex;
+  // flex: 0 1 auto;
+}
+
+#theme-toggle {
+  // position: absolute;
+  // top: 12px;
+  // right: 56px;
+  background-color: transparent;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: var(--text-color);
+  // transition: all 0.3s ease;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  // &:hover {
+  //   background-color: var(--highlight-color);
+  // }
+
+  // &:focus {
+  //   outline: 2px solid var(--link-color);
+  //   outline-offset: 2px;
+  // }
+
+  .theme-icon {
+    width: 20px;
+    height: 20px;
+    transition: transform 0.3s ease;
+  }
 }
 
 .site-header {
@@ -251,7 +361,7 @@ a.category:hover {
   margin-bottom: 5px;
   line-height: 1em;
   font-size: 0.8em;
-  color: #555;
+  // color: #555;
 }
 .table-lang-toggle {
   display: flex;
@@ -260,18 +370,18 @@ a.category:hover {
   margin-left: 5px;
 }
 .sticky {
-  background-color: #f9fafb;
+  background-color: var(--bg-color);
   padding: 10px 0 5px 0;
   position: sticky;
   top: 0;
   z-index: 10;
 }
 .blue-bold {
-  color: blue;
+  color: var(--blue-color);
   font-weight: bolder;
 }
 .red-bold {
-  color: red;
+  color: var(--red-color);
   font-weight: bolder;
 }
 .table-verb {
@@ -279,12 +389,11 @@ a.category:hover {
   overflow-x: scroll;
   thead th {
     font-weight: bolder;
-    background-color: #505050;
+    background-color: var(--table-header-bg);
     color: white;
   }
   .col-verbul {
     background-color: $highlight-yellow;
-    font-size: 1.1em;
     text-transform: uppercase;
     font-weight: bolder;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
@@ -332,14 +441,14 @@ table caption {
 
 details summary {
   cursor: pointer;
-  background-color: $highlight-yellow;
+  background-color: var(--details-summary-bg);
   &:hover {
-    background-color: darken($highlight-yellow, 15%);
+    // background-color: color(#444444 / 0.5);
   }
 }
 
 details[open] summary {
-  background-color: darken($highlight-yellow, 35%);
+  // background-color: darken(var(--details-summary-bg), 35%);
   margin-bottom: 0.5em;
 }
 
@@ -364,4 +473,79 @@ details[open] summary {
   align-items: center;
   align-self: baseline;
   font-size: 0.8em;
+}
+
+// Dark mode theme stylesheet
+// Uses CSS media query to automatically detect system preference
+// No JavaScript needed - respects @media (prefers-color-scheme)
+
+// Apply theme variables to key elements
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  // transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+
+  &:hover {
+    color: var(--link-hover-color);
+  }
+}
+
+// Tables
+table {
+  border-color: var(--border-color);
+
+  th, td {
+    border-color: var(--border-color);
+  }
+}
+
+// Code blocks
+code, pre {
+  background-color: var(--code-bg);
+  color: var(--code-text);
+}
+
+// Blockquotes
+blockquote {
+  border-left-color: var(--blockquote-border);
+  color: var(--text-color);
+}
+
+// Cards & containers
+.post-list li, .category-list li, .card {
+  background-color: var(--card-bg);
+  border-color: var(--border-color);
+}
+
+// Input fields
+input, textarea, select {
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  border-color: var(--border-color);
+
+  &:focus {
+    border-color: var(--link-color);
+  }
+}
+
+// Highlight/Yellow accent background
+.highlight-yellow, mark {
+  background-color: var(--highlight-color);
+}
+
+.site-title, .site-title:visited {
+  color: var(--text);
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: inherit !important;
+    .page-link {
+      margin-left: 0;
+    }
+  }
 }
