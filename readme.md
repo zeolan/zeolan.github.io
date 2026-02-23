@@ -22,3 +22,7 @@ python utils/yml_check.py \_data/
 
 git config --global credential.helper store
 echo https://user:token@host >> ~/.git-credetials
+
+### Overriding theme defaults
+
+bundle info --path minima - to locate theme's files on computer
