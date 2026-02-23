@@ -1,6 +1,6 @@
 // Cache version - increment this to force update all cached assets
 // (styles, fonts, scripts, images, etc.)
-const CACHE_VERSION = 'v9';
+const CACHE_VERSION = 'v10';
 
 // Name of the cache used for pre-caching a small set of core files
 // This cache is populated during the `install` event and updated only
@@ -238,10 +238,10 @@ self.addEventListener('fetch', (event) => {
   }
 
   // 4) Static assets (styles/scripts/fonts) from the same origin
-  if (url.origin === self.location.origin && STATIC_DESTINATIONS.has(request.destination)) {
-    event.respondWith(handleAssetRequest(event));
-    return;
-  }
+  // if (url.origin === self.location.origin && STATIC_DESTINATIONS.has(request.destination)) {
+  //   event.respondWith(handleAssetRequest(event));
+  //   return;
+  // }
 
   // 4) Generic fallback for other GET requests: prefer network but
   //    fall back to cache and offline page for HTML requests.
