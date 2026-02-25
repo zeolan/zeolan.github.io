@@ -4,16 +4,11 @@
   Їх особливість полягає в тому, що вони всі починаються з літери А, тому їх
   легко сплутати.
 </p>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.adverbe_a %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua" lang="uk">{{ row.ua | markdownify}}</td>
-    <td class="col-ru" lang="ru">{{ row.ru | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<!-- prettier-ignore -->
+{% assign word_list = site.data.adverbe_a %}
+{% include word_table.html
+rows=word_list %}
+
 <hr />
 <br />
 <p><u>Exemple de propoziții / Приклади речень</u></p>
