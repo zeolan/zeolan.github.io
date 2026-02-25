@@ -2,16 +2,11 @@
   Це прикметники, які мають протилежні значення. Вивчення антонімів допоможе
   тобі краще розуміти нюанси мови та покращити свої навички спілкування.
 </h4>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.adjective_antonime %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua" lang="uk">{{ row.ua | markdownify}}</td>
-    <td class="col-ru" lang="ru">{{ row.ru | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<!-- prettier-ignore -->
+{% assign word_list = site.data.adjective_antonime %}
+{% include word_table.html
+rows=word_list %}
+
 <hr />
 <br />
 <p><u>Exemple de propoziții / Приклади речень</u></p>

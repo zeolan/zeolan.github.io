@@ -3,16 +3,11 @@
   на питання ЯК ЧАСТО? В таблиці наведені у порядку зниження частоти, від
   найчастіших до найрідкісніших.
 </h4>
-{% include table_toggle.html %}
-<table class="table-custom">
-  {% for row in site.data.adverbe_frecventa %}
-  <tr>
-    <td class="col-ro table-bold">{{ row.ro | markdownify }}</td>
-    <td class="col-ua" lang="uk">{{ row.ua | markdownify}}</td>
-    <td class="col-ru" lang="ru">{{ row.ru | markdownify}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<!-- prettier-ignore -->
+{% assign word_list = site.data.adverbe_frecventa %}
+{% include word_table.html
+rows=word_list %}
+
 <p>
   <u class="highlight-yellow"
     >Інші прислівникові структури які позначають періодичність або частоту:</u
@@ -139,6 +134,8 @@
     (Я ніколи не виходжу з дому, не перевіривши, чи зачинені двері.)</span
   >
 </p>
+<hr />
+<p></p>
 <p>
   <u class="highlight-yellow">Перевірте себе:</u>
 </p>
