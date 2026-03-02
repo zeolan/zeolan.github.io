@@ -22,7 +22,8 @@ body {
   --table-header-bg: #505050;
   --table-row-even-bg: #f9f9f9;
   --table-row-odd-bg: #ffffff;
-  --details-summary-bg: #fcd11655;
+  --details-summary-bg: #cccccc;
+  --details-summary-open-bg: #999999;
   --red-color: #ff0000;
   --blue-color: #0000ff;
 }
@@ -44,7 +45,8 @@ body {
   --table-header-bg: #6e6e6e;
   --table-row-even-bg: #3e3e3e;
   --table-row-odd-bg: #333333;
-  --details-summary-bg: #636355;
+  --details-summary-bg: #6e6e6e;
+  --details-summary-open-bg: #999999;
   --red-color: #e16060;
   --blue-color: #64b5f6;
 }
@@ -443,12 +445,12 @@ details summary {
   cursor: pointer;
   background-color: var(--details-summary-bg);
   &:hover {
-    // background-color: color(#444444 / 0.5);
+    background-color: var(--details-summary-open-bg);
   }
 }
 
 details[open] summary {
-  // background-color: darken(var(--details-summary-bg), 35%);
+  background-color: var(--details-summary-open-bg);
   margin-bottom: 0.5em;
 }
 
