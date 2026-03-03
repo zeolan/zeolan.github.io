@@ -442,6 +442,7 @@ table caption {
 }
 
 details summary {
+  padding-left: 5px;
   cursor: pointer;
   background-color: var(--details-summary-bg);
   &:hover {
