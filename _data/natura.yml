@@ -32,10 +32,10 @@
 - ro: un nis<u>i</u>p
   ua: пісок
   ru: песок
-- ro: un cer - doi ceri
+- ro: un cer - două ceruri
   ua: небо
   ru: небо
-- ro: un soare - doi sori
+- ro: un so<u>a</u>re - doi sori
   ua: сонце
   ru: солнце
 - ro: un nor - doi nori
@@ -44,7 +44,7 @@
 - ro: un vânt - două v<u>â</u>nturi
   ua: вітер
   ru: ветер
-- ro: un ocean - două oceane
+- ro: un oc<u>ea</u>n - două oceane
   ua: океан
   ru: океан
 - ro: un deș<u>e</u>rt - două deș<u>e</u>rturi
@@ -77,7 +77,7 @@
 - ro: o i<u>a</u>rbă - două i<u>e</u>rburi
   ua: трава
   ru: трава
-- ro: o gheață
+- ro: o gh<u>ea</u>ță - două gh<u>e</u>țuri
   ua: лід
   ru: лед
 - ro: o plo<u>a</u>ie - două ploi
@@ -113,7 +113,7 @@
 - ro: o l<u>a</u>poviță - două lapovițe
   ua: мокрий сніг
   ru: мокрый снег
-- ro: un v<u>i</u>scol - doi viscole
+- ro: un v<u>i</u>scol - două viscole
   ua: заметіль
   ru: метель
 - ro: o gr<u>i</u>ndină - două grindini
@@ -167,6 +167,6 @@
 - ro: sud, ami<u>a</u>ză, miazăz<u>i</u>
   ua: південь
   ru: юг
-- ro: nord, ami<u>a</u>ză, miazăno<u>a</u>pte
+- ro: nord, miazăno<u>a</u>pte
   ua: північ
   ru: север
