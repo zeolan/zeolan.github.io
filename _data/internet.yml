@@ -7,10 +7,10 @@
 - ro: o p<u>a</u>gină web
   ua: веб-сторінка
   ru: веб-страница
-- ro: o rețea socială
+- ro: o reț<u>ea</u> socială - două reț<u>e</u>le sociale
   ua: соціальна мережа
   ru: социальная сеть
-- ro: un profil
+- ro: un prof<u>i</u>l - două prof<u>i</u>luri
   ua: профіль
   ru: профиль
 - ro: un utilizat<u>o</u>r - doi utilizat<u>o</u>ri
@@ -19,7 +19,7 @@
 - ro: o post<u>a</u>re - două post<u>ă</u>ri
   ua: пост, публікація
   ru: пост, публикация
-- ro: un coment<u>a</u>riu - două coment<u>a</u>arii
+- ro: un coment<u>a</u>riu - două coment<u>a</u>rii
   ua: коментар
   ru: комментарий
 - ro: un cont - două c<u>o</u>nturi
@@ -31,7 +31,7 @@
 - ro: un e-mail
   ua: електронна пошта
   ru: электронная почта
-- ro: un atașam<u>e</u>nt
+- ro: un atașam<u>e</u>nt - două atașam<u>e</u>nte
   ua: вкладення
   ru: вложение
 - ro: un link - două link-uri
@@ -52,16 +52,16 @@
 - ro: o pagină principală
   ua: головна сторінка
   ru: главная страница
-- ro: un access
+- ro: un acc<u>e</u>s - două acc<u>e</u>se
   ua: доступ
   ru: доступ
 - ro: o aplic<u>a</u>ție - două aplic<u>a</u>ții
   ua: застосунок
   ru: приложение
-- ro: un program
+- ro: un progr<u>a</u>m - două progr<u>a</u>me
   ua: програма
   ru: программа
-- ro: un fiși<u>e</u>r
+- ro: un fiși<u>e</u>r - două fiși<u>e</u>re
   ua: файл
   ru: файл
 - ro: un folder - două foldere
@@ -70,7 +70,7 @@
 - ro: un document - două documente
   ua: документ
   ru: документ
-- ro: o set<u>a</u>re
+- ro: o set<u>a</u>re - două set<u>ă</u>ri
   ua: налаштування
   ru: настройки
 - ro: o reset<u>a</u>re
@@ -107,8 +107,8 @@
   ua: отримувати доступ
   ru: получать доступ
 - ro: a salv<u>a</u> (salv<u>e</u>z)
-  ua: зберігати
-  ru: сохранять
+  ua: зберігати (на комп'ютері)
+  ru: сохранять (на компьютере)
 - ro: a șt<u>e</u>rge (șt<u>e</u>rg)
   ua: видаляти
   ru: удалять
