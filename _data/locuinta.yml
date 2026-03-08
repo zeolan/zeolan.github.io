@@ -31,12 +31,12 @@
 - ro: un hol - două h<u>o</u>luri
   ua: коридор
   ru: коридор
-- ro: o cam<u>e</u>ră - două cam<u>e</u>re
+- ro: o c<u>a</u>meră - două c<u>a</u>mere
   ua: кімната
   ru: комната
-- ro: o sufrag<u>e</u>rie - două sufrag<u>e</u>rii
-  ua: їдальня
-  ru: столовая
+- ro: o sufrager<u>i</u>e - două sufrager<u>i</u>i
+  ua: їдальня, вітальня
+  ru: столовая, гостиная
 - ro: un l<u>i</u>ving - două l<u>i</u>vinguri
   ua: вітальня
   ru: гостиная
@@ -61,7 +61,7 @@
 - ro: o toaletă - două toalete
   ua: туалет, вбиральня
   ru: туалет
-- ro: o fer<u>e</u>astră - două fer<u>e</u>stre
+- ro: o fer<u>ea</u>stră - două fer<u>e</u>stre
   ua: вікно
   ru: окно
 - ro: un perv<u>a</u>z - două perv<u>a</u>zuri
@@ -70,7 +70,7 @@
 - ro: un per<u>e</u>te - doi per<u>e</u>ți
   ua: стіна
   ru: стена
-- ro: o pode<u>a</u> - două pod<u>e</u>le
+- ro: o pod<u>ea</u> - două pod<u>e</u>le
   ua: підлога
   ru: пол
 - ro: un tav<u>a</u>n - două tav<u>a</u>ne
@@ -115,7 +115,7 @@
 - ro: un sc<u>a</u>un - două sc<u>a</u>une
   ua: стілець
   ru: стул
-- ro: o canap<u>e</u>a - două canap<u>e</u>le
+- ro: o canap<u>ea</u> - două canap<u>e</u>le
   ua: диван
   ru: диван
 - ro: un fot<u>o</u>liu - două fot<u>o</u>lii
@@ -157,7 +157,7 @@
 - ro: o perd<u>e</u>a - două perd<u>e</u>le
   ua: штора
   ru: штора
-- ro: o jaluz<u>e</u>a - două jaluz<u>e</u>le
+- ro: o jaluz<u>ea</u> - două jaluz<u>e</u>le
   ua: жалюзі
   ru: жалюзи
 - ro: un tabl<u>o</u>u - două tabl<u>o</u>uri
@@ -169,7 +169,7 @@
 - ro: o față de pernă
   ua: наволочка
   ru: наволочка
-- ro: o salte<u>a</u> - două salt<u>e</u>le
+- ro: o salt<u>ea</u> - două salt<u>e</u>le
   ua: матрац
   ru: матрас
 - ro: o p<u>ă</u>tură - două p<u>ă</u>turi
@@ -253,7 +253,7 @@
 - ro: un ventilat<u>o</u>r - două ventilato<u>a</u>re
   ua: вентилятор
   ru: вентилятор
-- ro: un aer condițion<u>a</u>t - două aeruri condițion<u>a</u>te
+- ro: un <u>a</u>er condițion<u>a</u>t - două <u>a</u>eruri condițion<u>a</u>te
   ua: кондиціонер
   ru: кондиционер
 - ro: un lapt<u>o</u>p - două lapt<u>o</u>puri
@@ -277,7 +277,7 @@
 - ro: în subs<u>o</u>l
   ua: в підвалі
   ru: в подвале
-- ro: chir<u>i</u>e
+- ro: o chir<u>i</u>e
   ua: орендна плата
   ru: арендная плата
 - ro: apartament decomandat
@@ -286,7 +286,7 @@
 - ro: apartament semidecomandat
   ua: квартира напівізольована (прохідні кімнати)
   ru: квартира полуизолированная (проходные комнаты)
-- ro: un vecin, o vecină - doi / două vecini
+- ro: un vec<u>i</u>n, o vec<u>i</u>nă - doi / două vecini
   ua: сусід, сусідка - сусіди
   ru: сосед, соседка - соседи
 - ro: ---
