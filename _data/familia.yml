@@ -1,7 +1,7 @@
 - ro: o fam<u>i</u>lie - două fam<u>i</u>lii
   ua: сім'я
   ru: семья
-- ro: un membru al familiei
+- ro: un m<u>e</u>mbru al familiei
   ua: член сім'ї
   ru: член семьи
 - ro: o r<u>u</u>dă - două r<u>u</u>de
@@ -27,8 +27,8 @@
   ru: ребенок (мальчик), дети
 - ro: o cop<u>i</u>lă - două cop<u>i</u>le
   ua: дитина (дівчинка)
-  ru: ребенок (девочка), дети
-- ro: un fiu - doi fii
+  ru: ребенок (девочка)
+- ro: un f<u>i</u>iu - doi f<u>i</u>i
   ua: син
   ru: сын
 - ro: o fi<u>i</u>că - două fi<u>i</u>ce
@@ -112,6 +112,12 @@
 - ro: o nășică
   ua: хрещениця
   ru: крестница
+- ro: un cum<u>ă</u>tru - doi cumetri
+  ua: кум
+  ru: кум
+- ro: o cum<u>ă</u>tră - două cumetre
+  ua: кума
+  ru: кума
 - ro: o căsător<u>i</u>e
   ua: шлюб
   ru: брак
