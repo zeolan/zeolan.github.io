@@ -1,8 +1,12 @@
 - key: # A
     name: A
     values:
+      - ro: "abona, se abona"
+        ua: "підписуватися, оформляти підписку"
       - ro: "accelera"
         ua: "прискорити, прискоряти"
+      - ro: "accentua"
+        ua: "акцентувати, підкреслюватиs"
       - ro: "acomoda"
         ua: "вміщувати, розміщувати"
       - ro: "activa"
