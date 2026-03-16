@@ -58,6 +58,9 @@
 - ro: un antiinflamat<u>o</u>r
   ua: протизапальне
   ru: противовоспалительное
+- ro: un vacc<u>i</u>n - două vacc<u>i</u>nuri
+  ua: вакцина
+  ru: вакцина
 - ro: un ac - două <u>a</u>ce
   ua: ігла
   ru: игла
@@ -82,6 +85,9 @@
 - ro: ---
   ua: ---
   ru: ---
+- ro: o program<u>a</u>re - două program<u>ă</u>ri
+  ua: запис на прийом
+  ru: запись на прием
 - ro: un simpt<u>o</u>m - două simpt<u>o</u>me
   ua: симптом
   ru: симптом
@@ -91,6 +97,9 @@
 - ro: un tratam<u>e</u>nt - două tratam<u>e</u>nte
   ua: лікування
   ru: лечение
+- ro: o recomand<u>a</u>re - două recomand<u>ă</u>ri
+  ua: рекомендація
+  ru: рекомендация
 - ro: o bo<u>a</u>lă - două b<u>o</u>li
   ua: хвороба
   ru: болезнь
@@ -163,6 +172,9 @@
 - ro: nas înfundat
   ua: закладений ніс
   ru: заложенный нос
+- ro: curge nasul
+  ua: тече з носа
+  ru: течет из носа
 - ro: o f<u>e</u>bră
   ua: жар, лихоманка, гарячка
   ru: жар, лихорадка, температура
@@ -178,9 +190,30 @@
 - ro: o infecție f<u>u</u>ngică
   ua: грибкова інфекція
   ru: грибковая инфекция
+- ro: o diar<u>e</u>e
+  ua: діарея
+  ru: диарея
 - ro: ---
   ua: ---
   ru: ---
+- ro: a face programare (fac)
+  ua: записуватися на прийом
+  ru: записываться на прием
+- ro: a consulta (consult)
+  ua: консультувати
+  ru: консультировать
+- ro: a recomanda (recomand)
+  ua: рекомендувати
+  ru: рекомендовать
+- ro: a examina (examinez)
+  ua: оглядати
+  ru: осматривать
+- ro: a prescr<u>i</u>e (prescriu)
+  ua: прописувати, виписувати
+  ru: прописывать, выписывать
+- ro: a vaccina (vaccinez)
+  ua: вакцинувати
+  ru: вакцинировать
 - ro: a lua medicam<u>e</u>nte (iau)
   ua: приймати ліки
   ru: принимать лекарства
