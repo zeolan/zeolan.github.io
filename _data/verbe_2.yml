@@ -1,0 +1,117 @@
+- key: # A
+    name: A
+    values:
+      - ro: "apărea"
+        ua: "з'являтися, виникати"
+        ru: "появляться, возникать"
+- key: # B
+    name: B
+    values:
+      - ro: "bea"
+        ua: "пити"
+        ru: "пить"
+- key: # C
+    name: C
+    values:
+      - ro: "cădea"
+        ua: "падати"
+        ru: "падать"
+- key: # D
+    name: D
+    values:
+      - ro: "dispărea"
+        ua: "зникати, зникнути"
+        ru: "исчезать, исчезнуть"
+      - ro: "displăcea"
+        ua: "не подобатися, не подобатись, не сподобатися"
+        ru: "не нравиться, не понравиться"
+      - ro: "durea"
+        ua: "боліти, болітися"
+        ru: "болеть, страдать"
+- key: # E
+    name: E
+    values:
+- key: # F
+    name: F
+    values:
+- key: # G
+    name: G
+    values:
+- key: # I
+    name: I
+    values:
+- key: # Î
+    name: Î
+    values:
+- key: # J
+    name: J
+    values:
+- key: # L
+    name: L
+    values:
+- key: # M
+    name: M
+    values:
+- key: # N
+    name: N
+    values:
+- key: # O
+    name: O
+    values:
+- key: # P
+    name: P
+    values:
+      - ro: "părea"
+        ua: "здаватися, виглядати"
+        ru: "казаться, выглядеть"
+      - ro: "plăcea"
+        ua: "подобатися, подобатись, сподобатися"
+        ru: "нравиться, понравиться"
+      - ro: "prevedea"
+        ua: "бачити заздалегідь, передбачати"
+        ru: "видеть заранее, предвидеть"
+      - ro: "putea"
+        ua: "могти"
+        ru: "мочь"
+- key: # R
+    name: R
+    values:
+      - ro: "revedea"
+        ua: "бачити знову, зустріти знову"
+        ru: "увидеть снова, встретить снова"
+- key: # S
+    name: S
+    values:
+      - ro: "scădea"
+        ua: "зменшувати"
+        ru: "уменьшать"
+- key: # Ș
+    name: Ș
+    values:
+      - ro: "ședea"
+        ua: "сидіти"
+        ru: "сидеть"  
+- key: # T
+    name: T
+    values:
+      - ro: "tăcea"
+        ua: "мовчати, замовкати"
+        ru: "молчать, замолкать"
+- key: # Ț
+    name: Ț
+    values:
+- key: # U
+    name: U
+    values:
+- key: # V
+    name: V
+    values:
+      - ro: "vedea"
+        ua: "бачити"
+        ru: "видеть"
+      - ro: "vrea"
+        ua: "хотіти"
+        ru: "хотеть"
+- key: # Z
+    name: Z
+    values:
