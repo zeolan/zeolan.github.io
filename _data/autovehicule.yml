@@ -67,6 +67,9 @@
 - ro: o oglindă retrovizoare (un retrovizor)
   ua: дзеркало заднього виду
   ru: зеркало заднего вида
+- ro: o oglindă rabat<u>a</u>bilă
+  ua: дзеркало складане
+  ru: зеркало складное
 - ro: un ștergăt<u>o</u>r (de parbriz) - două ștergăto<u>a</u>re
   ua: склоочисник
   ru: стеклоочиститель
@@ -85,9 +88,12 @@
 - ro: o cent<u>u</u>ră de siguranță
   ua: ремінь безпеки
   ru: ремень безопасности
-- ro: o bancet<u>ă</u>
+- ro: o banch<u>e</u>tă - două banchete
   ua: сидіння
   ru: сиденье
+- ro: bancheta din spate regl<u>a</u>bilă
+  ua: сидіння заднє регульоване
+  ru: сиденье заднее регулируемое
 - ro: un rezerv<u>o</u>r (de combustibil)
   ua: паливний бак
   ru: топливный бак
@@ -98,8 +104,8 @@
   ua: запасне колесо
   ru: запасное колесо
 - ro: o anvel<u>o</u>pă - două anvelope
-  ua: шина
-  ru: шина
+  ua: покришка, шина
+  ru: покрышка, шина
 - ro: o j<u>a</u>ntă - două jante
   ua: диск
   ru: диск
@@ -127,6 +133,9 @@
 - ro: o g<u>a</u>rdă la sol
   ua: дорожній просвіт
   ru: дорожный просвет
+- ro: un cal-putere - doi cai-putere
+  ua: кінська сила
+  ru: лошадиная сила
 - ro: ---
   ua: ---
   ru: ---
