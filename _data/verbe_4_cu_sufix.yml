@@ -535,7 +535,7 @@
 - key: # V
     name: V
     values:
-      - ro: "vopsi"
+      - ro: "vopsi, se vopsi"
         ua: "фарбувати(ся)"
         ru: "красить(ся)"
       - ro: "vorbi"
